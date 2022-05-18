@@ -1,0 +1,7447 @@
+abbrev=""
+campaign=""
+campaign_define=""
+campaign_extra_defines=""
+campaign_name=""
+campaign_type="multiplayer"
+difficulty="NORMAL"
+end_credits="yes"
+end_text=""
+end_text_duration="0"
+era_define=""
+label="2p — Caves of the Basilisk"
+mod_defines=""
+mp_game_title="Do you have what it takes to beat SV?"
+oos_debug="no"
+random_mode=""
+scenario_define=""
+version="1.14.13"
+[replay]
+
+	[upload_log]
+	[/upload_log]
+[/replay]
+[scenario]
+description="These caves were once the lair of Chak’kso Ney’yks, a legendary Elder Basilisk. The petrified forms of his victims remain as monuments to his savage power."
+experience_modifier="70"
+has_mod_events="yes"
+id="multiplayer_Basilisk"
+map_data="_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, Mm^Xm, Mm^Xm, Mm^Xm, Gs^Fp, Mm^Xm, Gs^Fp, Hh, Gs^Fms, Ww, Ww, Ww, Gs^Fp, Gs^Fms, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, Gs^Fp, Mm, Hh^Fms, Mm, Gs^Fp, Mm^Xm, Gs^Fms, Gg^Ve, Gg, Hh, Mm, Ww, Gs^Fp, Hh, Gs, Hh, Rr^Vd, Hh^Fms, Hh, Mm, Hh, Gs^Fp, Gg, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, Hh, Gg, Gs, Hh, Gs, Hh, Hh^Fds, Mm, Gg, Gg, Ch, Gg, Ch, 1 Kh, Ch, Gg, Ch, Gs, Gs, Hh^Uf, Gs, Gs, Gg, Gg, Mm, Wwf, Wwf, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, Wwf, Wwf, Gg, Gg, Gs, Gs, Gg, Gg^Ve, Gg, Gg, Gg, Gg, Kh, Ch, Gg, Wwf, Gg, Ch, Kh, Gg, Gg, Gs, Gg, Gs, Gg, Hh, Hh^Fms, Gs^Fds, Wwf, Xu, Xu, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, Xu, Xu, Wwf, Gg, Ss, Hh^Fms, Hh, Gg, Gg, Gg, Re, Gg, Re, Gg, Gg, Gg, Gg, Wwf, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs, Gs^Uf, Gg, Rr, Gg, Gg, Wwf, Xu, Xu, Xu, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Xu, Xu, Wwf, Wwf, Gg, Gg, Gs, Gs^Fp, Gg, Gg, Gg, Gg, Re, Re, Xu, Re, Re^Uf, Gg, Re, Wwf, Gg, Gs^Fms, Gg, Re, Re, Re, Xu, Gs, Gs, Chr, Rr^Vd, Rr, Re, Wwf, Wwf, Xu, Uh, Xu, Xu, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Xu, Xu, Wwf, Gg, Gs, Gs^Fp, Mm, Gs, Gg, Gg, Re, Re, Ww, Xu, Uh, Uu^Vud, Xu, Re, Wwf, Wwf, Re, Gg, Re, Re, Wwf, Xu, Xu, Uh, Gs, Rr, Rr, Hh^Fds, Gs, Re, Wwf, Xu, Wwf, Uu, Uu^Uf, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Xu, Wwf, Gs^Fp, Hh, Gs, Hh, Gs^Fp, Hh, Gg, Ss^Vhs, Re, Ww, Wo, Ww, Wwf, Wwf, Uh, Uu^Uf, Wwf, Ww, Ss^Vhs, Re, Xu, Wwf, Ur, Ur, Re, Gs^Fp, Gg, Gs, Gs, Gs, Gs, Re, Re^Uf, Wwf, Wwf, Uu, Xu, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Wwf, Wwf, Gs, Gg, Gs, Re^Uf, Gs, Gs, Gg, Re, Re, Ww, Ww, Ww, Xu, Uh, Xu, Ur, Ww, Ww, Ww, Xu, Ww, Uu^Vu, Ur, Re, Gg, Gg, Gg, Gg, Re^Uf, Gs, Gs^Fp, Gs, Re, Gs^Fp, Wwf, Xu, Xu, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Gs^Fms, Gs^Fp, Re^Uf, Re, Gg, Gs, Gs, Gs, Gg, Gg, Gg, Re, Wwf, Uh, Xu, Ur, Xu, Wwf, Ww, Wo, Uu, Uh, Uh, Xu, Xu, Re, Re, Gg, Hh, Hh, Mm, Hh^Uf, Hh, Gs, Gs, Re, Re, Wwf, Xu, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Mm, Hh, Re, Re, Gg, Gs, Hh, Gs, Ss, Gg, Hh, Re, Wwf, Xu, Xu, Ur, Wwf, Wwf, Ww, Uu^Uf, Ww, Ww, Wwf, Uu^Uf, Xu, Uh, Wwf, Re, Hh, Gs^Fms, Ss, Gs^Fp, Hh, Gs^Fms, Gs, Re, Re, Wwf, Wwf, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Wwf, Re^Uf, Re, Gg, Gg, Gs^Fp, Hh, Gs^Fms, Mm, Gs^Fp, Hh, Re, Re, Uh, Xu, Uu^Uf, Uh, Ww, Uu, Uu^Uf, Ww, Wwf, Xu, Ur, Xu, Xu, Wwf, Re, Gg, Gg, Gg, Gs, Gs, Gs, Gs, Gg, Gg, Re^Uf, Mm, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Xu, Wwf, Re, Gg, Gg, Gg, Gs^Fp, Hh^Uf, Re^Uf, Hh, Gs, Gg, Gg, Re, Ur, Xu, Ww, Uh, Ww, Wo, Ww, Wwf, Xu, Ur, Xu, Uh, Ww, Re, Re, Gg, Gg, Gg, Gg, Gs, Gg, Gg, Hh, Hh, Gs^Fp, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Xu, Wwf, Wwf, Gs^Fms, Gg^Uf, Gg, Gg, Gs, Gs, Gs, Gs, Gg, Re, Re, Ur, Uu^Vu, Xu, Xu, Ss^Vhs, Ww, Wwf, Ur, Uh, Uh, Wwf, Ww, Wo, Ww, Re, Re, Gg, Gg, Gs^Fms, Gs, Gs, Gg, Gg, Gs^Fp, Wwf, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Xu, Xu, Wwf, Re, Re, Gg, Gg, Gg, Rr, Gs, Gg, Gs^Fp, Xu, Ur, Wwf, Wwf, Re, Re, Re, Ww, Wwf, Uu^Uf, Xu, Wwf, Uh, Ww, Ww, Ww, Re, Ss^Vhs, Gg, Hh, Mm, Hh, Re^Uf, Gg, Gg, Wwf, Xu, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Uu^Uf, Uu, Wwf, Wwf, Wwf, Re, Gg, Hh^Fds, Rr^Vd, Rr, Gg, Uh, Xu, Xu, Re, Re, Gg, Gg, Gg, Wwf, Re, Re, Re^Uf, Uu^Vud, Xu, Xu, Re, Re, Gg, Gg, Gg, Gs, Gs, Gs^Fp, Gg, Gg, Wwf, Wwf, Xu, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, Xu, Wwf, Uh, Xu, Wwf, Re, Re, Rr, Rr, Chr, Gg^Uf, Gg, Gg, Re, Gg, Re, Gg, Gs^Fp, Gg, Wwf, Gg, Gg, Gg, Re, Re, Re, Re, Gg, Gg, Gg, Hh, Gs^Fp, Ss, Gg, Wwf, Wwf, Xu, Xu, Xu, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, Xu, Xu, Xu, Xu, Wwf, Gg, Gg, Hh^Fms, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Kh, Gg, Gg, Wwf, Gg, Gg, Kh, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gs, Hh^Fms, Gs, Gg, Wwf, Xu, Xu, Xu, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, Xu, Xu, Wwf, Wwf, Gs^Fds, Mm, Hh, Gs, Gg, Gs, Gs, Gg, Gg, Ch, Ch, Ch, Wwf, Ch, Ch, Ch, Gg, Gg, Gg, Hh^Fds, Gg^Ve, Gs, Gs, Gs, Gs, Gg, Wwf, Xu, Xu, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, Xu, Wwf, Gg, Gg, Gs^Fp, Gs, Gs, Hh, Hh^Uf, Rr^Vd, Gg, Gg, Hh, Mm, 2 Kh, Gs^Fp, Gg, Gg, Gg, Gs^Fp, Mm, Hh, Hh, Hh^Fms, Hh, Gs^Fms, Gg, Wwf, Wwf, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, Wwf, Gg, Gg, Gs, Gs^Fp, Mm, Hh^Fms, Mm^Xm, Hh, Gs^Fms, Gg^Fet, Hh, Ww, Hh, Hh, Gs^Fms, Gg^Ve, Hh, Hh, Mm^Xm, Mm, Mm, Hh, Hh^Fms, Mm, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, Mm, Hh, Mm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm, Mm^Xm, Ww, Ww, Mm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm, Mm^Xm, Mm, Hh, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, Mm^Xm, _off^_usr, Mm, _off^_usr, Gs^Fp, _off^_usr, Mm^Xm, _off^_usr, Ww, _off^_usr, Gs^Fp, _off^_usr, Hh, _off^_usr, Gs^Fp, _off^_usr, Mm^Xm, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+_off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr, _off^_usr
+"
+name="2p — Caves of the Basilisk"
+objectives="<big>Victory:</big>
+<span color='#00ff00'>• Defeat enemy leader(s)</span>"
+random_start_time="no"
+turns="-1"
+[time]
+
+		blue=0
+		green=-15
+		id="dawn"
+		image="misc/time-schedules/default/schedule-dawn.png"
+#textdomain wesnoth-help
+		name=_"Dawn"
+		red=-25
+		sound="ambient/morning.ogg"
+	[/time]
+[time]
+
+		id="morning"
+		image="misc/time-schedules/default/schedule-morning.png"
+		lawful_bonus=25
+		name=_"Morning"
+	[/time]
+[time]
+
+		id="afternoon"
+		image="misc/time-schedules/default/schedule-afternoon.png"
+		lawful_bonus=25
+		name=_"Afternoon"
+	[/time]
+[time]
+
+		blue=-35
+		green=-20
+		id="dusk"
+		image="misc/time-schedules/default/schedule-dusk.png"
+		name=_"Dusk"
+		red=10
+		sound="ambient/night.ogg"
+	[/time]
+[time]
+
+		blue=-13
+		green=-45
+		id="first_watch"
+		image="misc/time-schedules/default/schedule-firstwatch.png"
+		lawful_bonus=-25
+		name=_"First Watch"
+		red=-75
+	[/time]
+[time]
+
+		blue=-13
+		green=-45
+		id="second_watch"
+		image="misc/time-schedules/default/schedule-secondwatch.png"
+		lawful_bonus=-25
+		name=_"Second Watch"
+		red=-75
+	[/time]
+[music]
+
+		ms_before=12000
+		name="knolls.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="wanderer.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="battle.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="transience.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="the_king_is_dead.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="knalgan_theme.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="the_city_falls.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="nunc_dimittis.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="revelation.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="loyalists.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="breaking_the_chains.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="elvish-theme.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="legends_of_the_north.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="traveling_minstrels.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="underground.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="vengeful.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="frantic.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="the_dangerous_symphony.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="heroes_rite.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="suspense.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="the_deep_path.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="siege_of_laurelmor.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="casualties_of_war.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="silvan_sanctuary.ogg"
+	[/music]
+[music]
+
+		append=yes
+		ms_before=12000
+		name="battle-epic.ogg"
+	[/music]
+[event]
+
+		name="prestart"
+		[music]
+			ms_before=12000
+			name="knolls.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="wanderer.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="battle.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="transience.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="the_king_is_dead.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="knalgan_theme.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="the_city_falls.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="nunc_dimittis.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="revelation.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="loyalists.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="breaking_the_chains.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="elvish-theme.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="legends_of_the_north.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="traveling_minstrels.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="underground.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="vengeful.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="frantic.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="the_dangerous_symphony.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="heroes_rite.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="suspense.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="the_deep_path.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="siege_of_laurelmor.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="casualties_of_war.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="silvan_sanctuary.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="battle-epic.ogg"
+		[/music]
+	[/event]
+[event]
+
+		first_time_only=no
+		name="preload"
+		[set_variable]
+			name="pickadvance_contacts"
+			value="Contacts:
+* Source code, issue tracker: https://github.com/vgaming/pick_advance
+* BTC: 148AvMtozrKs3MzXCNMGNUTHLoqahw3fCo
+* vasya: my name on wesnoth :)
+* vn971 on IRC.freenode.net (I often visit #wesnoth-umc-dev)
+"
+		[/set_variable]
+		[lua]
+			code="-- json_format
+
+-- wesnoth.dofile(""~add-ons/pick_advance/lua/json_format.lua"")
+
+local next = next
+local print = print
+local tostring = tostring
+local type = type
+local gsub = string.gsub
+local table = table
+
+local delete_chars = string.char(00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15,
+	16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31) -- https://www.ietf.org/rfc/rfc4627.txt
+local delete_regexp = ""["" .. delete_chars .. ""]""
+
+-- escaping takes 3/4 of the time, but we can't avoid it...
+local function escape(str)
+	str = gsub(str, delete_regexp, """")
+	str = gsub(str, '\\', '\\\\')
+	return gsub(str, '""', '\\""')
+end
+
+local function print_table_key(obj, buffer)
+	local _type = type(obj)
+	if _type == ""string"" then
+		buffer[#buffer + 1] = escape(obj)
+	elseif _type == ""number"" then
+		buffer[#buffer + 1] = obj
+	elseif _type == ""boolean"" then
+		buffer[#buffer + 1] = tostring(obj)
+	else
+		buffer[#buffer + 1] = '???' .. _type .. '???'
+	end
+end
+
+local function format_any_value(obj, buffer)
+	local _type = type(obj)
+	if _type == ""table"" then
+		buffer[#buffer + 1] = '{'
+		buffer[#buffer + 1] = '""' -- needs to be separate for empty tables {}
+		for key, value in next, obj, nil do
+			print_table_key(key, buffer)
+			buffer[#buffer + 1] = '"":'
+			format_any_value(value, buffer)
+			buffer[#buffer + 1] = ',""'
+		end
+		buffer[#buffer] = '}' -- note the overwrite
+	elseif _type == ""string"" then
+		buffer[#buffer + 1] = '""' .. escape(obj) .. '""'
+	elseif _type == ""boolean"" or _type == ""number"" then
+		buffer[#buffer + 1] = tostring(obj)
+	elseif _type == ""userdata"" then
+		buffer[#buffer + 1] = '""' .. escape(tostring(obj)) .. '""'
+	else
+		buffer[#buffer + 1] = '""???' .. _type .. '???""'
+	end
+end
+
+local function _format_as_json(obj)
+	if obj == nil then return ""null"" else
+		local buffer = {}
+		format_any_value(obj, buffer)
+		return table.concat(buffer)
+	end
+end
+
+local function _print_as_json(...)
+	local result = {}
+	local n = 1
+	for _, v in ipairs({ ... }) do
+		result[n] = _format_as_json(v)
+		n = n + 1
+	end
+	print(table.concat(result, ""\t""))
+end
+
+
+format_as_json = _format_as_json
+print_as_json = _print_as_json
+
+-- "
+		[/lua]
+		[lua]
+			code="-- pickadvance_dialog
+
+pickadvance = {}
+local pickadvance = pickadvance
+local wesnoth = wesnoth
+local ipairs = ipairs
+local table = table
+local T = wesnoth.require(""lua/helper.lua"").set_wml_tag_metatable {}
+local translate = wesnoth.textdomain ""wesnoth""
+
+local function filter_false(arr)
+	local result = {}
+	for _, v in ipairs(arr) do
+		if v ~= false then
+			result[#result + 1] = v
+		end
+	end
+	return result
+end
+
+
+function pickadvance.show_dialog_unsynchronized(advance_info, unit)
+	local spacer = ""\n""
+	local label = ""Plan advance:""
+
+	local unit_type_options = advance_info.type_advances
+	--print_as_json(""advances for"", unit.type, unit_type_options)
+	local options = {}
+	for _, ut in ipairs(unit_type_options) do
+		options[#options + 1] = wesnoth.unit_types[ut]
+	end
+	local show_images = true
+
+	local unit_override_one = (advance_info.unit_override or {})[2] == nil
+		and (advance_info.unit_override or {})[1] or nil
+	local game_override_one = (advance_info.game_override or {})[2] == nil
+		and (advance_info.game_override or {})[1] or nil
+
+	local description_row = T.row {
+		T.column { T.label { use_markup = true, label = label } },
+	}
+
+	local list_sub_row
+	if show_images then
+		list_sub_row = T.row {
+			T.column { T.image { id = ""the_icon"" } },
+			T.column { grow_factor = 0, T.label { use_markup = true, id = ""the_label"" } },
+			T.column { grow_factor = 1, T.spacer {} },
+		}
+	else
+		list_sub_row = T.row {
+			T.column { horizontal_alignment = ""left"", T.label { use_markup = true, id = ""the_label"" } }
+		}
+	end
+
+	local toggle_panel = T.toggle_panel { return_value = -1, T.grid { list_sub_row } }
+
+	local list_definition = T.list_definition { T.row { T.column { horizontal_grow = true, toggle_panel } } }
+
+	local listbox = T.listbox { id = ""the_list"", list_definition, has_minimum = true }
+
+	local reset_button = T.button {
+		return_value = -3,
+		label = ""\n"" .. translate(""Reset"") .. ""\n""
+	}
+	local reset_column = (unit_override_one or game_override_one)
+		and T.column { horizontal_grow = true, reset_button }
+		or false
+
+	local help_button = T.button {
+		return_value = -4,
+		label = ""\n"" .. translate(""Help"") .. ""\n""
+	}
+
+	local reset_help_buttons = T.grid {
+		T.row(filter_false {
+			reset_column,
+			T.column { horizontal_grow = true, help_button }
+		})
+	}
+	local unit_button_label = unit.canrecruit and ""\nSave\n"" or ""\nSave for unit\n""
+	local unit_button = T.button { return_value = -1, label = unit_button_label }
+	local recruits_subbutton = T.button { return_value = 1, label = ""\nSave for this unit and new\n"" }
+	local recruits_button = not unit.canrecruit
+		and T.row { T.column { horizontal_grow = true, recruits_subbutton } }
+
+	local dialog = {
+		T.tooltip { id = ""tooltip_large"" },
+		T.helptip { id = ""tooltip_large"" },
+		T.grid(filter_false {
+			T.row { T.column { T.spacer { width = 250 } } },
+			description_row,
+			T.row { T.column { horizontal_grow = true, listbox } },
+			T.row { T.column { horizontal_grow = true, unit_button } },
+			recruits_button,
+			T.row { T.column { horizontal_grow = true, reset_help_buttons } },
+		})
+	}
+
+	local function preshow()
+		for i, advance_type in ipairs(options) do
+			local text = spacer .. advance_type.name
+			if advance_type.id == unit_override_one then
+				text = text .. "" &lt;-unit""
+			end
+			if advance_type.id == game_override_one then
+				text = text .. "" &lt;-recruits""
+			end
+			text = text .. ""  "" .. spacer
+			wesnoth.set_dialog_value(text, ""the_list"", i, ""the_label"")
+			local img = advance_type.__cfg.image
+			wesnoth.set_dialog_value(img or ""misc/blank-hex.png"", ""the_list"", i, ""the_icon"")
+		end
+
+		wesnoth.set_dialog_focus(""the_list"")
+
+		local function select()
+			local i = wesnoth.get_dialog_value ""the_list""
+			if i > 0 then
+				local img = options[i].__cfg.image
+				wesnoth.set_dialog_value(img or ""misc/blank-hex.png"", ""the_list"", i, ""the_icon"")
+			end
+		end
+		wesnoth.set_dialog_callback(select, ""the_list"")
+	end
+
+	local item_result
+	local function postshow()
+		item_result = wesnoth.get_dialog_value(""the_list"")
+	end
+
+	local dialog_exit_code = wesnoth.show_dialog(dialog, preshow, postshow)
+	local is_help = dialog_exit_code == -4
+	local is_reset = dialog_exit_code == -3
+	--local is_cancel = dialog_exit_code == -2
+	if is_help then
+		wesnoth.wml_actions.message {
+			speaker = ""narrator"",
+			message = ""<b>Save for unit</b> will make your unit always advance to said type. ""
+				.. ""Even if it's leveled during enemy-s turn.""
+				.. ""\n\n""
+				.. ""<b>Save for game</b> applies to all new recruits of same type in game.""
+				.. ""\n\n""
+				.. wesnoth.get_variable(""pickadvance_contacts""),
+			image = ""misc/qmark.png~SCALE(200,200)""
+		}
+	end
+	local is_ok = dialog_exit_code > -2 and item_result >= 1
+	--print(string.format(""Button %s pressed (%s). Item %s selected: %s"",
+	--	dialog_exit_code, is_ok and ""ok"" or ""not ok"", item_result, options[item_result].id))
+	local game_scope = dialog_exit_code == 1
+	return {
+		is_unit_override = is_reset or is_ok,
+		unit_override = is_ok and options[item_result].id
+			or is_reset and table.concat(unit_type_options, "",""),
+		is_game_override = is_reset or game_scope,
+		game_override = game_scope and options[item_result].id or nil,
+	}
+end
+
+-- "
+		[/lua]
+		[lua]
+			code="-- pick_advance/main.lua
+
+local pickadvance = pickadvance
+local ipairs = ipairs
+local string = string
+local table = table
+local wesnoth = wesnoth
+local wml = wml
+local on_event = wesnoth.require(""lua/on_event.lua"")
+local T = wesnoth.require(""lua/helper.lua"").set_wml_tag_metatable {}
+
+wesnoth.wml_actions.set_menu_item {
+	id = ""pickadvance"",
+	description = ""Pick Advance"",
+	T.show_if {
+		T.lua {
+			code = ""return pickadvance.menu_available()""
+		},
+	},
+	T.command {
+		T.lua {
+			code = ""pickadvance.pick_advance()""
+		}
+	}
+}
+
+local function clean_type_func(unit_type)
+	return string.gsub(unit_type, ""[^a-zA-Z0-9]"", ""_"")
+end
+
+local function split_comma_units(string_to_split)
+	local result = {}
+	local n = 1
+	for s in string.gmatch(string_to_split or """", ""[^,]+"") do
+		if s ~= """" and s ~= ""null"" and wesnoth.unit_types[s] then
+			result[n] = s
+			n = n + 1
+		end
+	end
+	return result
+end
+
+
+local function original_advances(unit)
+	local clean_type = clean_type_func(unit.type)
+	local variable = unit.variables[""pickadvance_orig_"" .. clean_type] or """"
+	return split_comma_units(variable), clean_type_func(variable)
+end
+
+local function set_advances(unit, array)
+	wesnoth.add_modification(unit, ""object"", {
+		id = ""pickadvance"",
+		take_only_once = false,
+		T.effect {
+			apply_to = ""new_advancement"",
+			replace = true,
+			types = table.concat(array, "","")
+		}
+	})
+end
+
+
+local function array_to_set(arr)
+	local result = {}
+	for _, v in ipairs(arr) do
+		result[v] = true
+	end
+	return result
+end
+
+local function array_filter(arr, func)
+	local result = {}
+	for _, v in ipairs(arr) do
+		if func(v) then
+			result[#result + 1] = v
+		end
+	end
+	return result
+end
+
+--- works as anti-cheat and fixes tricky bugs in [male]/[female]/undead variation overrides
+local function filter_overrides(unit, overrides)
+	local possible_advances_array = original_advances(unit)
+	local possible_advances = array_to_set(possible_advances_array)
+	local filtered = array_filter(overrides, function(e) return possible_advances[e] end)
+	return #filtered > 0 and filtered or possible_advances_array
+end
+
+
+local function get_advance_info(unit)
+	local type_advances, orig_options_sanitized = original_advances(unit)
+	local game_override_key = ""pickadvance_side"" .. unit.side .. ""_"" .. orig_options_sanitized
+	local game_override = wesnoth.get_variable(game_override_key)
+	local function correct(override)
+		return override and #override > 0 and #override < #type_advances and override or nil
+	end
+
+	return {
+		type_advances = type_advances,
+		unit_override = correct(unit.advances_to),
+		game_override = correct(split_comma_units(game_override)),
+	}
+end
+
+
+function pickadvance.menu_available()
+	local unit = wesnoth.get_unit(wml.variables.x1, wml.variables.y1)
+	return unit and
+		#unit.advances_to > 0
+		and wesnoth.sides[unit.side].is_local and wesnoth.sides[unit.side].controller == ""human""
+		and (#original_advances(unit) > 1 or #unit.advances_to > 1)
+end
+
+
+local function initialize_unit(unit)
+	local clean_type = clean_type_func(unit.type)
+	if unit.variables[""pickadvance_orig_"" .. clean_type] == nil then
+		wesnoth.wml_actions.remove_object {
+			object_id = ""pickadvance"",
+			id = unit.id
+		}
+		unit.variables[""pickadvance_orig_"" .. clean_type] = table.concat(unit.advances_to, "","")
+		local advance_info = get_advance_info(unit)
+		local desired = advance_info.game_override or unit.advances_to
+		desired = filter_overrides(unit, desired)
+		set_advances(unit, desired)
+		-- print_as_json(""initialized unit"", unit.id, unit.advances_to)
+	end
+end
+
+
+function pickadvance.pick_advance(unit)
+	unit = unit or wesnoth.get_unit(wml.variables.x1, wml.variables.y1)
+	initialize_unit(unit)
+	local _, orig_options_sanitized = original_advances(unit)
+	local dialog_result = wesnoth.synchronize_choice(function()
+		local local_result = pickadvance.show_dialog_unsynchronized(get_advance_info(unit), unit)
+		-- print_as_json(""locally chosen advance for unit"", unit.id, local_result)
+		return local_result
+	end, function() return { is_ai = true } end)
+	if dialog_result.is_ai then
+		return
+	end
+	-- print_as_json(""applying manual choice for"", unit.id, dialog_result)
+	dialog_result.unit_override = split_comma_units(dialog_result.unit_override)
+	dialog_result.game_override = split_comma_units(dialog_result.game_override)
+	dialog_result.unit_override = filter_overrides(unit, dialog_result.unit_override)
+	dialog_result.game_override = filter_overrides(unit, dialog_result.game_override)
+	if dialog_result.is_unit_override then
+		set_advances(unit, dialog_result.unit_override)
+	end
+	if dialog_result.is_game_override then
+		local key = ""pickadvance_side"" .. unit.side .. ""_"" .. orig_options_sanitized
+		wesnoth.set_variable(key, table.concat(dialog_result.game_override, "",""))
+	end
+end
+
+
+local known_units = {}
+local function make_unit_known(unit)  -- can be both unit or unit type
+	local type = unit.type or unit.id
+	if known_units[type] then return end
+	print_as_json(""making unit known"", unit)
+	known_units[type] = true
+	wesnoth.add_known_unit(type)
+	for _, advance in ipairs(unit.advances_to) do
+		print_as_json(""going into advance"", advance)
+		make_unit_known(wesnoth.unit_types[advance])
+	end
+end
+
+local function initialize_unit_x1y1(ctx)
+	local unit = wesnoth.get_unit(ctx.x1, ctx.y1)
+	if not wesnoth.sides[unit.side].__cfg.allow_player then return end
+	initialize_unit(unit)
+	make_unit_known(unit)
+	if #unit.advances_to > 1 and wml.variables.pickadvance_force_choice and unit.side == wesnoth.current.side then
+		pickadvance.pick_advance(unit)
+	end
+end
+
+local function humans_can_recruit()
+	for _, side in ipairs(wesnoth.sides) do
+		if #side.recruit ~= 0 and side.__cfg.allow_player then
+			return true
+		end
+	end
+end
+local function map_has_keeps()
+	local width,height,_ = wesnoth.get_map_size()
+	for x = 1, width do
+		for y = 1, height do
+			local terr = wesnoth.get_terrain(x, y)
+			local info = wesnoth.get_terrain_info(terr)
+			if info.keep then
+				return true
+			end
+		end
+	end
+end
+on_event(""start"", -91, function()
+	local map_has_recruits = humans_can_recruit() and map_has_keeps()
+	wml.variables.pickadvance_force_choice = wml.variables.pickadvance_force_choice
+		or not map_has_recruits
+end)
+
+local fresh_turn = false
+on_event(""turn refresh"", -91, function()
+	fresh_turn = true
+end)
+on_event(""moveto"", -91, function()
+	if fresh_turn then
+		fresh_turn = false
+		if not wesnoth.sides[wesnoth.current.side].__cfg.allow_player then return end
+		for _, unit in ipairs(wesnoth.get_units { side = wesnoth.current.side }) do
+			if #unit.advances_to > 1 and wml.variables.pickadvance_force_choice and wesnoth.current.turn > 1 then
+				pickadvance.pick_advance(unit)
+				if #unit.advances_to > 1 then
+					local len = #unit.advances_to
+					local rand = wesnoth.random(len)
+					unit.advances_to = { unit.advances_to[rand] }
+				end
+			else
+				initialize_unit(unit)
+			end
+		end
+	end
+end)
+
+on_event(""recruit"", -91, initialize_unit_x1y1)
+on_event(""post advance"", -91, initialize_unit_x1y1)
+
+
+-- "
+		[/lua]
+	[/event]
+[event]
+
+		name="preload"
+		[lua]
+			code="-- advertisement
+
+local wesnoth = wesnoth
+local string = string
+local tostring = tostring
+local wml = wml
+local on_event = wesnoth.require(""lua/on_event.lua"")
+
+local addon_name = tostring((...).name)
+local addon_dir = tostring((...).dir)
+local addon_about = tostring((...).about)
+local addon_icon = tostring((...).icon)
+
+local function show_message(text)
+	wesnoth.wml_actions.message {
+		caption = addon_name,
+		message = text,
+		image = string.gsub(addon_icon, ""\n"", """") .. ""~SCALE_INTO(144,144)"",
+	}
+end
+
+local filename = ""~add-ons/"" .. addon_dir .. ""/target/version.txt""
+local my_version = wesnoth.have_file(filename) and wesnoth.read_file(filename) or ""0.0.0""
+
+local highest_ver_key = ""addon_"" .. addon_dir .. ""_highest""
+wml.variables[highest_ver_key] = my_version
+
+on_event(""side turn 1"", function()
+	local side_version = wesnoth.synchronize_choice(function() return { v = my_version } end).v
+	if rawget(_G, ""print_as_json"") then _G.print_as_json(""addon"", addon_name, wesnoth.current.side, side_version) end
+
+	if wesnoth.compare_versions(side_version, "">"", wml.variables[highest_ver_key]) then
+		wml.variables[highest_ver_key] = side_version
+	end
+end)
+
+if my_version == ""0.0.0"" then
+	local text = ""This game uses "" .. addon_name .. "" add-on. ""
+		.. ""\n""
+		.. ""If you'll like it, feel free to install it from add-ons server.""
+		.. ""\n\n""
+		.. ""======================\n\n""
+		.. addon_about
+	show_message(text)
+	return
+end
+
+on_event(""turn 2"", function()
+	if my_version == wml.variables[highest_ver_key] then
+		return
+	end
+
+	local advertisement = ""🠉🠉🠉 Please upgrade your "" .. addon_name .. "" add-on 🠉🠉🠉""
+		.. ""\n""
+		.. my_version .. "" -> "" .. wml.variables[highest_ver_key]
+		.. ""  (you may do that after the game)\n\n""
+	show_message(advertisement)
+end)
+
+
+-- "
+			[args]
+				about="In multiplayer game, you do not control unit advances if they happen on enemy turn.
+With this add-on, you can set them beforehand:
+
+* for one exact unit
+* for all new recruits
+"
+				dir="pick_advance"
+				icon="misc/blank-hex.png~BLIT(lobby/status-lobby-s.png~SCALE(36,36),0,36)~BLIT(units/elves-wood/avenger.png~CROP(20,12,47,47)~SCALE(36,36),36,0)~BLIT(units/elves-wood/marksman.png~CROP(16,12,47,47)~SCALE(36,36),36,36)
+"
+				name="Plan Unit Advance"
+			[/args]
+		[/lua]
+	[/event]
+[event]
+
+		name="prestart"
+		[lua]
+			code=" wesnoth.require(""multiplayer/eras.lua"").quick_4mp_leaders(...) "
+			[args]
+				[trait]
+					female_name=_"female^quick"
+					help_text=_"<italic>text='Quick'</italic> units have 1 extra movement point, but 5% less hitpoints than usual." +
+						_"
+
+Quick is the most noticeable trait, particularly in slower moving units such as trolls or heavy infantry. Units with the quick trait often have greatly increased mobility in rough terrain, which can be important to consider when deploying your forces. Also, quick units aren’t quite as tough as units without this trait and are subsequently less good at holding contested positions."
+					id="quick"
+					male_name=_"quick"
+					[effect]
+						apply_to="movement"
+						increase=1
+					[/effect]
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-5%"
+					[/effect]
+				[/trait]
+			[/args]
+		[/lua]
+	[/event]
+[event]
+
+		name="time over"
+		[lua]
+			code=" wesnoth.require(""multiplayer/eras.lua"").turns_over_advantage() "
+		[/lua]
+	[/event]
+[side]
+allow_changes="yes"
+canrecruit="yes"
+chose_random="yes"
+color="red"
+controller="human"
+current_player="Estrada"
+faction="Northerners"
+faction_name="Northerners"
+fog="yes"
+gender="male"
+gold="100"
+income="0"
+is_host="yes"
+is_local="no"
+leader="Orcish Warrior,Troll,Troll Rocklobber,Orcish Crossbowman,Orcish Slayer"
+name="Estrada"
+player_id="Estrada"
+recruit="Orcish Grunt,Troll Whelp,Wolf Rider,Orcish Archer,Orcish Assassin,Naga Fighter,Goblin Spearman"
+shroud="no"
+side="1"
+team_name="north"
+terrain_liked="Hh,Ha,Mm,Ss"
+type="Troll"
+user_team_name="wesnoth-multiplayerteamname^North"
+village_gold="2"
+village_support="1"
+[ai]
+
+			villages_per_scout=8
+		[/ai]
+[default_faction]
+
+		[/default_faction]
+[ai]
+recruitment_pattern="fighter,fighter,fighter,mixed fighter,archer,scout"
+[/ai]
+[/side]
+[side]
+allow_changes="yes"
+canrecruit="yes"
+chose_random="yes"
+color="blue"
+controller="human"
+current_player="JeandeMetz"
+faction="Undead"
+faction_name="Undead"
+fog="yes"
+gender="male"
+gold="100"
+income="0"
+is_host="no"
+is_local="no"
+leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter,Necrophage"
+name="JeandeMetz"
+player_id="JeandeMetz"
+random_leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter"
+recruit="Skeleton,Skeleton Archer,Walking Corpse,Ghost,Vampire Bat,Dark Adept,Ghoul"
+shroud="no"
+side="2"
+team_name="south"
+terrain_liked="Ss,Hh,Ha,Ww"
+type="Bone Shooter"
+user_team_name="wesnoth-multiplayerteamname^South"
+village_gold="2"
+village_support="1"
+[ai]
+
+			villages_per_scout=8
+		[/ai]
+[village]
+
+			x=16
+			y=21
+		[/village]
+[default_faction]
+
+		[/default_faction]
+[ai]
+recruitment_pattern="fighter,fighter,archer,fighter,scout,archer"
+[/ai]
+[/side]
+[side]
+
+		allow_changes=no
+		allow_player=no
+		canrecruit=no
+		chose_random=no
+		color="black"
+		controller="null"
+		controller_lock=yes
+		disallow_observers=yes
+		faction="Custom"
+		faction_lock=yes
+#textdomain wesnoth
+		faction_name=_"Custom"
+		fog=yes
+		gender="null"
+		gold=100
+		gold_lock=yes
+		hidden=yes
+		income=0
+		income_lock=yes
+		is_host=no
+		is_local=no
+		leader_lock=yes
+		no_leader=yes
+		shroud=no
+		side=3
+		team_lock=yes
+		team_name="statues"
+		type="null"
+		user_team_name="wesnoth-multiplayerteamname^Statues"
+		village_gold=2
+		village_support=1
+		[unit]
+#textdomain wesnoth-multiplayer
+			description=_"The winds of the dark sky blew so cold,
+The moon was high, the night was old,
+Brave was the drake that dared forsake
+His home to steal the Basilisk’s gold.
+
+On that dark night, the skies so churned,
+He disregarded what he had learned,
+Foolish but brave, to the Basilisk’s cave,
+He flew, and the fire within him burned.
+
+Alas, that fire burns no more,
+For the Basilisk, with one mighty roar,
+Chilled him to the bone, and he turned to stone,
+And so he stays forevermore.
+
+The winds of the sky blow so cold,
+The years pass by, the days are old,
+Here stands that drake, who dared forsake
+His home to steal the Basilisk’s gold.
+(inscribed by Flametrooper)"
+			name=""
+			random_traits=no
+			type="Sky Drake"
+			unrenamable=yes
+			x=27
+			y=14
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Xikkrisx of Syrsszk was a powerful Saurian warrior, sent to this region by the Elders of the Rysssrylosszkk Clan (translation: “The Hunts-Foes-In-Boiling-Rivers Clan”). The Elders were preparing to make war on a human outpost, and were in great need of the powerful magics of Oxsrrsk, a Saurian Mystic who had last been seen heading in the direction of Ruaskkolin Lake. Xikkrisx found the petrified body of Oxsrrsk, along with a carefully bound scroll that had apparently been dropped into a small crevice in the cave floor. He opened the scroll and read a brief passage from the middle of the text: “After he was bound and cast from the Upper World, Chak’kso’s enraged spirit sought release, and was able to exert a corrupting influence on certain regions of the Upper World, channeled through ‘pathways of stone’ that extend from the surface into the depths of the Under Reaches. This rage altered the eggs of great lizards, shaping their bodies and spirits into implements of Chak’kso’s hatred.” Confused, Xikkrisx fixed his attention on the task at hand. Thinking that perhaps the Elders could find some way to restore Oxsrrsk, he began the long and strenuous task of hauling the statue back to the domain of the Rysssrylosszkk Clan. Exhausted, and not having traveled far from the lake, Xikkrisx set the statue down inside of a small cave, and lay down to rest. He was awoken by a bone-chilling roar."
+			facing="sw"
+			name=_"Xikkrisx"
+			random_traits=no
+			type="Saurian Flanker"
+			unrenamable=yes
+			x=40
+			y=8
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Oxsrrsk was a powerful Saurian Oracle, who had, in a raid against the rival Xraxss Clan, acquired (from the vaults of the now-dead Oracle Hesx-Rzzak) a most fascinating scroll. The scroll was entitled “Ney’yks of the Granite Gaze,” and told of a creature known as the “Chak’kso Ney’yks,” a name which, in an ancient saurian tongue, meant “Eldest Child of Chak’kso.” Chak’kso was believed to have been a powerful demigod of the Under Reaches, described as a ‘great demon of the earth’ in the Elvish Histories. According to these histories, Chak’kso had once sought to transform all life on the planet to stone; so great was his hatred for creatures of flesh. He was ultimately defeated and bound by powerful magics, but in the centuries following his banishment (to a realm far below the surface of the world) a new breed of creature began appearing in the Histories, a breed with the ability to turn any being of flesh into stone. There was a period when these Basilisks (as they came to be known) wreaked havoc on the world of the living, turning thousands to stone. One by one, and at great cost, the Basilisks were defeated. All, it would seem, but one; the Basilisk known as “The Ney’yks,” or “The Eldest Child,” in the modern tongue. Supremely convinced of his ability to locate and bind this powerful creature into his service, Oxsrrsk set out on his journey..."
+			facing="sw"
+			name=_"Oxsrrsk"
+			random_traits=no
+			type="Saurian Oracle"
+			unrenamable=yes
+			x=39
+			y=8
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Slim of Stature, dexterous Hands
+— Seven Stones and Eleven
+Left his Foes so slim a Chance
+— Seven Stones and Eleven
+Marksman known as Dragonbane
+’mongst the Statues here was slain
+— Seven Stones — and the Elven
+(inscribed by Gauteamus)"
+			name=""
+			random_traits=no
+			type="Elvish Marksman"
+			unrenamable=yes
+			x=2
+			y=11
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Blum Duk was renowned among his goblin clan for having tamed one of the Dire Wolves of the mountains, and he had the courage to match. His leadership and skills alone were what kept the area’s goblins alive despite human and elvish menaces. Rumor had it that his wolf had slain fifty men and a hundred Elves.
+
+Thus, when he heard of the awful monster that was inhabiting the area, it was only natural that he ride out alone to face it. All the other goblins expected him to slay the creature easily and drag back its carcass to feast on.
+
+He was in for quite a shock. As soon as he saw the Basilisk, Blum Duk cowered in fright. He tried to wheel his wolf around to run away, but it wouldn’t move. As the creature stalked towards him, he screamed his last words: Good Gog, dog, are yer legs made of stone?!
+(inscribed by Elvish Pillager)"
+			name=_"Blum Duk"
+			random_traits=no
+			type="Direwolf Rider"
+			unrenamable=yes
+			x=8
+			y=18
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Rah Ihn Mar, Champion of the Burning Hills, made his way to the Ruaskkolin Lake region in pursuit of the Elvish Hero Terowydlithrol, known among Elves as ‘The Dragonbane’. It was said that Terowydlithrol had killed a Dragon of Fire that threatened an Elvish village, and initiated a ‘counterattack’ in which some 37 Drakes, camping in a nearby ravine and believed to be in allegiance with the Dragon, were slaughtered. Knowing that these Drakes were innocent, Rah Ihn Mar came to Ruaskkolin Lake to hunt down and slay Terowydlithrol, who had been seen entering the region but a day ago. Burning for vengeance, Rah Ihn Mar began the hunt..."
+			name=_"Rah Ihn Mar"
+			random_traits=no
+			type="Armageddon Drake"
+			unrenamable=yes
+			x=8
+			y=13
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"He had lived there for ages upon ages, in the depths of the water, preying upon the various fish and frogs and merfolk that entered his domain. It was his lake, no other’s, and though it was not large, he was its master. Then, the Basilisk came, and looked into the Serpent’s eyes. And the Serpent had not died, but it was no longer alive. Thus the new lord of the lake had arrived.
+(inscribed by Turin)"
+			facing="sw"
+			name=_"Turin's Monster of the Lake"
+			random_traits=no
+			type="Sea Serpent"
+			unrenamable=yes
+			x=22
+			y=12
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"It would seem that no one knows the tale of this brave spider.
+(inscribed by WinnerA)"
+			facing="sw"
+			name=_"The Spider"
+			random_traits=no
+			type="Giant Spider"
+			unrenamable=yes
+			x=37
+			y=17
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"The tale of this unlucky highwayman is yet to be told.
+(inscribed by WinnerB)"
+			facing="sw"
+			name=""
+			random_traits=no
+			type="Highwayman"
+			unrenamable=yes
+			x=5
+			y=8
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"A brave hero of Wesnoth’s Golden Age, this great rider and commander of men came to this evil place while on a raid against the orcs. Caught unaware by the foul creatures, many of his fellows were killed, but he fought valiantly, slaying many a foe. But alas! The foul Basilisk turned him to stone even as he slew the last orc. Now all that is left is a stark reminder of his once great bearing and strength.
+(inscribed by Fynmiir)"
+			facing="sw"
+			name=""
+			random_traits=no
+			type="Grand Knight"
+			unrenamable=yes
+			x=25
+			y=14
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Bramwythl the Wose was always considered a slow, taciturn fellow, even by other woses. More than any other wose, he enjoyed simply standing alone in the sun, arms upraised, admiring the beauty of the empty sky. Once, even, he confided in a fellow that his greatest wish was to be able to bask forever in the sun’s glory.
+
+However, not long after, the local wose community heard of the approach of a horrible monster, powerful enough to easily destroy the few woses that lived in the area. They quickly moved off (quickly for woses, anyway), but Bramwythl was left behind — in their haste, no one had remembered to find him and tell him of the danger.
+
+He was taken quite unawares by the Basilisk, and turned to stone before he even recognized the beast. His petrified form still stands there today, warmed by the sun’s rays, under an open sky. His greatest wish has been granted.
+(inscribed by Elvish Pillager)"
+			name=_"Bramwythl"
+			random_traits=no
+			type="Elder Wose"
+			unrenamable=yes
+			x=34
+			y=6
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"General Talael Ryndoc came to this place to fight a duel with the Grand Marshal Aethec Corryn, but the two men never found one another."
+			facing="sw"
+			name=_"Talael Ryndoc"
+			random_traits=no
+			type="Iron Mauler"
+			unrenamable=yes
+			x=34
+			y=11
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"The last words spoken by Grand Marshal Aethec Corryn: “Talael Ryndoc! I am through searching for you! I shall make my way back to Haldric’s Hall, and inform the court that you were too much of a coward to attend our duel! Your disgrace shall be more agonizing than the death I’d have given you!”
+
+Perhaps he should not have shouted quite so loudly..."
+			facing="sw"
+			name=_"Aethec Corryn"
+			random_traits=no
+			type="Grand Marshal"
+			unrenamable=yes
+			x=15
+			y=11
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"This brave warrior, known as Rilhon among the Naga, heard tell of a fabulous treasure that had been lost in these watery caves— a spear whose head was said to have been fashioned from the tooth of Chak’kso Ney’yks, an Elder Basilisk slain long ago by the Elvish hero, Eloralduil. According to the legend, the weapon rested somewhere on the bottom of this very lake (Ruaskkolin Lake, named for a well-known Sea Serpent who made it his home). Having prepared himself for battle with the Serpent, Rilhon met with two rather large surprises. The first was the petrified form of Ruaskkolin the Serpent. The second was the very-much-alive Chak’kso Ney’yks, who was, oddly enough, in possession of all of his teeth.
+(inscribed by Paterson)"
+			name=_"Rilhon"
+			random_traits=no
+			type="Naga Myrmidon"
+			unrenamable=yes
+			x=20
+			y=12
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Through waves and rocky channels
+blue and white
+she pulled and pushed the tides
+and taught the fishes how to speak to planets
+silver green
+with magic
+running from her spirit into skins of kelp and shells of snails
+a twisting of her tail and hands
+she sent her songs to run on pin-tipped legs about the sands
+and now
+and now the strangest pause
+for years and years
+she hasn’t moved her eyes
+
+(inscribed by MJQ)"
+			facing="sw"
+			name=""
+			random_traits=no
+			type="Mermaid Siren"
+			unrenamable=yes
+			x=17
+			y=11
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+					[effect]
+						apply_to="ellipse"
+						ellipse="none"
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[default_faction]
+		[/default_faction]
+	[/side]
+[/scenario]
+[carryover_sides_start]
+
+	next_scenario="multiplayer_Basilisk"
+	random_calls=0
+	random_seed="361296c3"
+	[variables]
+		pickadvance_force_choice=no
+	[/variables]
+[/carryover_sides_start]
+[multiplayer]
+
+	active_mods="plan_unit_advance"
+	difficulty_define="NORMAL"
+	experience_modifier=70
+	hash="GsyAcXL2L-s2nnz<cltzrnXJ8OsqIu7B<AYC>W1<mT2uJeuY-kXxc4ufJ2HHpwoiZ4XR1NQ<HGzCG4Y-MMeDJG,C+JtF0.AxJ-dEeF1T5v66-E7HSyuupt3Bw<w6doaw"
+	mp_campaign=""
+	mp_campaign_name=""
+	mp_countdown=yes
+	mp_countdown_action_bonus=0
+	mp_countdown_init_time=240
+	mp_countdown_reservoir_time=240
+	mp_countdown_turn_bonus=240
+	mp_era="era_default"
+	mp_era_name="Default"
+	mp_fog=yes
+	mp_num_turns=-1
+	mp_random_start_time=no
+	mp_scenario="multiplayer_Basilisk"
+	mp_scenario_name=_"2p — Caves of the Basilisk"
+	mp_shroud=no
+	mp_use_map_settings=yes
+	mp_village_gold=2
+	mp_village_support=1
+	observer=yes
+	private_replay=no
+	random_faction_mode="No Mirror"
+	registered_users_only=no
+	savegame=no
+	scenario="Do you have what it takes to beat SV?"
+	shuffle_sides=yes
+	side_users=""
+	[options]
+		[modification]
+			id="plan_unit_advance"
+			[option]
+				id="pickadvance_force_choice"
+				value=no
+			[/option]
+		[/modification]
+	[/options]
+[/multiplayer]
+[era]
+
+	description=_"The standard era for Wesnoth multiplayer. Consists of six factions and is generally balanced."
+	id="era_default"
+	name=_"Default"
+	type="hybrid"
+	[multiplayer_side]
+		id="Custom"
+		image="units/unknown-unit.png"
+#textdomain wesnoth
+		name=_"Custom"
+	[/multiplayer_side]
+	[multiplayer_side]
+		id="Random"
+		image="units/random-dice.png"
+#textdomain wesnoth-multiplayer
+		name=_"Random"
+		random_faction=yes
+	[/multiplayer_side]
+	[multiplayer_side]
+		description="<img>src='portraits/humans/grand-knight.png~BG()' align='middle'</img>
+
+" +
+			_"The <bold>text='Loyalists'</bold> are a faction of <ref>text='Humans' dst='..race_human'</ref> who are loyal to the throne of Wesnoth. Humans are a versatile race who specialize in many different areas. Similarly, the Loyalist faction is a very versatile melee-oriented faction with important ranged support from bowmen and mages."
+		id="Loyalists"
+		image="units/human-loyalists/lieutenant.png"
+		leader="Lieutenant,Swordsman,Pikeman,Javelineer,Shock Trooper,Longbowman,White Mage,Red Mage"
+		name=_"Loyalists"
+		random_leader="Lieutenant,Swordsman,Pikeman,Javelineer,Longbowman,White Mage,Red Mage"
+		recruit="Cavalryman,Horseman,Spearman,Fencer,Heavy Infantryman,Bowman,Mage,Merman Fighter"
+		terrain_liked="Gg,Ww,Wo"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,archer,mixed fighter,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		description="<img>src='portraits/elves/druid.png~BG()' align='middle'</img>
+
+" +
+			_"The <bold>text='Rebels'</bold> are a faction of <ref>text='Elves' dst='..race_elf'</ref> and their various forest-dwelling allies. They get their human name, Rebels, from the time of Heir to the Throne, when they started the rebellion against the evil Queen Asheviere. Elves are a magical race that are masters of the bow and are capable of living many years longer than humans. In harmony with nature, the elves find allies with the <ref>text='human' dst='..race_human'</ref> mages, certain <ref>text='merfolk' dst='..race_merman'</ref>, and tree creatures called <ref>text='Woses' dst='..race_wose'</ref>. Rebels are best played taking advantage of their high forest defense, mastery of ranged attacks, and the elves’ neutral alignment."
+		id="Rebels"
+		image="units/elves-wood/captain.png"
+		leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage,Elder Wose"
+		name=_"Rebels"
+		random_leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage"
+		recruit="Elvish Fighter,Elvish Archer,Mage,Elvish Shaman,Elvish Scout,Wose,Merman Hunter"
+		terrain_liked="Ff,Fa,Ss,Ww"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,archer,mixed fighter,healer,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		description="<img>src='portraits/orcs/warlord.png~BG()' align='middle'</img>
+
+" +
+			_"The <bold>text='Northerners'</bold> are a faction of <ref>text='Orcs' dst='..race_orc'</ref> and their allies who live in the north of the Great Continent, thus their name. Northerners consist of the warrior orcs race, the enslaved <ref>text='goblins' dst='..race_goblin'</ref>, <ref>text='trolls' dst='..race_troll'</ref> who are tricked into combat by the orcs, and the serpentine <ref>text='naga' dst='..race_naga'</ref>. The Northerners play best by taking advantage of having many low-cost and high HP soldiers."
+		id="Northerners"
+		image="units/orcs/warrior.png"
+		leader="Orcish Warrior,Troll,Troll Rocklobber,Orcish Crossbowman,Orcish Slayer"
+		name=_"Northerners"
+		recruit="Orcish Grunt,Troll Whelp,Wolf Rider,Orcish Archer,Orcish Assassin,Naga Fighter,Goblin Spearman"
+		terrain_liked="Hh,Ha,Mm,Ss"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,mixed fighter,archer,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		description="<img>src='portraits/undead/spectre.png~BG()' align='middle'</img>
+
+" +
+			_"The <bold>text='Undead'</bold> are a faction of <ref>text='undead' dst='..race_undead'</ref> creatures and <ref>text='human' dst='..race_human'</ref> practitioners of dark arts that usually accompany them. Often, these “Dark Adepts” are the units that do the most damage for the faction, but they have a major vulnerability — their practicing of this forbidden, evil magic has consumed all their energy and so they have no melee attack at all. The Undead are a very aggressive faction and the most powerful <ref>text='Default Era' dst='..era_era_default'</ref> faction at nighttime."
+		id="Undead"
+		image="units/undead-necromancers/dark-sorcerer.png"
+		leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter,Necrophage"
+		name=_"Undead"
+		random_leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter"
+		recruit="Skeleton,Skeleton Archer,Walking Corpse,Ghost,Vampire Bat,Dark Adept,Ghoul"
+		terrain_liked="Ss,Hh,Ha,Ww"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,fighter,scout,archer"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		description="<img>src='portraits/dwarves/ulfserker.png~BG()' align='middle'</img>
+
+" +
+			_"The <bold>text='Knalgan Alliance'</bold> is a faction of <ref>text='Dwarves' dst='..race_dwarf'</ref> and their outlaw <ref>text='Human' dst='..race_human'</ref> allies. Dwarves are an old race who live underground and have tough, but short, warriors. The outlaws are humans who are not socially acceptable among others of their race, but have become allies of the dwarves due to common enemies. This leads to a combination of tough and defensive dwarves who are only good on certain terrain and humans who can cover ground that dwarves are not good at fighting in."
+		id="Knalgan Alliance"
+		image="units/dwarves/steelclad.png"
+		leader="Dwarvish Steelclad,Dwarvish Thunderguard,Dwarvish Stalwart,Rogue,Trapper"
+		name=_"Knalgan Alliance"
+		recruit="Dwarvish Guardsman,Dwarvish Fighter,Dwarvish Ulfserker,Dwarvish Thunderer,Thief,Poacher,Footpad,Gryphon Rider"
+		terrain_liked="Hh,Ha,Mm"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,mixed fighter,archer,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		description="<img>src='portraits/drakes/inferno.png~BG()' align='middle'</img>
+
+" +
+			_"The <bold>text='Drakes'</bold> are a faction of dragon-like <ref>text='Drakes' dst='..race_drake'</ref> and their lizard <ref>text='Saurian' dst='..race_lizard'</ref> allies. Drakes are descendants of dragons, but smaller in size. Saurians are considerably smaller than Drakes and from different ancestry. Together, the Drake faction has high mobility but low defense, leading to unusual tactics for a <ref>text='Default Era' dst='..era_era_default'</ref> faction."
+		id="Drakes"
+		image="units/drakes/flare.png"
+		leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior,Saurian Oracle,Saurian Soothsayer"
+		name=_"Drakes"
+		random_leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior"
+		recruit="Drake Burner,Drake Clasher,Drake Glider,Drake Fighter,Saurian Skirmisher,Saurian Augur"
+		terrain_liked="Hh,Ha,Ds,Ss"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,healer,scout,scout"
+		[/ai]
+	[/multiplayer_side]
+	[event]
+		name="prestart"
+		[lua]
+			code=" wesnoth.require(""multiplayer/eras.lua"").quick_4mp_leaders(...) "
+			[args]
+				[trait]
+#textdomain wesnoth-help
+					female_name=_"female^quick"
+					help_text=_"<italic>text='Quick'</italic> units have 1 extra movement point, but 5% less hitpoints than usual." +
+						_"
+
+Quick is the most noticeable trait, particularly in slower moving units such as trolls or heavy infantry. Units with the quick trait often have greatly increased mobility in rough terrain, which can be important to consider when deploying your forces. Also, quick units aren’t quite as tough as units without this trait and are subsequently less good at holding contested positions."
+					id="quick"
+					male_name=_"quick"
+					[effect]
+						apply_to="movement"
+						increase=1
+					[/effect]
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-5%"
+					[/effect]
+				[/trait]
+			[/args]
+		[/lua]
+	[/event]
+	[event]
+		name="time over"
+		[lua]
+			code=" wesnoth.require(""multiplayer/eras.lua"").turns_over_advantage() "
+		[/lua]
+	[/event]
+[/era]
+[modification]
+
+	addon_id="pick_advance"
+	addon_title="Plan Unit Advance"
+	addon_version="1.11.0"
+	description="In multiplayer game, you do not control unit advances if they happen on enemy turn.
+With this add-on, you can set them beforehand:
+
+* for one exact unit
+* for all new recruits
+"
+	id="plan_unit_advance"
+	name="Plan Unit Advance"
+	[options]
+		[checkbox]
+			default=no
+#textdomain wesnoth
+			description=_"You will be asked a question on choosing advancement whenever an undecided unit appears.
+
+Always enabled for RPG eras and maps."
+			id="pickadvance_force_choice"
+			name=_"Force advancement planning"
+		[/checkbox]
+	[/options]
+	[event]
+		first_time_only=no
+		name="preload"
+		[set_variable]
+			name="pickadvance_contacts"
+			value="Contacts:
+* Source code, issue tracker: https://github.com/vgaming/pick_advance
+* BTC: 148AvMtozrKs3MzXCNMGNUTHLoqahw3fCo
+* vasya: my name on wesnoth :)
+* vn971 on IRC.freenode.net (I often visit #wesnoth-umc-dev)
+"
+		[/set_variable]
+		[lua]
+			code="-- json_format
+
+-- wesnoth.dofile(""~add-ons/pick_advance/lua/json_format.lua"")
+
+local next = next
+local print = print
+local tostring = tostring
+local type = type
+local gsub = string.gsub
+local table = table
+
+local delete_chars = string.char(00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15,
+	16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31) -- https://www.ietf.org/rfc/rfc4627.txt
+local delete_regexp = ""["" .. delete_chars .. ""]""
+
+-- escaping takes 3/4 of the time, but we can't avoid it...
+local function escape(str)
+	str = gsub(str, delete_regexp, """")
+	str = gsub(str, '\\', '\\\\')
+	return gsub(str, '""', '\\""')
+end
+
+local function print_table_key(obj, buffer)
+	local _type = type(obj)
+	if _type == ""string"" then
+		buffer[#buffer + 1] = escape(obj)
+	elseif _type == ""number"" then
+		buffer[#buffer + 1] = obj
+	elseif _type == ""boolean"" then
+		buffer[#buffer + 1] = tostring(obj)
+	else
+		buffer[#buffer + 1] = '???' .. _type .. '???'
+	end
+end
+
+local function format_any_value(obj, buffer)
+	local _type = type(obj)
+	if _type == ""table"" then
+		buffer[#buffer + 1] = '{'
+		buffer[#buffer + 1] = '""' -- needs to be separate for empty tables {}
+		for key, value in next, obj, nil do
+			print_table_key(key, buffer)
+			buffer[#buffer + 1] = '"":'
+			format_any_value(value, buffer)
+			buffer[#buffer + 1] = ',""'
+		end
+		buffer[#buffer] = '}' -- note the overwrite
+	elseif _type == ""string"" then
+		buffer[#buffer + 1] = '""' .. escape(obj) .. '""'
+	elseif _type == ""boolean"" or _type == ""number"" then
+		buffer[#buffer + 1] = tostring(obj)
+	elseif _type == ""userdata"" then
+		buffer[#buffer + 1] = '""' .. escape(tostring(obj)) .. '""'
+	else
+		buffer[#buffer + 1] = '""???' .. _type .. '???""'
+	end
+end
+
+local function _format_as_json(obj)
+	if obj == nil then return ""null"" else
+		local buffer = {}
+		format_any_value(obj, buffer)
+		return table.concat(buffer)
+	end
+end
+
+local function _print_as_json(...)
+	local result = {}
+	local n = 1
+	for _, v in ipairs({ ... }) do
+		result[n] = _format_as_json(v)
+		n = n + 1
+	end
+	print(table.concat(result, ""\t""))
+end
+
+
+format_as_json = _format_as_json
+print_as_json = _print_as_json
+
+-- "
+		[/lua]
+		[lua]
+			code="-- pickadvance_dialog
+
+pickadvance = {}
+local pickadvance = pickadvance
+local wesnoth = wesnoth
+local ipairs = ipairs
+local table = table
+local T = wesnoth.require(""lua/helper.lua"").set_wml_tag_metatable {}
+local translate = wesnoth.textdomain ""wesnoth""
+
+local function filter_false(arr)
+	local result = {}
+	for _, v in ipairs(arr) do
+		if v ~= false then
+			result[#result + 1] = v
+		end
+	end
+	return result
+end
+
+
+function pickadvance.show_dialog_unsynchronized(advance_info, unit)
+	local spacer = ""\n""
+	local label = ""Plan advance:""
+
+	local unit_type_options = advance_info.type_advances
+	--print_as_json(""advances for"", unit.type, unit_type_options)
+	local options = {}
+	for _, ut in ipairs(unit_type_options) do
+		options[#options + 1] = wesnoth.unit_types[ut]
+	end
+	local show_images = true
+
+	local unit_override_one = (advance_info.unit_override or {})[2] == nil
+		and (advance_info.unit_override or {})[1] or nil
+	local game_override_one = (advance_info.game_override or {})[2] == nil
+		and (advance_info.game_override or {})[1] or nil
+
+	local description_row = T.row {
+		T.column { T.label { use_markup = true, label = label } },
+	}
+
+	local list_sub_row
+	if show_images then
+		list_sub_row = T.row {
+			T.column { T.image { id = ""the_icon"" } },
+			T.column { grow_factor = 0, T.label { use_markup = true, id = ""the_label"" } },
+			T.column { grow_factor = 1, T.spacer {} },
+		}
+	else
+		list_sub_row = T.row {
+			T.column { horizontal_alignment = ""left"", T.label { use_markup = true, id = ""the_label"" } }
+		}
+	end
+
+	local toggle_panel = T.toggle_panel { return_value = -1, T.grid { list_sub_row } }
+
+	local list_definition = T.list_definition { T.row { T.column { horizontal_grow = true, toggle_panel } } }
+
+	local listbox = T.listbox { id = ""the_list"", list_definition, has_minimum = true }
+
+	local reset_button = T.button {
+		return_value = -3,
+		label = ""\n"" .. translate(""Reset"") .. ""\n""
+	}
+	local reset_column = (unit_override_one or game_override_one)
+		and T.column { horizontal_grow = true, reset_button }
+		or false
+
+	local help_button = T.button {
+		return_value = -4,
+		label = ""\n"" .. translate(""Help"") .. ""\n""
+	}
+
+	local reset_help_buttons = T.grid {
+		T.row(filter_false {
+			reset_column,
+			T.column { horizontal_grow = true, help_button }
+		})
+	}
+	local unit_button_label = unit.canrecruit and ""\nSave\n"" or ""\nSave for unit\n""
+	local unit_button = T.button { return_value = -1, label = unit_button_label }
+	local recruits_subbutton = T.button { return_value = 1, label = ""\nSave for this unit and new\n"" }
+	local recruits_button = not unit.canrecruit
+		and T.row { T.column { horizontal_grow = true, recruits_subbutton } }
+
+	local dialog = {
+		T.tooltip { id = ""tooltip_large"" },
+		T.helptip { id = ""tooltip_large"" },
+		T.grid(filter_false {
+			T.row { T.column { T.spacer { width = 250 } } },
+			description_row,
+			T.row { T.column { horizontal_grow = true, listbox } },
+			T.row { T.column { horizontal_grow = true, unit_button } },
+			recruits_button,
+			T.row { T.column { horizontal_grow = true, reset_help_buttons } },
+		})
+	}
+
+	local function preshow()
+		for i, advance_type in ipairs(options) do
+			local text = spacer .. advance_type.name
+			if advance_type.id == unit_override_one then
+				text = text .. "" &lt;-unit""
+			end
+			if advance_type.id == game_override_one then
+				text = text .. "" &lt;-recruits""
+			end
+			text = text .. ""  "" .. spacer
+			wesnoth.set_dialog_value(text, ""the_list"", i, ""the_label"")
+			local img = advance_type.__cfg.image
+			wesnoth.set_dialog_value(img or ""misc/blank-hex.png"", ""the_list"", i, ""the_icon"")
+		end
+
+		wesnoth.set_dialog_focus(""the_list"")
+
+		local function select()
+			local i = wesnoth.get_dialog_value ""the_list""
+			if i > 0 then
+				local img = options[i].__cfg.image
+				wesnoth.set_dialog_value(img or ""misc/blank-hex.png"", ""the_list"", i, ""the_icon"")
+			end
+		end
+		wesnoth.set_dialog_callback(select, ""the_list"")
+	end
+
+	local item_result
+	local function postshow()
+		item_result = wesnoth.get_dialog_value(""the_list"")
+	end
+
+	local dialog_exit_code = wesnoth.show_dialog(dialog, preshow, postshow)
+	local is_help = dialog_exit_code == -4
+	local is_reset = dialog_exit_code == -3
+	--local is_cancel = dialog_exit_code == -2
+	if is_help then
+		wesnoth.wml_actions.message {
+			speaker = ""narrator"",
+			message = ""<b>Save for unit</b> will make your unit always advance to said type. ""
+				.. ""Even if it's leveled during enemy-s turn.""
+				.. ""\n\n""
+				.. ""<b>Save for game</b> applies to all new recruits of same type in game.""
+				.. ""\n\n""
+				.. wesnoth.get_variable(""pickadvance_contacts""),
+			image = ""misc/qmark.png~SCALE(200,200)""
+		}
+	end
+	local is_ok = dialog_exit_code > -2 and item_result >= 1
+	--print(string.format(""Button %s pressed (%s). Item %s selected: %s"",
+	--	dialog_exit_code, is_ok and ""ok"" or ""not ok"", item_result, options[item_result].id))
+	local game_scope = dialog_exit_code == 1
+	return {
+		is_unit_override = is_reset or is_ok,
+		unit_override = is_ok and options[item_result].id
+			or is_reset and table.concat(unit_type_options, "",""),
+		is_game_override = is_reset or game_scope,
+		game_override = game_scope and options[item_result].id or nil,
+	}
+end
+
+-- "
+		[/lua]
+		[lua]
+			code="-- pick_advance/main.lua
+
+local pickadvance = pickadvance
+local ipairs = ipairs
+local string = string
+local table = table
+local wesnoth = wesnoth
+local wml = wml
+local on_event = wesnoth.require(""lua/on_event.lua"")
+local T = wesnoth.require(""lua/helper.lua"").set_wml_tag_metatable {}
+
+wesnoth.wml_actions.set_menu_item {
+	id = ""pickadvance"",
+	description = ""Pick Advance"",
+	T.show_if {
+		T.lua {
+			code = ""return pickadvance.menu_available()""
+		},
+	},
+	T.command {
+		T.lua {
+			code = ""pickadvance.pick_advance()""
+		}
+	}
+}
+
+local function clean_type_func(unit_type)
+	return string.gsub(unit_type, ""[^a-zA-Z0-9]"", ""_"")
+end
+
+local function split_comma_units(string_to_split)
+	local result = {}
+	local n = 1
+	for s in string.gmatch(string_to_split or """", ""[^,]+"") do
+		if s ~= """" and s ~= ""null"" and wesnoth.unit_types[s] then
+			result[n] = s
+			n = n + 1
+		end
+	end
+	return result
+end
+
+
+local function original_advances(unit)
+	local clean_type = clean_type_func(unit.type)
+	local variable = unit.variables[""pickadvance_orig_"" .. clean_type] or """"
+	return split_comma_units(variable), clean_type_func(variable)
+end
+
+local function set_advances(unit, array)
+	wesnoth.add_modification(unit, ""object"", {
+		id = ""pickadvance"",
+		take_only_once = false,
+		T.effect {
+			apply_to = ""new_advancement"",
+			replace = true,
+			types = table.concat(array, "","")
+		}
+	})
+end
+
+
+local function array_to_set(arr)
+	local result = {}
+	for _, v in ipairs(arr) do
+		result[v] = true
+	end
+	return result
+end
+
+local function array_filter(arr, func)
+	local result = {}
+	for _, v in ipairs(arr) do
+		if func(v) then
+			result[#result + 1] = v
+		end
+	end
+	return result
+end
+
+--- works as anti-cheat and fixes tricky bugs in [male]/[female]/undead variation overrides
+local function filter_overrides(unit, overrides)
+	local possible_advances_array = original_advances(unit)
+	local possible_advances = array_to_set(possible_advances_array)
+	local filtered = array_filter(overrides, function(e) return possible_advances[e] end)
+	return #filtered > 0 and filtered or possible_advances_array
+end
+
+
+local function get_advance_info(unit)
+	local type_advances, orig_options_sanitized = original_advances(unit)
+	local game_override_key = ""pickadvance_side"" .. unit.side .. ""_"" .. orig_options_sanitized
+	local game_override = wesnoth.get_variable(game_override_key)
+	local function correct(override)
+		return override and #override > 0 and #override < #type_advances and override or nil
+	end
+
+	return {
+		type_advances = type_advances,
+		unit_override = correct(unit.advances_to),
+		game_override = correct(split_comma_units(game_override)),
+	}
+end
+
+
+function pickadvance.menu_available()
+	local unit = wesnoth.get_unit(wml.variables.x1, wml.variables.y1)
+	return unit and
+		#unit.advances_to > 0
+		and wesnoth.sides[unit.side].is_local and wesnoth.sides[unit.side].controller == ""human""
+		and (#original_advances(unit) > 1 or #unit.advances_to > 1)
+end
+
+
+local function initialize_unit(unit)
+	local clean_type = clean_type_func(unit.type)
+	if unit.variables[""pickadvance_orig_"" .. clean_type] == nil then
+		wesnoth.wml_actions.remove_object {
+			object_id = ""pickadvance"",
+			id = unit.id
+		}
+		unit.variables[""pickadvance_orig_"" .. clean_type] = table.concat(unit.advances_to, "","")
+		local advance_info = get_advance_info(unit)
+		local desired = advance_info.game_override or unit.advances_to
+		desired = filter_overrides(unit, desired)
+		set_advances(unit, desired)
+		-- print_as_json(""initialized unit"", unit.id, unit.advances_to)
+	end
+end
+
+
+function pickadvance.pick_advance(unit)
+	unit = unit or wesnoth.get_unit(wml.variables.x1, wml.variables.y1)
+	initialize_unit(unit)
+	local _, orig_options_sanitized = original_advances(unit)
+	local dialog_result = wesnoth.synchronize_choice(function()
+		local local_result = pickadvance.show_dialog_unsynchronized(get_advance_info(unit), unit)
+		-- print_as_json(""locally chosen advance for unit"", unit.id, local_result)
+		return local_result
+	end, function() return { is_ai = true } end)
+	if dialog_result.is_ai then
+		return
+	end
+	-- print_as_json(""applying manual choice for"", unit.id, dialog_result)
+	dialog_result.unit_override = split_comma_units(dialog_result.unit_override)
+	dialog_result.game_override = split_comma_units(dialog_result.game_override)
+	dialog_result.unit_override = filter_overrides(unit, dialog_result.unit_override)
+	dialog_result.game_override = filter_overrides(unit, dialog_result.game_override)
+	if dialog_result.is_unit_override then
+		set_advances(unit, dialog_result.unit_override)
+	end
+	if dialog_result.is_game_override then
+		local key = ""pickadvance_side"" .. unit.side .. ""_"" .. orig_options_sanitized
+		wesnoth.set_variable(key, table.concat(dialog_result.game_override, "",""))
+	end
+end
+
+
+local known_units = {}
+local function make_unit_known(unit)  -- can be both unit or unit type
+	local type = unit.type or unit.id
+	if known_units[type] then return end
+	print_as_json(""making unit known"", unit)
+	known_units[type] = true
+	wesnoth.add_known_unit(type)
+	for _, advance in ipairs(unit.advances_to) do
+		print_as_json(""going into advance"", advance)
+		make_unit_known(wesnoth.unit_types[advance])
+	end
+end
+
+local function initialize_unit_x1y1(ctx)
+	local unit = wesnoth.get_unit(ctx.x1, ctx.y1)
+	if not wesnoth.sides[unit.side].__cfg.allow_player then return end
+	initialize_unit(unit)
+	make_unit_known(unit)
+	if #unit.advances_to > 1 and wml.variables.pickadvance_force_choice and unit.side == wesnoth.current.side then
+		pickadvance.pick_advance(unit)
+	end
+end
+
+local function humans_can_recruit()
+	for _, side in ipairs(wesnoth.sides) do
+		if #side.recruit ~= 0 and side.__cfg.allow_player then
+			return true
+		end
+	end
+end
+local function map_has_keeps()
+	local width,height,_ = wesnoth.get_map_size()
+	for x = 1, width do
+		for y = 1, height do
+			local terr = wesnoth.get_terrain(x, y)
+			local info = wesnoth.get_terrain_info(terr)
+			if info.keep then
+				return true
+			end
+		end
+	end
+end
+on_event(""start"", -91, function()
+	local map_has_recruits = humans_can_recruit() and map_has_keeps()
+	wml.variables.pickadvance_force_choice = wml.variables.pickadvance_force_choice
+		or not map_has_recruits
+end)
+
+local fresh_turn = false
+on_event(""turn refresh"", -91, function()
+	fresh_turn = true
+end)
+on_event(""moveto"", -91, function()
+	if fresh_turn then
+		fresh_turn = false
+		if not wesnoth.sides[wesnoth.current.side].__cfg.allow_player then return end
+		for _, unit in ipairs(wesnoth.get_units { side = wesnoth.current.side }) do
+			if #unit.advances_to > 1 and wml.variables.pickadvance_force_choice and wesnoth.current.turn > 1 then
+				pickadvance.pick_advance(unit)
+				if #unit.advances_to > 1 then
+					local len = #unit.advances_to
+					local rand = wesnoth.random(len)
+					unit.advances_to = { unit.advances_to[rand] }
+				end
+			else
+				initialize_unit(unit)
+			end
+		end
+	end
+end)
+
+on_event(""recruit"", -91, initialize_unit_x1y1)
+on_event(""post advance"", -91, initialize_unit_x1y1)
+
+
+-- "
+		[/lua]
+	[/event]
+	[event]
+		name="preload"
+		[lua]
+			code="-- advertisement
+
+local wesnoth = wesnoth
+local string = string
+local tostring = tostring
+local wml = wml
+local on_event = wesnoth.require(""lua/on_event.lua"")
+
+local addon_name = tostring((...).name)
+local addon_dir = tostring((...).dir)
+local addon_about = tostring((...).about)
+local addon_icon = tostring((...).icon)
+
+local function show_message(text)
+	wesnoth.wml_actions.message {
+		caption = addon_name,
+		message = text,
+		image = string.gsub(addon_icon, ""\n"", """") .. ""~SCALE_INTO(144,144)"",
+	}
+end
+
+local filename = ""~add-ons/"" .. addon_dir .. ""/target/version.txt""
+local my_version = wesnoth.have_file(filename) and wesnoth.read_file(filename) or ""0.0.0""
+
+local highest_ver_key = ""addon_"" .. addon_dir .. ""_highest""
+wml.variables[highest_ver_key] = my_version
+
+on_event(""side turn 1"", function()
+	local side_version = wesnoth.synchronize_choice(function() return { v = my_version } end).v
+	if rawget(_G, ""print_as_json"") then _G.print_as_json(""addon"", addon_name, wesnoth.current.side, side_version) end
+
+	if wesnoth.compare_versions(side_version, "">"", wml.variables[highest_ver_key]) then
+		wml.variables[highest_ver_key] = side_version
+	end
+end)
+
+if my_version == ""0.0.0"" then
+	local text = ""This game uses "" .. addon_name .. "" add-on. ""
+		.. ""\n""
+		.. ""If you'll like it, feel free to install it from add-ons server.""
+		.. ""\n\n""
+		.. ""======================\n\n""
+		.. addon_about
+	show_message(text)
+	return
+end
+
+on_event(""turn 2"", function()
+	if my_version == wml.variables[highest_ver_key] then
+		return
+	end
+
+	local advertisement = ""🠉🠉🠉 Please upgrade your "" .. addon_name .. "" add-on 🠉🠉🠉""
+		.. ""\n""
+		.. my_version .. "" -> "" .. wml.variables[highest_ver_key]
+		.. ""  (you may do that after the game)\n\n""
+	show_message(advertisement)
+end)
+
+
+-- "
+			[args]
+				about="In multiplayer game, you do not control unit advances if they happen on enemy turn.
+With this add-on, you can set them beforehand:
+
+* for one exact unit
+* for all new recruits
+"
+				dir="pick_advance"
+				icon="misc/blank-hex.png~BLIT(lobby/status-lobby-s.png~SCALE(36,36),0,36)~BLIT(units/elves-wood/avenger.png~CROP(20,12,47,47)~SCALE(36,36),36,0)~BLIT(units/elves-wood/marksman.png~CROP(16,12,47,47)~SCALE(36,36),36,36)
+"
+				name="Plan Unit Advance"
+			[/args]
+		[/lua]
+	[/event]
+[/modification]
+[replay]
+
+	[command]
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=18
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		dependent=yes
+		from_side=1
+		[input]
+			v="1.11.0"
+		[/input]
+	[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Orcish Grunt"
+			x=18
+			y=5
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="abdf611c"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Wolf Rider"
+			x=18
+			y=4
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="4423e7f9"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Naga Fighter"
+			x=20
+			y=4
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="5f35debc"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Orcish Grunt"
+			x=24
+			y=5
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="3944395a"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Orcish Grunt"
+			x=24
+			y=4
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="e0cc9ca4"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Orcish Grunt"
+			x=23
+			y=5
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="165039ac"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Orcish Archer"
+			x=22
+			y=4
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="fc918b7d"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="21,20,19,18,17"
+			y="4,4,4,3,3"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=3
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=25
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+	[command]
+		[end_turn]
+			next_player_number=2
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=25
+				random_calls=0
+			[/result]
+		[/checkup1]
+	[/command]
+
+[command]
+undo="no"
+[speak]
+id="Estrada"
+message="hf"
+side="1"
+time="1600125472"
+[/speak]
+[/command]
+
+	[command]
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=25
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		dependent=yes
+		from_side=2
+		[input]
+			v="0.0.0"
+		[/input]
+	[/command]
+
+	[command]
+		from_side=2
+		[recruit]
+			type="Skeleton"
+			x=18
+			y=19
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[checkup]
+			[result]
+				checksum="rGswozct3,K0OgqGfjYeu49h,>5a<b0Oc-p>Xl19373>h>z0Ma1Z-d7<ij6KL2,f9.-+E75jpe4p.-l3dW>h-+Y9-a<chwlNnw<I3GHZ,LsD8yP1NCcsBj.mhLm8i-0k"
+			[/result]
+			[result]
+				next_unit_id=26
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[recruit]
+			type="Ghoul"
+			x=24
+			y=19
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[checkup]
+			[result]
+				checksum="7gg8X.+0rfdz5fYhl+>j5dL7bld1Ekel9.obaGxnPW28aY<7n8eJfcjd>6iFZjZ391fY>iklc8.8eo7cg4mjyg5lf.6NllciP<YebfY+1,XHki+5za7kg5dJti.XaZ1d"
+			[/result]
+			[result]
+				next_unit_id=27
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[recruit]
+			type="Vampire Bat"
+			x=24
+			y=20
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="6e80970d"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[recruit]
+			type="Dark Adept"
+			x=23
+			y=20
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="7f1dba44"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[recruit]
+			type="Skeleton"
+			x=19
+			y=20
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[checkup]
+			[result]
+				checksum="rGswozct3,K0OgqGfjYeu49h,>5a<b0Oc-p>Xl19373>h>z0Ma1Z-d7<ij6KL2,f9.-+E75jpe4p.-l3dW>h-+Y9-a<chwlNnw<I3GHZ,LsD8yP1NCcsBj.mhLm8i-0k"
+			[/result]
+			[result]
+				next_unit_id=30
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[recruit]
+			type="Ghost"
+			x=18
+			y=20
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[checkup]
+			[result]
+				checksum=".3tnxFGR8KAdAETQIH<FtqOCV9vEyIIuROHsUIAIgP3pHDMmQRxEt.,NLAqJPQ4wqI6KvDsAywCvvASFoGEHSOw3.i7JK9xGZqNL<JUAOCfK.3rfAIqoYKsOI9vwQNAF"
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="21,22,23,24,25"
+			y="21,20,21,21,22"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=22
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		[countdown_update]
+			team=2
+			value=240000
+		[/countdown_update]
+	[/command]
+	[command]
+		[end_turn]
+			next_player_number=3
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup1]
+		[checkup2]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup2]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="24,24,24,25,25,25"
+			y="5,6,7,8,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="23,23,22,22,22,22"
+			y="5,6,6,7,8,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="22,23,24,25,26,27"
+			y="4,5,5,6,6,7"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=7
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="24,25,26"
+			y="4,4,3"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=3
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="20,21,21,21,21,21,21,21"
+			y="4,5,6,7,8,9,10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="18,17,16,15,14,13"
+			y="5,5,5,6,5,5"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=13
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="18,18,17,16,15,14,13,12,11"
+			y="4,5,6,6,7,7,8,8,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="17,17,17,17,17,17"
+			y="3,4,5,6,7,8"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+	[command]
+		[end_turn]
+			next_player_number=2
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup1]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="24,25,26,27,28,29"
+			y="19,20,19,20,19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=29
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="25,25,25,25,25,25"
+			y="22,21,20,19,18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="24,25,26,27,28,29,30"
+			y="20,20,19,19,18,18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=30
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="30,30,31"
+			y="17,16,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=30
+				final_hex_y=16
+				stopped_early=yes
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="30,31"
+			y="16,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=31
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="19,19,20,20,20,20"
+			y="20,19,18,17,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="18,18,18,18,17,17"
+			y="19,18,17,16,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="18,17,16,15,14,13,12,11"
+			y="20,20,19,19,18,18,17,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="23,24,25,26,27"
+			y="20,19,19,18,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		[countdown_update]
+			team=2
+			value=240000
+		[/countdown_update]
+	[/command]
+	[command]
+		[end_turn]
+			next_player_number=3
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup1]
+		[checkup2]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup2]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="26,26,26,26,26,26,27"
+			y="3,4,5,6,7,8,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="27,28,29,30,31,32"
+			y="7,6,7,7,7,7"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=32
+				final_hex_y=7
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="22,23,24,25,26,27,28"
+			y="9,9,8,9,9,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=28
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="25,26,27,28,29,30"
+			y="10,10,11,11,12,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=30
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="21,21,21,22,22"
+			y="11,12,13,13,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=13
+				stopped_early=yes
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="22,22"
+			y="13,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="13,13,13,12,12,12"
+			y="5,6,7,7,8,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="11,11,11,11,11,10"
+			y="9,10,11,12,13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="17,17,17,18"
+			y="8,7,6,5"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=18
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=31
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Troll Whelp"
+			x=24
+			y=5
+			[from]
+				x=18
+				y=5
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="d19a0e09"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="18,19,20"
+			y="5,5,4"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=4
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=32
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+
+	[command]
+		[end_turn]
+			next_player_number=2
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=32
+				random_calls=0
+			[/result]
+		[/checkup1]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=32
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="11,10"
+			y="17,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=32
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="25,25,25,24"
+			y="17,18,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=32
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[recruit]
+			type="Walking Corpse"
+			x=24
+			y=20
+			[from]
+				x=24
+				y=19
+			[/from]
+		[/recruit]
+		[checkup]
+			[result]
+				checksum="l+p2b<l4qc5U7l3a+<7z943+9q+gZc08mgGuj2b41n-YbbOV-Zlb1+46Lo3R9ab1b7Xm.1336,cach45dygl+-<.<kZfkMjb7Lay7mjGn5-5oGgkg5poP4i<Ee8-eOmm"
+			[/result]
+			[result]
+				next_unit_id=33
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[recruit]
+			type="Dark Adept"
+			x=23
+			y=20
+			[from]
+				x=24
+				y=19
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="b4b8d4f1"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="20,21"
+			y="15,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Naga Fighter"
+			defender_weapon=0
+			tod="afternoon"
+			turn=3
+			weapon=0
+			[source]
+				x=21
+				y=15
+			[/source]
+			[destination]
+				x=22
+				y=14
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="a9915098"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="31,32"
+			y="16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=32
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="29,29,29,30,30,31"
+			y="20,19,18,17,16,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=31
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="32,31,30,29,28,27,26,25"
+			y="15,15,15,16,16,16,16,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="27,28,29,30,31"
+			y="18,18,18,17,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=31
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="24,23,22"
+			y="19,20,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		[countdown_update]
+			team=2
+			value=240000
+		[/countdown_update]
+	[/command]
+	[command]
+		[end_turn]
+			next_player_number=3
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup1]
+		[checkup2]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup2]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="30,31,32,33,33,33"
+			y="12,13,13,14,15,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=33
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="28,28,28,28,28"
+			y="10,11,12,13,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=28
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="27,28,29,29,30,30,31"
+			y="9,9,10,11,11,12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=31
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="22,22,21,21"
+			y="14,13,13,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="21,20"
+			y="12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="12,12,12,12,12"
+			y="9,10,11,12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="24,24,25,25,25,26"
+			y="5,6,7,8,9,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="20,21"
+			y="4,4"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=4
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=34
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[recruit]
+			type="Orcish Archer"
+			x=18
+			y=5
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="cea8ead1"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Orcish Grunt"
+			x=24
+			y=5
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="8c233f9c"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="10,11,12,12,12,12,12"
+			y="13,14,14,15,16,17,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="32,32,32,31,31,30"
+			y="7,8,9,10,11,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=30
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+	[command]
+		[end_turn]
+			next_player_number=2
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup1]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="17,16,15,14,13"
+			y="15,14,14,13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=13
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Orcish Grunt"
+			defender_weapon=0
+			tod="dusk"
+			turn=4
+			weapon=0
+			[source]
+				x=13
+				y=13
+			[/source]
+			[destination]
+				x=12
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="fef5ff20"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="10,10,10,10,11"
+			y="17,16,15,14,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Ghost"
+			defender_lvl=1
+			defender_type="Orcish Grunt"
+			defender_weapon=-1
+			tod="dusk"
+			turn=4
+			weapon=1
+			[source]
+				x=11
+				y=14
+			[/source]
+			[destination]
+				x=12
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="adb4cd27"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="21,20,19,18,17,16"
+			y="15,15,16,16,17,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="23,22,21,20,19,18,17"
+			y="20,20,20,19,19,18,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="25,24,23,22,21,20"
+			y="17,17,17,16,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="24,24,24,25,25"
+			y="20,19,18,18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="22,21"
+			y="20,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=36
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[recruit]
+			type="Skeleton"
+			x=24
+			y=19
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[checkup]
+			[result]
+				checksum="rGswozct3,K0OgqGfjYeu49h,>5a<b0Oc-p>Xl19373>h>z0Ma1Z-d7<ij6KL2,f9.-+E75jpe4p.-l3dW>h-+Y9-a<chwlNnw<I3GHZ,LsD8yP1NCcsBj.mhLm8i-0k"
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="21,22,23,24,25"
+			y="21,20,20,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="31,30,30,29"
+			y="18,18,19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=29
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		[countdown_update]
+			team=2
+			value=240000
+		[/countdown_update]
+	[/command]
+	[command]
+		[end_turn]
+			next_player_number=3
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup1]
+		[checkup2]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup2]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="26,27,28,29,30,30"
+			y="9,10,10,11,11,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=30
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="30,30,30,30,31"
+			y="11,12,13,14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=31
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Archer"
+			defender_lvl=1
+			defender_type="Ghoul"
+			defender_weapon=-1
+			tod="first_watch"
+			turn=5
+			weapon=2
+			[source]
+				x=31
+				y=15
+			[/source]
+			[destination]
+				x=31
+				y=16
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="3971977d"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="31,31,32,32"
+			y="13,14,14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=32
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Grunt"
+			defender_lvl=1
+			defender_type="Ghoul"
+			defender_weapon=0
+			tod="first_watch"
+			turn=5
+			weapon=0
+			[source]
+				x=32
+				y=15
+			[/source]
+			[destination]
+				x=31
+				y=16
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="cf0b7712"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="28,29,30,30,31"
+			y="14,14,14,15,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=30
+				final_hex_y=15
+				stopped_early=yes
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="30,31"
+			y="15,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=31
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="33,33,32,32"
+			y="16,17,17,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=32
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="20,19,19,18,18,17"
+			y="11,12,13,13,14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="12,11"
+			y="13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Grunt"
+			defender_lvl=1
+			defender_type="Ghost"
+			defender_weapon=0
+			tod="first_watch"
+			turn=5
+			weapon=0
+			[source]
+				x=11
+				y=13
+			[/source]
+			[destination]
+				x=11
+				y=14
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="4bc5f95f"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="18,17,16,15,14,13"
+			y="5,6,6,7,7,8"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=13
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=37
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Troll Whelp"
+			x=18
+			y=5
+			[from]
+				x=21
+				y=4
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="97813b3f"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="21,20,19,18,17,16"
+			y="4,4,5,5,6,6"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=6
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="24,24,24,25,25,25"
+			y="5,6,7,8,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="12,13,14,15,16,16"
+			y="18,19,19,20,20,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+
+	[command]
+		[end_turn]
+			next_player_number=2
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup1]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="17,17,17,17"
+			y="18,19,20,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Wolf Rider"
+			defender_weapon=-1
+			tod="first_watch"
+			turn=5
+			weapon=0
+			[source]
+				x=17
+				y=21
+			[/source]
+			[destination]
+				x=16
+				y=21
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="0dcc159e"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="16,16,16,15,15"
+			y="17,18,19,20,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=15
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Wolf Rider"
+			defender_weapon=0
+			tod="first_watch"
+			turn=5
+			weapon=0
+			[source]
+				x=15
+				y=21
+			[/source]
+			[destination]
+				x=16
+				y=21
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="3fff09e8"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="13,12"
+			y="13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Orcish Grunt"
+			defender_weapon=0
+			tod="first_watch"
+			turn=5
+			weapon=0
+			[source]
+				x=12
+				y=13
+			[/source]
+			[destination]
+				x=11
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="e4c95a3d"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="11,11,11,11,11,11"
+			y="14,13,12,11,10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=12
+				stopped_early=yes
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="11,11,11,11"
+			y="12,11,10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=10
+				stopped_early=yes
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="11,11"
+			y="10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="20,20,20,19,19,20,21,21,22"
+			y="15,14,13,13,12,11,11,10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=11
+				stopped_early=yes
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="21,21,22"
+			y="11,10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="29,28"
+			y="20,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=28
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="24,25,26,27,28,29"
+			y="19,20,19,20,19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=29
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="28,28"
+			y="19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=28
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="25,24"
+			y="19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=38
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[recruit]
+			type="Skeleton Archer"
+			x=18
+			y=19
+			[from]
+				x=24
+				y=19
+			[/from]
+		[/recruit]
+		[checkup]
+			[result]
+				checksum="H5P5.ZS9OHr3sNJB3RPHKSNV-BOwSKsEMGuGSoSaFZzUNOAKDrqv76HRmwQOP1KIqgnJwQOsGALSBOPNMOzTBEppQEtD--kCCHKIkm,Gu-hYIVezvdyHqBW.6FwXcau4"
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="24,25,26,27"
+			y="19,19,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		[countdown_update]
+			team=2
+			value=240000
+		[/countdown_update]
+	[/command]
+	[command]
+		[end_turn]
+			next_player_number=3
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup1]
+		[checkup2]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup2]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="17,18,19,20,20"
+			y="15,14,14,14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="13,12,11,10,9,9,10"
+			y="8,7,7,7,8,9,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Archer"
+			defender_lvl=1
+			defender_type="Ghost"
+			defender_weapon=1
+			tod="second_watch"
+			turn=6
+			weapon=2
+			[source]
+				x=10
+				y=9
+			[/source]
+			[destination]
+				x=11
+				y=9
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="d5b54cd7"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="18,19,20,21,21,22"
+			y="5,6,6,7,8,8"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Troll Whelp"
+			defender_lvl=0
+			defender_type="Vampire Bat"
+			defender_weapon=0
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=22
+				y=8
+			[/source]
+			[destination]
+				x=22
+				y=9
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="3aaf96fb"
+[/random_seed]
+[/command]
+
+[command]
+undo="no"
+[speak]
+id="Estrada"
+message="ffs"
+side="1"
+time="1600126458"
+[/speak]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="25,26,27,28,29,29"
+			y="10,10,11,11,12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=29
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="30,30,30,30,30,30"
+			y="12,13,14,15,16,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=30
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="31,31,31,31,30,30"
+			y="15,16,17,18,18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=30
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Archer"
+			defender_lvl=1
+			defender_type="Skeleton"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=6
+			weapon=2
+			[source]
+				x=30
+				y=19
+			[/source]
+			[destination]
+				x=29
+				y=20
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="19d90648"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="32,31,30,29,28,27"
+			y="15,16,16,17,17,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Grunt"
+			defender_lvl=2
+			defender_type="Bone Shooter"
+			defender_weapon=0
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=27
+				y=18
+			[/source]
+			[destination]
+				x=27
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="2d619762"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="31,30,29,29,28"
+			y="16,16,17,18,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=28
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Grunt"
+			defender_lvl=2
+			defender_type="Bone Shooter"
+			defender_weapon=0
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=28
+				y=18
+			[/source]
+			[destination]
+				x=27
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="c4464ffd"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="32,31,31,31,30,29"
+			y="18,19,20,21,21,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=29
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Grunt"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=29
+				y=21
+			[/source]
+			[destination]
+				x=28
+				y=20
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="be583630"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="16,17,18"
+			y="6,6,5"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=18
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=39
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[recruit]
+			type="Orcish Archer"
+			x=18
+			y=4
+			[from]
+				x=18
+				y=5
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="675f7fa3"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="18,19,20,21"
+			y="5,6,6,7"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=7
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=40
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Wolf Rider"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=16
+				y=21
+			[/source]
+			[destination]
+				x=17
+				y=21
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="7ce8742d"
+[/random_seed]
+[/command]
+
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+
+	[command]
+		[end_turn]
+			next_player_number=2
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=40
+				random_calls=0
+			[/result]
+		[/checkup1]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=40
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="12,13,14,15,16,17"
+			y="13,14,14,15,15,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=40
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="15,15"
+			y="21,22"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=15
+				final_hex_y=22
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=40
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Wolf Rider"
+			defender_weapon=0
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=15
+				y=22
+			[/source]
+			[destination]
+				x=16
+				y=21
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="853467a0"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Wolf Rider"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=17
+				y=21
+			[/source]
+			[destination]
+				x=16
+				y=21
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="b797fa74"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="18,19,20,21,22,23"
+			y="19,20,20,20,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=40
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="27,26,25,24"
+			y="19,19,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=40
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[recruit]
+			type="Walking Corpse"
+			x=24
+			y=20
+			[from]
+				x=24
+				y=19
+			[/from]
+		[/recruit]
+		[checkup]
+			[result]
+				checksum="l+p2b<l4qc5U7l3a+<7z943+9q+gZc08mgGuj2b41n-YbbOV-Zlb1+46Lo3R9ab1b7Xm.1336,cach45dygl+-<.<kZfkMjb7Lay7mjGn5-5oGgkg5poP4i<Ee8-eOmm"
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="28,27,26,26"
+			y="20,20,19,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Orcish Grunt"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=26
+				y=18
+			[/source]
+			[destination]
+				x=27
+				y=18
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="b8f18e30"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Orcish Archer"
+			defender_weapon=0
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=29
+				y=20
+			[/source]
+			[destination]
+				x=30
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="940461f4"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="25,25,25,26,27"
+			y="17,18,19,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="22,22,23,24,25"
+			y="9,10,11,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="11,12,13,14,15,16,17,17"
+			y="9,8,8,7,7,6,7,8"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		[countdown_update]
+			team=2
+			value=240000
+		[/countdown_update]
+	[/command]
+
+	[command]
+		[end_turn]
+			next_player_number=3
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup1]
+		[checkup2]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup2]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="10,11"
+			y="9,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="18,18,18,18"
+			y="4,5,6,7"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=18
+				final_hex_y=7
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Archer"
+			defender_lvl=1
+			defender_type="Ghost"
+			defender_weapon=1
+			tod="dawn"
+			turn=7
+			weapon=2
+			[source]
+				x=18
+				y=7
+			[/source]
+			[destination]
+				x=17
+				y=8
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="b212857c"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="21,22,23,24,25"
+			y="7,7,8,8,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=2
+			attacker_type="Troll"
+			defender_lvl=0
+			defender_type="Vampire Bat"
+			defender_weapon=0
+			tod="dawn"
+			turn=7
+			weapon=0
+			[source]
+				x=25
+				y=9
+			[/source]
+			[destination]
+				x=25
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="5b98509d"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="22,22"
+			y="8,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="29,29,30,30,30,29"
+			y="13,14,14,15,16,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=29
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="29,28,27,27,26"
+			y="21,21,21,20,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Grunt"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="dawn"
+			turn=7
+			weapon=0
+			[source]
+				x=26
+				y=19
+			[/source]
+			[destination]
+				x=26
+				y=18
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="2f26cd36"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Grunt"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="dawn"
+			turn=7
+			weapon=0
+			[source]
+				x=27
+				y=18
+			[/source]
+			[destination]
+				x=26
+				y=18
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="aed03662"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="30,29,28,27,26,25"
+			y="17,18,17,18,18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Troll Whelp"
+			defender_lvl=2
+			defender_type="Bone Shooter"
+			defender_weapon=0
+			tod="dawn"
+			turn=7
+			weapon=0
+			[source]
+				x=25
+				y=19
+			[/source]
+			[destination]
+				x=24
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="adcc566d"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="28,27,26,26,26,25,25"
+			y="18,18,18,19,20,21,22"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=22
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="30,30,29,28,27,26"
+			y="19,18,18,18,18,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Archer"
+			defender_lvl=0
+			defender_type="Walking Corpse"
+			defender_weapon=-1
+			tod="dawn"
+			turn=7
+			weapon=1
+			[source]
+				x=26
+				y=18
+			[/source]
+			[destination]
+				x=27
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="4b8d5a86"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="20,21,22,23,24,25"
+			y="15,16,16,17,17,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+	[command]
+		[end_turn]
+			next_player_number=2
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup1]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="15,16"
+			y="22,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Ghost"
+			defender_lvl=1
+			defender_type="Orcish Archer"
+			defender_weapon=0
+			tod="dawn"
+			turn=7
+			weapon=0
+			[source]
+				x=17
+				y=8
+			[/source]
+			[destination]
+				x=18
+				y=7
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="c7f67344"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="17,17,18,19,20"
+			y="15,16,16,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="17,18,19,20,21,22,23"
+			y="21,20,20,20,21,20,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="29,29,30,31,31,31"
+			y="20,19,18,18,17,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=31
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="23,23,24,25"
+			y="19,20,20,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="24,23,23,23"
+			y="20,20,19,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=41
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[recruit]
+			type="Dark Adept"
+			x=24
+			y=20
+			[from]
+				x=24
+				y=19
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="ed6a5459"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="24,24,24"
+			y="19,20,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=2
+			attacker_type="Bone Shooter"
+			defender_lvl=1
+			defender_type="Orcish Grunt"
+			defender_weapon=-1
+			tod="dawn"
+			turn=7
+			weapon=1
+			[source]
+				x=24
+				y=21
+			[/source]
+			[destination]
+				x=25
+				y=22
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="c6866068"
+[/random_seed]
+[/command]
+
+[command]
+undo="no"
+[speak]
+id="Estrada"
+message="lol"
+side="1"
+time="1600126858"
+[/speak]
+[/command]
+
+	[command]
+		[countdown_update]
+			team=2
+			value=240000
+		[/countdown_update]
+	[/command]
+
+	[command]
+		[end_turn]
+			next_player_number=3
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup1]
+		[checkup2]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup2]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="26,27,27,27,26,25"
+			y="19,20,21,22,22,22"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=22
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Grunt"
+			defender_lvl=2
+			defender_type="Bone Shooter"
+			defender_weapon=0
+			tod="morning"
+			turn=8
+			weapon=0
+			[source]
+				x=25
+				y=22
+			[/source]
+			[destination]
+				x=24
+				y=21
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="ea4be5ad"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="29,28,27,26,25,24"
+			y="17,17,18,18,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Grunt"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="morning"
+			turn=8
+			weapon=0
+			[source]
+				x=24
+				y=19
+			[/source]
+			[destination]
+				x=23
+				y=20
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="8f5c7615"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="25,24,24,23"
+			y="17,17,18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Naga Fighter"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="morning"
+			turn=8
+			weapon=0
+			[source]
+				x=23
+				y=19
+			[/source]
+			[destination]
+				x=23
+				y=20
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="a85e4c18"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="27,28,28,29"
+			y="18,18,19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=29
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="25,25,24"
+			y="19,18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[move]
+			x="26,25,24"
+			y="18,18,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Archer"
+			defender_lvl=0
+			defender_type="Walking Corpse"
+			defender_weapon=-1
+			tod="morning"
+			turn=8
+			weapon=1
+			[source]
+				x=24
+				y=18
+			[/source]
+			[destination]
+				x=23
+				y=18
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="063228d5"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="24,23"
+			y="17,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Troll Whelp"
+			defender_lvl=0
+			defender_type="Walking Corpse"
+			defender_weapon=0
+			tod="morning"
+			turn=8
+			weapon=0
+			[source]
+				x=23
+				y=17
+			[/source]
+			[destination]
+				x=23
+				y=18
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="5b02f8fa"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="22,23,24,25,25"
+			y="9,9,8,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="25,25,24,24,24"
+			y="9,8,7,6,5"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="11,11,11,11,12,12,12"
+			y="9,10,11,12,12,13,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=42
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Orcish Archer"
+			defender_lvl=1
+			defender_type="Ghost"
+			defender_weapon=1
+			tod="morning"
+			turn=8
+			weapon=2
+			[source]
+				x=18
+				y=7
+			[/source]
+			[destination]
+				x=17
+				y=8
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="a5902d75"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=1
+		[recruit]
+			type="Orcish Archer"
+			x=18
+			y=5
+			[from]
+				x=24
+				y=5
+			[/from]
+		[/recruit]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="437310d9"
+[/random_seed]
+[/command]
+
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+
+	[command]
+		[end_turn]
+			next_player_number=2
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup1]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="24,23,22,22"
+			y="21,21,20,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=2
+			attacker_type="Bone Shooter"
+			defender_lvl=1
+			defender_type="Naga Fighter"
+			defender_weapon=-1
+			tod="morning"
+			turn=8
+			weapon=1
+			[source]
+				x=22
+				y=19
+			[/source]
+			[destination]
+				x=23
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="c94636e4"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="23,22,21,21,22"
+			y="20,20,20,19,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Naga Fighter"
+			defender_weapon=-1
+			tod="morning"
+			turn=8
+			weapon=0
+			[source]
+				x=22
+				y=18
+			[/source]
+			[destination]
+				x=23
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="bef25c6b"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="16,17,18,19,20,21"
+			y="21,21,20,20,20,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="24,23,22,22,23"
+			y="20,21,20,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Orcish Archer"
+			defender_weapon=1
+			tod="morning"
+			turn=8
+			weapon=0
+			[source]
+				x=23
+				y=19
+			[/source]
+			[destination]
+				x=24
+				y=18
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="252913af"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="25,24"
+			y="21,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton Archer"
+			defender_lvl=1
+			defender_type="Orcish Grunt"
+			defender_weapon=-1
+			tod="morning"
+			turn=8
+			weapon=1
+			[source]
+				x=24
+				y=20
+			[/source]
+			[destination]
+				x=24
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="87b4e791"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="23,22,22,23"
+			y="18,18,19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[move]
+			x="20,20,21,21,22,23"
+			y="15,16,17,18,18,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=2
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Orcish Archer"
+			defender_weapon=0
+			tod="morning"
+			turn=8
+			weapon=0
+			[source]
+				x=23
+				y=18
+			[/source]
+			[destination]
+				x=24
+				y=18
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="af1ea546"
+[/random_seed]
+[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="31,30,29,28,27,26"
+			y="16,16,17,17,18,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="17,17,18,19,20,21,22"
+			y="8,9,9,10,9,10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=18
+				final_hex_y=9
+				stopped_early=yes
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=2
+		[move]
+			x="18,19,20,21,22"
+			y="9,10,9,9,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		[countdown_update]
+			team=2
+			value=240000
+		[/countdown_update]
+	[/command]
+
+	[command]
+		[end_turn]
+			next_player_number=3
+		[/end_turn]
+		[checkup1]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup1]
+		[checkup2]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup2]
+	[/command]
+
+	[command]
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		from_side=1
+		[move]
+			x="23,22,21,20,20,21"
+			y="17,16,17,17,18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				next_unit_id=43
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		from_side=1
+		[attack]
+			attacker_lvl=1
+			attacker_type="Troll Whelp"
+			defender_lvl=2
+			defender_type="Bone Shooter"
+			defender_weapon=0
+			tod="afternoon"
+			turn=9
+			weapon=0
+			[source]
+				x=21
+				y=19
+			[/source]
+			[destination]
+				x=22
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="4339c78b"
+[/random_seed]
+[/command]
+
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+
+[command]
+undo="no"
+[speak]
+id="server"
+message="Estrada has left the game."
+[/speak]
+[/command]
+
+[command]
+undo="no"
+[speak]
+id="server"
+message="JeandeMetz has been chosen as the new host."
+[/speak]
+[/command]
+
+[command]
+undo="no"
+[speak]
+id="server"
+message="JeandeMetz takes control of side 1."
+[/speak]
+[/command]
+
+	[command]
+		[countdown_update]
+			team=1
+			value=240000
+		[/countdown_update]
+	[/command]
+[/replay]

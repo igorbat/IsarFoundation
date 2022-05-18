@@ -1,0 +1,9969 @@
+campaign_type="multiplayer"
+difficulty="NORMAL"
+label="2p — Hamlets Turn 15"
+mp_game_title="wesnothlife.ru winter tournament 1/16 (for ishayahu)"
+random_seed="32561"
+version="1.12.5"
+[replay]
+	[command]
+		[start]
+		[/start]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="gl&hf"
+side="2"
+time="1454854717"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Ishayahu"
+message="glhf"
+side="1"
+time="1454854721"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Scout"
+			x=12
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1640498072"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Scout"
+			x=17
+			y=5
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1376750493"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Scout"
+			x=13
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1745669650"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Scout"
+			x=16
+			y=4
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1271603468"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Archer"
+			x=14
+			y=5
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="583949420"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,13,12,11"
+			y="4,5,4,5"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Skeleton"
+			x=15
+			y=24
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="888952516"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Ghost"
+			x=16
+			y=23
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="461648336"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Dark Adept"
+			x=11
+			y=25
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="292031399"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Vampire Bat"
+			x=13
+			y=25
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1611412954"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,15,16,17"
+			y="25,25,25,25"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=25
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="why there are so many noobs in this tournament\"
+team_name="observer"
+time="1454854812"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,11,10,9,8,7,7,7"
+			y="6,7,7,8,8,9,10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="that guy who played vs master before was a bit noobish"
+team_name="observer"
+time="1454854829"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="13,13,13,13,12,12"
+			y="6,7,8,9,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="and now 4 scouts"
+team_name="observer"
+time="1454854832"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,10,9,8,7,6"
+			y="5,4,4,3,3,2"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=2
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,13,12,12,12"
+			y="5,6,6,7,8"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="17,17,18,19,20,21,21,21"
+			y="5,6,6,7,7,8,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="miss you, zion"
+team_name="observer"
+time="1454854848"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,17,18,19,20,21"
+			y="4,5,4,5,5,5"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="13,12,11,10,9,9,8,8,7"
+			y="25,24,24,23,23,22,21,20,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="my elder senses are tingling xD"
+team_name="observer"
+time="1454854869"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,10,9,8,7"
+			y="25,24,25,25,25"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=25
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="15,15,15,15,16,16"
+			y="24,23,22,21,20,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="oh"
+team_name="observer"
+time="1454854878"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,17,18,19,19,20,20,21"
+			y="23,23,22,22,21,20,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,18,19,20,21,22,23"
+			y="25,24,24,24,24,23,24"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=24
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="igorbat99"
+message="ggl hf"
+time="1454854893"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="6,7,8,9,10,11,12,13,14"
+			y="2,3,3,4,4,5,5,5,4"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="7,7,7,7,7"
+			y="11,12,13,14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,11,11,10,10,10,10,10,9"
+			y="10,11,12,12,13,14,15,16,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=13
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="vandal"
+message="ElderofZion hi mate, how are u? mb u will shut up!? or u was born with good skills in wesnoth?"
+team_name="observer"
+time="1454854928"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,10,10,10,9"
+			y="13,14,15,16,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=9
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="lol"
+team_name="observer"
+time="1454854930"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,20,20,20,20,20,19,18"
+			y="5,5,6,7,8,9,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=18
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="no i wasnt? why would i be"
+team_name="observer"
+time="1454854936"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="but i thought"
+team_name="observer"
+time="1454854940"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="taht to start in a tournament"
+team_name="observer"
+time="1454854945"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="12,11,10,9,8,7,6,5"
+			y="8,8,7,7,6,6,5,6"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="you ate least have to be decent"
+team_name="observer"
+time="1454854950"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="23,22,21,20,19,18,17"
+			y="24,23,24,24,24,23,23"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=23
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,21,21"
+			y="19,18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=18
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="EoZ: come of your minds about Halifat a bad. heal+8.... +8 EoZ!!!!"
+team_name="observer"
+time="1454854964"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,21"
+			y="18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,21"
+			y="17,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,21"
+			y="16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="u missed it"
+team_name="observer"
+time="1454854980"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,21,21"
+			y="15,16,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="21,20"
+			y="17,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="thats the only good thing about that faction"
+team_name="observer"
+time="1454854988"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="but still you know that heal isnt really taht useful on 1vs1 maps?"
+team_name="observer"
+time="1454855006"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,7,7,6"
+			y="20,19,18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="you make augurs for magic"
+team_name="observer"
+time="1454855014"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="you make shammys for slow"
+team_name="observer"
+time="1454855018"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,5,5,4"
+			y="17,17,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=4
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="4,4,4"
+			y="15,14,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=4
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="heal is only slighty useful"
+team_name="observer"
+time="1454855026"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="wall"
+team_name="observer"
+time="1454855039"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="this fraction about wall"
+team_name="observer"
+time="1454855046"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="вандал, так что там насчёт твоего ладдера с зионом? "
+team_name="observer"
+time="1454855051"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="u can't stop wall"
+team_name="observer"
+time="1454855052"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="unit wall? XD"
+team_name="observer"
+time="1454855054"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message=")"
+team_name="observer"
+time="1454855057"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,12,13,14"
+			y="5,4,5,4"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=4
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="6,5"
+			y="5,6"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=5
+				final_hex_y=6
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="7,6,6,5,4,3"
+			y="15,14,13,13,12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=3
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=0
+			defender_type="Vampire Bat"
+			defender_weapon=-1
+			tod="dusk"
+			turn=4
+			weapon=1
+			[source]
+				x=3
+				y=13
+			[/source]
+			[destination]
+				x=4
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="2115319042"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="yes"
+team_name="observer"
+time="1454855059"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="units*"
+team_name="observer"
+time="1454855064"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="9,9,8,7,6,5,5"
+			y="17,16,15,15,14,14,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=5
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=0
+			defender_type="Vampire Bat"
+			defender_weapon=-1
+			tod="dusk"
+			turn=4
+			weapon=1
+			[source]
+				x=5
+				y=13
+			[/source]
+			[destination]
+				x=4
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1910744197"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="its like some orc tactic xD"
+team_name="observer"
+time="1454855067"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="vandal"
+message="and again if u didnt know power of Khalifat, it doesnt meant they are not strong"
+team_name="observer"
+time="1454855083"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Merman Hunter"
+			x=12
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1917966358"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Archer"
+			x=13
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1098866456"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="i dont see the power of khalifat"
+team_name="observer"
+time="1454855089"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="not in theory"
+team_name="observer"
+time="1454855096"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="nor in reality"
+team_name="observer"
+time="1454855098"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="почему все эти игроки не в моей корзине?"
+team_name="observer"
+time="1454855101"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="vandal"
+message="someone here win tournament with them :)"
+team_name="observer"
+time="1454855116"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="аааа"
+team_name="observer"
+time="1454855103"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="17,16,15,14,14"
+			y="23,23,24,24,25"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=25
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+sent=""
+[recruit]
+
+			type="Dark Adept"
+			x=16
+			y=23
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1579971347"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Vampire Bat"
+			x=14
+			y=24
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="682106619"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Dark Adept"
+			x=15
+			y=24
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1043565943"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Dark Adept"
+			x=11
+			y=25
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1306151376"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Walking Corpse"
+			x=12
+			y=25
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="512803614"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="vandal"
+message="nikuda ne uidew ot menia"
+team_name="observer"
+time="1454855145"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="maybe you can play well with them, ok, but im not sure if i know how to play well with them"
+team_name="observer"
+time="1454855136"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="vandal"
+message="ili Ravina :)"
+team_name="observer"
+time="1454855150"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="prob not"
+team_name="observer"
+time="1454855138"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="and yet"
+team_name="observer"
+time="1454855149"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="7,7,7,7,7,7"
+			y="25,24,23,22,21,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,13,12"
+			y="25,25,24"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=24
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,17,17,17"
+			y="19,19,18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="20,20"
+			y="17,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="i havent seen anyone with my own eyes"
+team_name="observer"
+time="1454855157"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20"
+			y="16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="do particularly good with them"
+team_name="observer"
+time="1454855162"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20"
+			y="15,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="vandal"
+message="that why we need more tournaments and games with khalifat"
+team_name="observer"
+time="1454855204"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,20"
+			y="14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="4,4,4,4,4,4,5,6,6"
+			y="13,14,15,16,17,18,19,19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="that indicates they are worse than other factions"
+team_name="observer"
+time="1454855198"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="vandal"
+message="kak probka"
+team_name="observer"
+time="1454855226"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="просто майнд гейм"
+team_name="observer"
+time="1454855213"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="12,12,13,14,14,14"
+			y="6,7,8,8,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="13,13,13,13,12,12"
+			y="6,7,8,9,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="5,5,6,6,6,6,6,6"
+			y="13,14,14,15,16,17,18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=16
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,6,6,6"
+			y="16,17,18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=17
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="i dont mind a tournament with khalifate"
+team_name="observer"
+time="1454855230"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="покупаем юниты которым больновато бить друг по другу, изи"
+team_name="observer"
+time="1454855231"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,6,6"
+			y="17,18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="что-то я отвык от веснота даже больше, чем раньше думал :)"
+side="2"
+time="1454855233"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=0
+			defender_type="Vampire Bat"
+			defender_weapon=-1
+			tod="first_watch"
+			turn=5
+			weapon=1
+			[source]
+				x=6
+				y=19
+			[/source]
+			[destination]
+				x=6
+				y=20
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="817584422"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="i even think its a good thing"
+team_name="observer"
+time="1454855241"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="3,3,3,4,4,5,5,5,5"
+			y="13,14,15,15,16,17,18,19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=5
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=0
+			defender_type="Vampire Bat"
+			defender_weapon=-1
+			tod="first_watch"
+			turn=5
+			weapon=1
+			[source]
+				x=5
+				y=20
+			[/source]
+			[destination]
+				x=6
+				y=20
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1343849666"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="vandal"
+message="u menia na4inaet podgorat' opiat ot etogo parnia"
+team_name="observer"
+time="1454855255"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="vandal"
+message="powel ia otsiuda"
+team_name="observer"
+time="1454855261"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="мышку жалко :("
+side="2"
+time="1454855249"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Ishayahu"
+message="я тоже"
+side="1"
+time="1454855252"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="as i said in the previous tournament game im pleased to see tournaments with khalifate xD"
+team_name="observer"
+time="1454855255"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Ishayahu"
+message="очень сильно отличается интерфейс"
+side="1"
+time="1454855260"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Wose"
+			x=13
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="2001544389"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну интерфейс вроде знакомый, но сам игровой процесс уже непривычен"
+side="2"
+time="1454855284"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="but yet i didnt see anybody do good with khalifate"
+team_name="observer"
+time="1454855287"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="igorbat99"
+message="представляете, в инете есть гайды по этим вашим расам"
+time="1454855289"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="лол, ишау, когда ты последний раз-то играл?)"
+time="1454855290"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а причем здесь гайды?"
+side="2"
+time="1454855303"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Ishayahu"
+message="сто лет назад"
+side="1"
+time="1454855306"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="its like tournaments with other eras"
+team_name="observer"
+time="1454855309"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="igorbat99"
+message="прочти их"
+time="1454855310"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="they are cool"
+team_name="observer"
+time="1454855312"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="да, игорь, причём здесь гайды?"
+time="1454855311"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="but that doesnt mean factions with them are balanced"
+team_name="observer"
+time="1454855321"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="предположим, всё что мне было интересно, я уже прочитал"
+side="2"
+time="1454855326"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="что дальше делать?"
+side="2"
+time="1454855330"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="*in"
+team_name="observer"
+time="1454855332"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="it more fun cup's"
+team_name="observer"
+time="1454855334"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="/me подавился"
+team_name="observer"
+time="1454855337"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Ishayahu"
+message="я играю не для победы, скорее для массовости)"
+side="1"
+time="1454855338"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="cups*"
+team_name="observer"
+time="1454855338"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="14,14,14,14,14,14,14,14,14"
+			y="24,23,22,21,20,19,18,17,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=18
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="14,14,14"
+			y="18,17,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,18,18,18,18"
+			y="17,16,15,14,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=18
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20,20,19"
+			y="15,14,13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=19
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,16,17,18,18,18,18"
+			y="23,22,22,21,20,19,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=18
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="ofc it is"
+team_name="observer"
+time="1454855375"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="15,15,15,15,15,16,17"
+			y="24,23,22,21,20,19,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="first_watch"
+			turn=5
+			weapon=0
+			[source]
+				x=7
+				y=20
+			[/source]
+			[destination]
+				x=6
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1432239884"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="ElderofZion"
+message="and i like it"
+team_name="observer"
+time="1454855391"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,11,10,9,9,9"
+			y="25,24,23,23,22,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=9
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="12,11,11,11"
+			y="25,25,24,23"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=23
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="12,11,10,9,8,7,6"
+			y="24,24,23,23,22,22,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="your right"
+team_name="observer"
+time="1454855409"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="чёт 4 скаута со старта фейлом попахивают"
+team_name="observer"
+time="1454855450"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="6,6,6,6,6,6,6,7,7,7"
+			y="19,18,17,16,15,14,13,13,12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="5,5,5,4,4,4,4,4,3"
+			y="20,19,18,17,16,15,14,13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=3
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="13,14,15,15"
+			y="6,6,7,8"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=15
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="12,13,14,15,16,17"
+			y="10,10,9,10,10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="14,13,12"
+			y="10,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Shaman"
+			x=13
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="595203670"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="я о мертвецах помню только, что вроде адептами воюют и остальным прикрываются, больше ничего не отложилось :)"
+side="2"
+time="1454855458"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="чет без пехов, луки и рыба, нету пней"
+team_name="observer"
+time="1454855467"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="в последний раз садился около года назад"
+side="2"
+time="1454855471"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="igorbat99"
+message="мда"
+time="1454855471"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="я бы подсказал, но зачем развешивать спойлеры))))))"
+time="1454855478"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="и то 4 партии лоялами сыграл"
+side="2"
+time="1454855479"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="igorbat99"
+message="наслаждайтесь"
+time="1454855486"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="да не, мне что-то кажется, что тут троллем попахивает"
+side="2"
+time="1454855497"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="люди сели поиграть для удовольствия"
+side="2"
+time="1454855507"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а не в шахматный турнир"
+side="2"
+time="1454855511"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="igorbat99"
+message="так нет, я уж пончл это"
+time="1454855515"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="игорь, хватит бросаться на старичков уже. умерь себя"
+team_name="observer"
+time="1454855515"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну и что, что не сходили e2e4 - e7e5"
+side="2"
+time="1454855518"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="igorbat99"
+message="поэтому и наслаждайтесь"
+time="1454855522"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,7,7,7,7,7,6"
+			y="20,19,18,17,16,15,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=18
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,7,7,7,6"
+			y="18,17,16,15,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="да всё норм, гёс, не парься"
+time="1454855528"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="9,8,7,7,6,5"
+			y="21,20,20,19,18,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=5
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,11,10,9,9"
+			y="23,22,21,21,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=9
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="6,7,8,9,10,11,12"
+			y="21,22,22,23,23,24,24"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=24
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="вас стримят, кстати)"
+time="1454855538"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="18,17,16,16"
+			y="13,13,12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=0
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=16
+				y=11
+			[/source]
+			[destination]
+				x=17
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="60551709"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="igorbat99"
+message="/me плечами пожал"
+team_name="observer"
+time="1454855546"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,18,17,16,15,15,16"
+			y="13,12,13,12,12,11,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=12
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,17"
+			y="12,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Ghost"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=0
+			tod="second_watch"
+			turn=6
+			weapon=0
+			[source]
+				x=17
+				y=12
+			[/source]
+			[destination]
+				x=17
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1245722738"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,18,18,18,18,19"
+			y="18,17,16,15,14,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=19
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="17,18,18,18,19,20,21"
+			y="19,18,17,16,16,15,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="14,15,16,17,18,19,20"
+			y="16,16,15,15,15,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а, ну передаю привет)00"
+side="2"
+time="1454855602"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,20,19,18,17,16,15,15"
+			y="10,10,11,10,10,9,10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=15
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Skeleton"
+			defender_weapon=-1
+			tod="dawn"
+			turn=7
+			weapon=1
+			[source]
+				x=15
+				y=11
+			[/source]
+			[destination]
+				x=16
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="425794937"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="17,18,19,20,21"
+			y="11,10,10,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="15,15,16,17,17"
+			y="8,9,9,10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Wose"
+			defender_lvl=1
+			defender_type="Skeleton"
+			defender_weapon=0
+			tod="dawn"
+			turn=7
+			weapon=0
+			[source]
+				x=17
+				y=11
+			[/source]
+			[destination]
+				x=16
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="201796232"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="мне, если честно, было самому интересно, на что я способен после года перерыва)0"
+side="2"
+time="1454855627"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="даже за временем суток отвык следить"
+side="2"
+time="1454855635"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="13,14,15,15"
+			y="6,6,7,8"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=15
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="12,12,13,14,15,16"
+			y="10,11,12,12,13,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Merman Hunter"
+			defender_lvl=1
+			defender_type="Skeleton"
+			defender_weapon=-1
+			tod="dawn"
+			turn=7
+			weapon=1
+			[source]
+				x=16
+				y=12
+			[/source]
+			[destination]
+				x=16
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1407821895"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="вроде темно, иду атаковать, а уже утро :)"
+side="2"
+time="1454855643"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Archer"
+			x=14
+			y=5
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1708531664"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,15,15,16,17"
+			y="4,5,6,6,7"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=7
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="7,8,9,10,11,12,13,14,15,16"
+			y="11,10,10,9,10,9,9,9,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Skeleton"
+			defender_weapon=-1
+			tod="dawn"
+			turn=7
+			weapon=1
+			[source]
+				x=16
+				y=10
+			[/source]
+			[destination]
+				x=16
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1138314177"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="3,4,5,6,7"
+			y="13,12,12,11,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну минут через 15 врублюсь, что к чему, наверное"
+side="2"
+time="1454855680"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,21,21,22,22,22"
+			y="15,14,13,12,11,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=1
+			tod="dawn"
+			turn=7
+			weapon=0
+			[source]
+				x=22
+				y=10
+			[/source]
+			[destination]
+				x=21
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="110257343"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,18,19,20,20,21"
+			y="12,12,12,11,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Merman Hunter"
+			defender_weapon=0
+			tod="dawn"
+			turn=7
+			weapon=0
+			[source]
+				x=16
+				y=11
+			[/source]
+			[destination]
+				x=16
+				y=12
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="511531184"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20,21,21,22,22,23,24,24"
+			y="15,14,14,13,12,11,11,10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,7,7,7,7,7,7"
+			y="14,15,16,17,18,19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,13,14"
+			y="24,25,25"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=25
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="19,18,17,16,16"
+			y="14,14,15,15,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+sent=""
+[recruit]
+
+			type="Dark Adept"
+			x=16
+			y=23
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1855610416"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Ghost"
+			x=15
+			y=24
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="764388712"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Ghoul"
+			x=11
+			y=25
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="866407620"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="14,14,15,16,17"
+			y="25,24,24,23,23"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=23
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="5,5,5,5"
+			y="18,17,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=5
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,13,13,13,13,13,12"
+			y="5,6,7,8,9,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Wose"
+			defender_lvl=1
+			defender_type="Skeleton"
+			defender_weapon=0
+			tod="morning"
+			turn=8
+			weapon=0
+			[source]
+				x=17
+				y=11
+			[/source]
+			[destination]
+				x=16
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1836568013"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,17,18,19,20"
+			y="10,10,10,10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Ghost"
+			defender_weapon=1
+			tod="morning"
+			turn=8
+			weapon=1
+			[source]
+				x=20
+				y=9
+			[/source]
+			[destination]
+				x=21
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1716936529"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="15,15,15,16"
+			y="8,9,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Shaman"
+			defender_lvl=1
+			defender_type="Skeleton"
+			defender_weapon=-1
+			tod="morning"
+			turn=8
+			weapon=1
+			[source]
+				x=16
+				y=10
+			[/source]
+			[destination]
+				x=16
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1617693383"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="15,16,17,18,19,20,21,22,22"
+			y="11,10,10,9,9,8,8,8,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Ghost"
+			defender_weapon=1
+			tod="morning"
+			turn=8
+			weapon=1
+			[source]
+				x=22
+				y=9
+			[/source]
+			[destination]
+				x=21
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1982410816"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,17,18,19,20,21"
+			y="12,12,11,11,11,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Merman Hunter"
+			defender_lvl=1
+			defender_type="Ghost"
+			defender_weapon=1
+			tod="morning"
+			turn=8
+			weapon=1
+			[source]
+				x=21
+				y=11
+			[/source]
+			[destination]
+				x=21
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="143067639"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="18,19,20,21"
+			y="10,10,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="morning"
+			turn=8
+			weapon=0
+			[source]
+				x=21
+				y=10
+			[/source]
+			[destination]
+				x=22
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="890135204"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="17,16,15,15,14"
+			y="7,6,6,5,4"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=4
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="22,23,24,25,26,27"
+			y="10,11,11,12,12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="24,24,24,25,25,26"
+			y="9,10,11,12,13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="26,27"
+			y="13,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="16,17,18,19,20,21"
+			y="16,17,17,18,18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,17,18,19,20,21"
+			y="23,23,22,22,21,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="15,15,15,15,15,16,16,17"
+			y="24,23,22,21,20,19,18,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="17,16,15,14,14"
+			y="23,23,24,24,25"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=25
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+sent=""
+[recruit]
+
+			type="Walking Corpse"
+			x=16
+			y=23
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1514265223"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,11,10,10,10,10"
+			y="25,24,23,22,21,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="7,7,7,7,7,7,6"
+			y="20,19,18,17,16,15,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=15
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,6"
+			y="15,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="9,8,7,6,6"
+			y="20,19,19,18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,15,16"
+			y="25,25,24"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=16
+				final_hex_y=24
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="5,5,5,6,6,6"
+			y="6,7,8,8,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Fighter"
+			x=12
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1546896217"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="12,11,10,9,8,8"
+			y="10,11,11,12,12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=8
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="7,7,7,8,8,7"
+			y="11,12,13,13,14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=12
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,7,8,8,7"
+			y="12,13,13,14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="afternoon"
+			turn=9
+			weapon=0
+			[source]
+				x=7
+				y=15
+			[/source]
+			[destination]
+				x=6
+				y=14
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1272420910"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="6,7"
+			y="10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="22,23,24,25,26,27"
+			y="9,10,10,11,11,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="afternoon"
+			turn=9
+			weapon=0
+			[source]
+				x=27
+				y=12
+			[/source]
+			[destination]
+				x=27
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1084590015"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="gamelle"
+message="hi guys :)"
+team_name="observer"
+time="1454856066"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,21,22,23,24,25,26"
+			y="10,11,11,12,12,13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=11
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="22,23,24,25,26"
+			y="11,12,12,13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="afternoon"
+			turn=9
+			weapon=0
+			[source]
+				x=26
+				y=13
+			[/source]
+			[destination]
+				x=27
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="972712305"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="hi"
+time="1454856077"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,21,22,23,24,25,26"
+			y="9,10,10,11,11,12,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="afternoon"
+			turn=9
+			weapon=0
+			[source]
+				x=26
+				y=12
+			[/source]
+			[destination]
+				x=27
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="638434726"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="diomed"
+message="hi"
+team_name="observer"
+time="1454856077"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="sry, obs chat"
+time="1454856083"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="17,18,19,19"
+			y="11,11,12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=19
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,17,18,19,20,21"
+			y="10,11,10,11,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="мне всегда интересно почитать, о чем там шепчутся в зрителях :)"
+side="2"
+time="1454856108"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="прям интрига\"
+side="2"
+time="1454856112"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,15,14"
+			y="24,25,25"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=25
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Skeleton"
+			x=11
+			y=25
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="283775810"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="там куча советов и спойлеров"
+time="1454856161"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,17,18,19,20"
+			y="23,23,22,22,21"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=21
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="27,27,26,25,24,24,25"
+			y="14,15,15,15,14,13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="27,27"
+			y="13,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="afternoon"
+			turn=9
+			weapon=0
+			[source]
+				x=27
+				y=14
+			[/source]
+			[destination]
+				x=26
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="а нет, все молчат. обманул"
+time="1454856182"
+[/speak]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1900077647"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,21,22,23,24,25,26"
+			y="19,18,17,17,16,16,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=26
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,21,21,21,21"
+			y="21,20,19,18,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="17,18,19,20,21,22"
+			y="18,17,17,16,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="22,23"
+			y="15,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,22"
+			y="17,17"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=17
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="6,6"
+			y="14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="afternoon"
+			turn=9
+			weapon=0
+			[source]
+				x=6
+				y=15
+			[/source]
+			[destination]
+				x=7
+				y=15
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="2124348449"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="5,6"
+			y="15,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="afternoon"
+			turn=9
+			weapon=0
+			[source]
+				x=6
+				y=14
+			[/source]
+			[destination]
+				x=7
+				y=15
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="161196693"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="6,6,7,7"
+			y="17,16,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,10,10,10,10,10"
+			y="20,19,18,17,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="8,9,10,10,11,12"
+			y="13,13,12,11,11,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="12,12,12"
+			y="6,7,8"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Scout"
+			x=12
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1216021561"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="прям столько народу на нашу нубскую разминку, прям смущает :)"
+side="2"
+time="1454856282"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="27,27"
+			y="12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=27
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="dusk"
+			turn=10
+			weapon=0
+			[source]
+				x=27
+				y=13
+			[/source]
+			[destination]
+				x=27
+				y=14
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1423318852"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="26,25,24,24"
+			y="12,12,12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=0
+			defender_type="Vampire Bat"
+			defender_weapon=-1
+			tod="dusk"
+			turn=10
+			weapon=1
+			[source]
+				x=24
+				y=13
+			[/source]
+			[destination]
+				x=25
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="154844929"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="во второй побольше экшона должно быть"
+side="2"
+time="1454856295"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="26,26,25"
+			y="13,12,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=0
+			defender_type="Vampire Bat"
+			defender_weapon=-1
+			tod="dusk"
+			turn=10
+			weapon=1
+			[source]
+				x=25
+				y=12
+			[/source]
+			[destination]
+				x=25
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="296137213"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,21,22,23,24"
+			y="10,11,11,12,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Shaman"
+			defender_lvl=0
+			defender_type="Vampire Bat"
+			defender_weapon=-1
+			tod="dusk"
+			turn=10
+			weapon=1
+			[source]
+				x=24
+				y=12
+			[/source]
+			[destination]
+				x=25
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1328504755"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="26,26,26,25"
+			y="16,15,14,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=25
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="dusk"
+			turn=10
+			weapon=0
+			[source]
+				x=25
+				y=14
+			[/source]
+			[destination]
+				x=24
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1123473275"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="22,22,23,24,24"
+			y="17,16,16,15,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="dusk"
+			turn=10
+			weapon=0
+			[source]
+				x=24
+				y=14
+			[/source]
+			[destination]
+				x=24
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="227351577"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="23,22,22,23"
+			y="15,14,13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Ghost"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=0
+			tod="dusk"
+			turn=10
+			weapon=0
+			[source]
+				x=23
+				y=13
+			[/source]
+			[destination]
+				x=24
+				y=13
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1915919146"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,20,20,21,21"
+			y="21,20,19,19,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="11,11,10,10,10,10"
+			y="25,24,23,22,21,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Skeleton Archer"
+			x=11
+			y=25
+			[from]
+				x=14
+				y=25
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="989591955"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,6,6,7,7,7"
+			y="15,16,17,18,19,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,10,10,10,10"
+			y="15,14,13,12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=13
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,11"
+			y="13,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="6,7,8,9,10"
+			y="14,15,14,14,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="7,8,8"
+			y="15,14,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=8
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,10"
+			y="14,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,14,14,14,14,13,12"
+			y="25,24,23,22,21,21,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="ReNoM"
+message="самое главное что не понятно кто победит"
+team_name="observer"
+time="1454856583"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="24,24,23,22,21"
+			y="12,11,11,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="25,24,23,23,22"
+			y="12,11,11,10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="27,26,25,24,23,22"
+			y="13,12,12,11,11,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="12,11,10,9,8,7,6,6,6"
+			y="6,7,7,8,8,9,9,10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=10
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,6"
+			y="10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="12,12,12,13"
+			y="8,9,10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=13
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Scout"
+			x=12
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="259169861"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="ну по матчапу а поставил бы на эльфа. хотя эти кони"
+team_name="observer"
+time="1454856531"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,9,8,7,6"
+			y="13,13,12,13,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="first_watch"
+			turn=11
+			weapon=0
+			[source]
+				x=6
+				y=12
+			[/source]
+			[destination]
+				x=6
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1625136198"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="окружил бы себя лесом и было бы счастье"
+team_name="observer"
+time="1454856547"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="8,7,6,5,5"
+			y="13,13,13,13,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=5
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=0
+			attacker_type="Walking Corpse"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=0
+			tod="first_watch"
+			turn=11
+			weapon=0
+			[source]
+				x=5
+				y=12
+			[/source]
+			[destination]
+				x=6
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1085767235"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="зооомбя"
+side="2"
+time="1454856560"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,10,9,8,7"
+			y="13,12,12,12,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Ghoul"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=0
+			tod="first_watch"
+			turn=11
+			weapon=0
+			[source]
+				x=7
+				y=12
+			[/source]
+			[destination]
+				x=7
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="707738161"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,10,10,10,10,10"
+			y="20,19,18,17,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="7,7,7,7,7,7,6"
+			y="20,19,18,17,16,15,14"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=14
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,11,10,10,10,10"
+			y="25,24,23,22,21,20"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=20
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="12,11,11,11,11,11"
+			y="20,20,19,18,17,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="25,25,25,25,24,23"
+			y="14,13,12,11,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="first_watch"
+			turn=11
+			weapon=0
+			[source]
+				x=23
+				y=10
+			[/source]
+			[destination]
+				x=22
+				y=9
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1741006533"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="23,23,24,24,24,23,22"
+			y="13,12,11,10,9,9,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Ghost"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=0
+			tod="first_watch"
+			turn=11
+			weapon=0
+			[source]
+				x=22
+				y=9
+			[/source]
+			[destination]
+				x=22
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1809153022"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,21,21,21"
+			y="18,17,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="24,24,24,24,23"
+			y="14,13,12,11,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="first_watch"
+			turn=11
+			weapon=0
+			[source]
+				x=23
+				y=11
+			[/source]
+			[destination]
+				x=22
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1341332395"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,11,10,9,8,7,6,6"
+			y="6,7,7,8,8,9,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=0
+			defender_type="Walking Corpse"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=12
+			weapon=1
+			[source]
+				x=6
+				y=10
+			[/source]
+			[destination]
+				x=6
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1584550221"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Archer"
+			defender_lvl=0
+			defender_type="Walking Corpse"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=12
+			weapon=1
+			[source]
+				x=7
+				y=11
+			[/source]
+			[destination]
+				x=6
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1816517028"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Shaman"
+			defender_lvl=1
+			defender_type="Ghost"
+			defender_weapon=1
+			tod="second_watch"
+			turn=12
+			weapon=1
+			[source]
+				x=21
+				y=10
+			[/source]
+			[destination]
+				x=22
+				y=9
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1587615532"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="недолго прожила ("
+side="2"
+time="1454856669"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,21,22,23"
+			y="11,12,12,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Merman Hunter"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=23
+				y=12
+			[/source]
+			[destination]
+				x=23
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="246783649"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=22
+				y=10
+			[/source]
+			[destination]
+				x=23
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1096215742"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Scout"
+			x=17
+			y=5
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="532576459"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,20,21,22,23"
+			y="13,12,12,11,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Wose"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=23
+				y=11
+			[/source]
+			[destination]
+				x=23
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="2039398189"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,14,13,12"
+			y="4,5,6,6"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=6
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,11,10,10,10,11,11"
+			y="16,15,14,13,12,12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=12
+				stopped_early=yes
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,9,8"
+			y="12,12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=8
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=2
+			attacker_type="Deathblade"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=0
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=8
+				y=11
+			[/source]
+			[destination]
+				x=7
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="710429243"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="ммм"
+team_name="observer"
+time="1454856784"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,10,10,10,11,11"
+			y="15,14,13,12,12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=0
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=11
+				y=11
+			[/source]
+			[destination]
+				x=12
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1276438352"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,8,9,9,8"
+			y="12,12,12,11,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=8
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Ghoul"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=0
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=8
+				y=10
+			[/source]
+			[destination]
+				x=7
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1993583214"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,10,10,10,10,10"
+			y="20,19,18,17,16,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="6,6"
+			y="12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=6
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=1
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=6
+				y=11
+			[/source]
+			[destination]
+				x=7
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="242163601"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,6,6,7,7"
+			y="14,13,12,12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=7
+				y=11
+			[/source]
+			[destination]
+				x=6
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1014151736"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="5,5"
+			y="12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=5
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=0
+			attacker_type="Walking Corpse"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=0
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=5
+				y=11
+			[/source]
+			[destination]
+				x=6
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="135880750"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="second_watch"
+			turn=12
+			weapon=0
+			[source]
+				x=23
+				y=10
+			[/source]
+			[destination]
+				x=22
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1648623105"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="кони то тащат!"
+team_name="observer"
+time="1454856840"
+[/speak]
+[/command]
+
+	[command]
+		dependent=yes
+		from_side=2
+		sent=""
+		[choose]
+			value=0
+		[/choose]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="22,22,22,22"
+			y="9,8,7,6"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=6
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,20,20"
+			y="15,15,16"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=20
+				final_hex_y=16
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="dawn"
+			turn=13
+			weapon=0
+			[source]
+				x=6
+				y=10
+			[/source]
+			[destination]
+				x=7
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1714956051"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,11"
+			y="10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Archer"
+			defender_lvl=1
+			defender_type="Skeleton"
+			defender_weapon=-1
+			tod="dawn"
+			turn=13
+			weapon=1
+			[source]
+				x=11
+				y=10
+			[/source]
+			[destination]
+				x=11
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="475928623"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,12,12,12,12"
+			y="6,7,8,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=2
+			attacker_type="Red Mage"
+			defender_lvl=1
+			defender_type="Skeleton"
+			defender_weapon=-1
+			tod="dawn"
+			turn=13
+			weapon=1
+			[source]
+				x=12
+				y=10
+			[/source]
+			[destination]
+				x=11
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="2138883433"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="13,12,11,10,9"
+			y="11,10,11,11,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=9
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Fighter"
+			defender_lvl=1
+			defender_type="Ghoul"
+			defender_weapon=-1
+			tod="dawn"
+			turn=13
+			weapon=1
+			[source]
+				x=9
+				y=11
+			[/source]
+			[destination]
+				x=8
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1110195549"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,16,15,14,13,12,11,10,9,9"
+			y="5,5,6,6,7,7,8,8,9,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=9
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Scout"
+			defender_lvl=1
+			defender_type="Ghoul"
+			defender_weapon=-1
+			tod="dawn"
+			turn=13
+			weapon=1
+			[source]
+				x=9
+				y=10
+			[/source]
+			[destination]
+				x=8
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="970495689"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="23,22,21,20,19,18,17"
+			y="12,11,11,10,11,11,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=17
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="22,22,23,23,23"
+			y="10,9,9,8,7"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=23
+				final_hex_y=7
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=2
+			attacker_type="Elvish Rider"
+			defender_lvl=1
+			defender_type="Ghost"
+			defender_weapon=1
+			tod="dawn"
+			turn=13
+			weapon=1
+			[source]
+				x=23
+				y=7
+			[/source]
+			[destination]
+				x=22
+				y=6
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1978457623"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,21,21,21,21,21"
+			y="10,11,12,13,14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="23,23,24,24"
+			y="11,12,12,13"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=24
+				final_hex_y=13
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,7"
+			y="11,12"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=12
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,7"
+			y="11,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=1
+			tod="dawn"
+			turn=13
+			weapon=1
+			[source]
+				x=7
+				y=11
+			[/source]
+			[destination]
+				x=6
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1027331652"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="8,7"
+			y="10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=7
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="8,7,7,8"
+			y="11,11,10,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=8
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=2
+			attacker_type="Deathblade"
+			defender_lvl=1
+			defender_type="Elvish Scout"
+			defender_weapon=0
+			tod="dawn"
+			turn=13
+			weapon=0
+			[source]
+				x=8
+				y=9
+			[/source]
+			[destination]
+				x=9
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1386814717"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,10,10,9,8,8"
+			y="15,14,13,13,12,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=8
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton Archer"
+			defender_lvl=1
+			defender_type="Elvish Fighter"
+			defender_weapon=1
+			tod="dawn"
+			turn=13
+			weapon=1
+			[source]
+				x=8
+				y=11
+			[/source]
+			[destination]
+				x=9
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="293444421"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,7,8"
+			y="12,11,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=8
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Fighter"
+			defender_weapon=1
+			tod="dawn"
+			turn=13
+			weapon=0
+			[source]
+				x=8
+				y=10
+			[/source]
+			[destination]
+				x=9
+				y=11
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="101045567"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,8,9,10"
+			y="10,9,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=10
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Ghoul"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=0
+			tod="dawn"
+			turn=13
+			weapon=0
+			[source]
+				x=10
+				y=10
+			[/source]
+			[destination]
+				x=11
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1288202270"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20,20,21"
+			y="16,17,18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=21
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,12,13,13,13,13,14,14"
+			y="10,9,9,8,7,6,5,4"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=13
+				final_hex_y=6
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,16,15,14,13,12,12"
+			y="12,12,13,12,12,11,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Archer"
+			defender_lvl=1
+			defender_type="Ghoul"
+			defender_weapon=-1
+			tod="morning"
+			turn=14
+			weapon=1
+			[source]
+				x=11
+				y=10
+			[/source]
+			[destination]
+				x=10
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1449091546"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="23,22,21,20,19,18,17,16,15"
+			y="7,7,8,8,9,9,10,10,11"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=15
+				final_hex_y=11
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="24,23,22,22"
+			y="13,14,14,15"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=15
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="21,22,22,22,22"
+			y="15,15,16,17,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Shaman"
+			defender_lvl=0
+			defender_type="Walking Corpse"
+			defender_weapon=-1
+			tod="morning"
+			turn=14
+			weapon=1
+			[source]
+				x=22
+				y=18
+			[/source]
+			[destination]
+				x=21
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1970624266"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="короче красному лучше в северный кип бежать"
+team_name="observer"
+time="1454857027"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,7,8,9,10,11,12,13,14,15,16,17,18,19"
+			y="11,10,9,9,8,8,7,8,8,9,8,8,8,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="млять"
+side="2"
+time="1454857042"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="миссклик)0"
+side="2"
+time="1454857045"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="печально"
+time="1454857052"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="8,9,9,10,11"
+			y="10,10,9,8,9"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=9
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=1
+			defender_type="Elvish Archer"
+			defender_weapon=1
+			tod="morning"
+			turn=14
+			weapon=0
+			[source]
+				x=11
+				y=9
+			[/source]
+			[destination]
+				x=11
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1550556667"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="8,9,10,10,11,12"
+			y="9,9,8,7,7,6"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=6
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=2
+			attacker_type="Deathblade"
+			defender_lvl=2
+			defender_type="Red Mage"
+			defender_weapon=0
+			tod="morning"
+			turn=14
+			weapon=0
+			[source]
+				x=12
+				y=6
+			[/source]
+			[destination]
+				x=13
+				y=6
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1145965808"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="8,9,10,11"
+			y="11,11,10,10"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=10
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton Archer"
+			defender_lvl=1
+			defender_type="Merman Hunter"
+			defender_weapon=1
+			tod="morning"
+			turn=14
+			weapon=1
+			[source]
+				x=11
+				y=10
+			[/source]
+			[destination]
+				x=12
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1035357760"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=0
+			attacker_type="Walking Corpse"
+			defender_lvl=1
+			defender_type="Elvish Shaman"
+			defender_weapon=0
+			tod="morning"
+			turn=14
+			weapon=0
+			[source]
+				x=21
+				y=19
+			[/source]
+			[destination]
+				x=22
+				y=18
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1948950624"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=1
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="13,14,14"
+			y="6,5,4"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=14
+				final_hex_y=4
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="15,15,14,13,12"
+			y="11,10,9,9,8"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=8
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=2
+			attacker_type="Elvish Rider"
+			defender_lvl=1
+			defender_type="Dark Adept"
+			defender_weapon=-1
+			tod="afternoon"
+			turn=15
+			weapon=0
+			[source]
+				x=12
+				y=8
+			[/source]
+			[destination]
+				x=11
+				y=8
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1979637440"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Merman Hunter"
+			defender_lvl=1
+			defender_type="Skeleton Archer"
+			defender_weapon=1
+			tod="afternoon"
+			turn=15
+			weapon=1
+			[source]
+				x=12
+				y=10
+			[/source]
+			[destination]
+				x=11
+				y=10
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1390302380"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а опытный был товарищ"
+side="2"
+time="1454857126"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="темная сторона возлагала на него большие надежды"
+side="2"
+time="1454857136"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Shaman"
+			x=13
+			y=6
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1198056736"
+[/random_seed]
+[/command]
+
+[command]
+[speak]
+id="Scaramush"
+message="хмм. он же догадается..."
+team_name="observer"
+time="1454857136"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[recruit]
+
+			type="Elvish Scout"
+			x=14
+			y=5
+			[from]
+				x=14
+				y=4
+			[/from]
+		[/recruit]
+[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1165578785"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="14,13,12"
+			y="4,5,5"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=12
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=2
+			attacker_type="Red Mage"
+			defender_lvl=2
+			defender_type="Deathblade"
+			defender_weapon=-1
+			tod="afternoon"
+			turn=15
+			weapon=1
+			[source]
+				x=12
+				y=5
+			[/source]
+			[destination]
+				x=12
+				y=6
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="838802372"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="добро всегда ведь побеждает. у тебя априори нет шансов"
+time="1454857151"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="гыгы, 1хп"
+side="2"
+time="1454857160"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="22,22"
+			y="18,19"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=19
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Elvish Shaman"
+			defender_lvl=0
+			defender_type="Walking Corpse"
+			defender_weapon=-1
+			tod="afternoon"
+			turn=15
+			weapon=1
+			[source]
+				x=22
+				y=19
+			[/source]
+			[destination]
+				x=21
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="2082286220"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="22,22,22,22"
+			y="15,16,17,18"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=22
+				final_hex_y=18
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Wose"
+			defender_lvl=0
+			defender_type="Walking Corpse"
+			defender_weapon=0
+			tod="afternoon"
+			turn=15
+			weapon=0
+			[source]
+				x=22
+				y=18
+			[/source]
+			[destination]
+				x=21
+				y=19
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1926392798"
+[/random_seed]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+			side_number=2
+		[/init_side]
+		[checkup]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="у меня ещё целых 2 хода в запасе))"
+side="2"
+time="1454857178"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="и ещё есть довольно низкий шанс лидеркилла"
+side="2"
+time="1454857186"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="который мы ща и проверим)0"
+side="2"
+time="1454857191"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,10,10,10,11,11"
+			y="10,9,8,7,7,6"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=6
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Skeleton Archer"
+			defender_lvl=2
+			defender_type="Red Mage"
+			defender_weapon=1
+			tod="afternoon"
+			turn=15
+			weapon=1
+			[source]
+				x=11
+				y=6
+			[/source]
+			[destination]
+				x=12
+				y=5
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="750678310"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="зараза косая"
+side="2"
+time="1454857203"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,10,10,10,10,11"
+			y="9,8,7,6,5,5"
+		[/move]
+		[checkup]
+			[result]
+				final_hex_x=11
+				final_hex_y=5
+				stopped_early=no
+			[/result]
+			[result]
+				random_calls=0
+			[/result]
+		[/checkup]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Dark Adept"
+			defender_lvl=2
+			defender_type="Red Mage"
+			defender_weapon=1
+			tod="afternoon"
+			turn=15
+			weapon=0
+			[source]
+				x=11
+				y=5
+			[/source]
+			[destination]
+				x=12
+				y=5
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1258446574"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="пфф"
+time="1454857211"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну теперь нет("
+side="2"
+time="1454857213"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="mechANIC"
+message="полпроцента есть"
+time="1454857190"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="5/5"
+time="1454857223"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="надо 4/5 и не огрести ни одного в ответ"
+side="2"
+time="1454857229"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну была ни была"
+side="2"
+time="1454857235"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=2
+			attacker_type="Deathblade"
+			defender_lvl=2
+			defender_type="Red Mage"
+			defender_weapon=0
+			tod="afternoon"
+			turn=15
+			weapon=0
+			[source]
+				x=12
+				y=6
+			[/source]
+			[destination]
+				x=12
+				y=5
+			[/destination]
+		[/attack]
+		[checkup]
+		[/checkup]
+	[/command]
+
+[command]
+dependent="yes"
+from_side="server"
+[random_seed]
+new_seed="1349381709"
+[/random_seed]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Scaramush"
+message="лузееер"
+time="1454857241"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="щас там"
+side="2"
+time="1454857243"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message=")"
+side="2"
+time="1454857244"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="гг"
+side="2"
+time="1454857246"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Ishayahu"
+message="inshalla"
+side="1"
+time="1454857248"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="давай вторую"
+side="2"
+time="1454857250"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Ishayahu"
+message="gg"
+side="1"
+time="1454857252"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="?"
+side="2"
+time="1454857255"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Ishayahu"
+message="уже не могу"
+side="1"
+time="1454857257"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Ishayahu"
+message="в след раз"
+side="1"
+time="1454857264"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну ладно, тогда договримся в скайпе"
+side="2"
+time="1454857264"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+
+[command]
+[speak]
+id="server"
+message="Ishayahu has left the game."
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="server"
+message="gs_fx takes control of side 1."
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="server"
+message="gs_fx droids side 1."
+[/speak]
+[/command]
+[/replay]
+[replay_start]
+current_time="0"
+description="Warfare transforms the simple farms and villages of a peaceful region into a subtly parceled battlefield. Designed by Doc Paterson."
+experience_modifier="70"
+id="multiplayer_Hamlets"
+map_data="border_size=1
+usage=map
+
+Mm          , Wwf         , Wwf         , Gs^Fp       , Hh^Fp       , Hh          , Mm          , Hh          , Gs^Fp       , Hh          , Gs^Fp       , Gs^Fp       , Hh          , Hh          , Wwf         , Wwf         , Hh          , Hh          , Mm          , Gs^Fp       , Wwf         , Hh          , Gs^Fp       , Mm          , Mm          , Mm          , Mm          , Mm          , Mm          
+Hh^Fp       , Hh^Fp       , Wwf         , Mm          , Hh^Uf       , Hh^Fms      , Gg^Fms      , Hh^Fms      , Gs^Fp       , Hh          , Hh          , Gg          , Gs^Fms      , Gs^Fp       , Wwf         , Wwf         , Mm          , Gs^Fms      , Gs^Fms      , Wwf         , Wwf         , Hh          , Hh          , Hh^Fp       , Gs^Fms      , Mm          , Mm          , Mm^Xm       , Mm          
+Wwf         , Gg^Uf       , Gg          , Wwf         , Wwf         , Hh          , Gg^Vh       , Gg^Efm      , Gg          , Mm          , Hh          , Gg          , Gg          , Gg          , Wwf         , Wwf         , Wwf         , Hh          , Wwf         , Wwf         , Gg^Efm      , Gs^Fp       , Mm          , Hh          , Mm          , Hh          , Gg^Efm      , Mm          , Wwf         
+Mm          , Wwf         , Wwf         , Gg^Fms      , Hh          , Wwf         , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Wwf         , Wwf         , Hh          , Wwf         , Gg          , Wwf         , Gg          , Gg          , Gg^Uf       , Hh          , Wwf         , Wwf         , Wwf         , Hh          , Wwf         , Wwf         , Wwf         
+Mm          , Mm^Xm       , Wwf         , Mm          , Gg          , Wwf         , Wwf         , Wwf         , Wwf         , Gg          , Wwf         , Wwf         , Gg          , Wwf         , 1 Kh        , Gg^Fp       , Ch          , Gg          , Gg          , Gg          , Wwf         , Wwf         , Gg^Fp       , Gg^Fms      , Hh          , Wwf         , Gg          , Hh^Fms      , Mm          
+Mm          , Mm          , Wwf         , Wwf         , Hh          , Gg          , Gg^Fp       , Gg^Fms      , Wwf         , Wwf         , Gg          , Gg^Vh       , Gg          , Gg          , Ch          , Ch          , Wwf         , Ch          , Wwf         , Wwf         , Gs^Fp       , Gg^Vh       , Re^Gvs      , Re^Gvs      , Re^Gvs      , Re^Uf       , Gg          , Hh          , Mm          
+Wwf         , Wwf         , Wwf         , Wwf         , Wwf         , Gg^Vh       , Wwf         , Wwf         , Gg^Fms      , Gg          , Re^Gvs      , Re^Gvs      , Ch          , Ch          , Wwf         , Wwf         , Gg          , Wwf         , Gg          , Mm          , Gg          , Gg          , Re^Gvs      , Re^Gvs      , Gg^Wm       , Re^Gvs      , Re^Gvs      , Hh^Fp       , Hh          
+Wwf         , Wwf         , Gs^Fp       , Mm          , Hh          , Wwf         , Gg          , Hh          , Re^Gvs      , Re^Gvs      , Gg          , Gg          , Wwf         , Wwf         , Wwf         , Gs^Fms      , Mm          , Hh          , Gg          , Gg          , Re^Gvs      , Re^Gvs      , Hh          , Gg^Fms      , Gg^Efm      , Gs^Fp       , Gg          , Gg          , Gg          
+Hh^Fms      , Gg          , Gg^Efm      , Hh^Uf       , Hh^Fp       , Gs^Fms      , Gg          , Gg          , Gg          , Gg          , Wwf         , Wwf         , Hh^Fms      , Wwf         , Wwf         , Gg^Fp       , Gg          , Gg          , Re^Gvs      , Re^Gvs      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Hh          
+Mm          , Hh^Fms      , Gg          , Hh          , Mm          , Gg          , Wwf         , Wwf         , Wwf         , Wwf         , Gg          , Mm          , Gg          , Gg          , Wwf         , Wwf         , Gg          , Gg          , Gg          , Re^Gvs      , Gg          , Gg          , Gg^Fms      , Gg          , Gg          , Hh^Fms      , Mm          , Hh^Uf       , Hh          
+Hh^Fms      , Gg^Uf       , Wwf         , Wwf         , Wwf         , Wwf         , Gs^Fms      , Gg          , Gg          , Gg          , Gg          , Gg          , Ss^Vhs      , Gg          , Ww          , Gg          , Gg^Efm      , Gg          , Ch          , Gg          , Wwf         , Gs^Vh       , Hh          , Gg^Uf       , Gg          , Gg          , Hh^Fp       , Hh          , Hh          
+Wwf         , Wwf         , Hh          , Gg          , Gg          , Hh          , Hh^Fds      , Gg^Vh       , Gg          , Gg          , Gg          , Gg^Efm      , Ss          , Hh          , Ww          , Gs^Fms      , Mm          , Gs^Fp       , Wwf         , Wwf         , Gg          , Wwf         , Wwf         , Gg          , Wwf         , Wwf         , Wwf         , Wwf         , Wwf         
+Gg^Fp       , Gg^Fms      , Gg^Efm      , Gg          , Gg          , Gg^Wm       , Gg          , Gg^Efm      , Gg          , Gg          , Gg          , Gg          , Hh          , Wwf         , Ww          , Hh          , Wwf         , Wwf         , Gg          , Gg          , Gg^Efm      , Gg          , Gg          , Wwf         , Gg          , Gg          , Gg          , Mm          , Hh^Fms      
+Hh          , Hh          , Ch          , Hh^Fds      , Re^Gvs      , Re^Gvs      , Re^Gvs      , Gg          , Gg^Fms      , Gg          , Gg          , Hh^Uf       , Mm          , Gs^Fp       , Ww          , Wo          , Wwf         , Gg          , Gg          , Hh^Fms      , Gg^Uf       , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Hh^Fms      , Hh^Fds      
+Hh          , Gg^Uf       , Gg          , Re^Gvs      , Gg          , Re^Gvs      , Ch          , Hh          , Gg          , Gg          , Gg          , Hh          , Wwf         , Wwf         , Gg          , Gg^Efm      , Gg^Fms      , Wwf         , Gg          , Hh          , Gg          , Gg          , Hh^Fms      , Gg^Efm      , Gg          , Gg^Uf       , Gg          , Gs^Fp       , Mm          
+Mm          , Gg          , Gg          , Gg          , Gg          , Mm          , Hh^Fms      , Ch          , Gg^Efm      , Gg          , Gg          , Wwf         , Gg^Fp       , Gg^Uf       , Gg          , Gg^Uf       , Wwf         , Wwf         , Gg          , Gg          , Gg          , Ch          , Ch          , Mm          , Gg          , Gg          , Gg          , Hh^Fms      , Hh          
+Hh^Fds      , Gg^Fms      , Gg          , Gg^Uf       , Gs^Fp       , Gg^Efm      , Gg          , Gg          , Gg^Uf       , Hh          , Gg          , Wwf         , Wwf         , Gg^Efm      , Ww          , Wwf         , Mm          , Hh          , Gg          , Gg          , Gg^Fms      , Hh          , Re^Gvs      , Re^Gvs      , Re^Gvs      , Re^Gvs      , Ch          , Gg^Uf       , Hh          
+Hh^Fms      , Hh^Fms      , Gg^Efm      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Hh^Fms      , Gg          , Gg          , Wwf         , Wo          , Ww          , Gs^Fp       , Hh          , Hh^Uf       , Gg          , Gg          , Gg          , Gg          , Gg          , Re^Gvs      , Gg          , Hh^Fds      , Gg          , Hh          , Gg^Fms      
+Wwf         , Mm          , Wwf         , Gg          , Wwf         , Wwf         , Wwf         , Gg          , Gg          , Gg          , Wwf         , Wwf         , Mm          , Hh          , Ww          , Wwf         , Ss          , Gg          , Gg          , Gg          , Gg          , Gg^Efm      , Hh^Fds      , Gg^Wm       , Gg          , Gg          , Hh          , Gg^Fms      , Wwf         
+Hh          , Wwf         , Hh^Fp       , Wwf         , Gg          , Gg          , Hh          , Wwf         , Wwf         , Wwf         , Ch          , Gs^Fms      , Gg          , Gs^Fp       , Ww          , Hh          , Ss^Vhs      , Gg^Efm      , Gg          , Gg          , Gg          , Gg^Vh       , Gs^Fms      , Hh          , Wwf         , Gg          , Wwf         , Wwf         , Hh^Fms      
+Hh          , Hh          , Mm          , Gg          , Gg          , Gg^Uf       , Gs^Fp       , Gs^Vh       , Gg          , Gg          , Gg          , Gg^Efm      , Gg          , Gg          , Wwf         , Gg          , Gg          , Gg          , Gg          , Gg          , Wwf         , Gg          , Wwf         , Wwf         , Mm          , Wwf         , Gg          , Gg^Uf       , Mm          
+Gg^Efm      , Hh^Uf       , Gs^Fp       , Hh^Fms      , Gg          , Gg          , Gg          , Gg          , Gg          , Re^Gvs      , Re^Gvs      , Gg          , Gg          , Wwf         , Wwf         , Gg          , Hh^Fms      , Mm          , Wwf         , Wwf         , Gg          , Wwf         , Gg          , Gg^Efm      , Hh^Fp       , Hh          , Gg          , Hh^Fds      , Hh^Fds      
+Gg          , Gg          , Gg          , Gg^Efm      , Gg          , Gg          , Hh          , Gg          , Re^Gvs      , Re^Gvs      , Gg          , Gg          , Mm          , Gg^Fms      , Wwf         , Wwf         , Wwf         , Wwf         , Gg          , Gg          , Re^Gvs      , Gg          , Gg          , Gs^Fp       , Hh          , Hh^Uf       , Gs^Fp       , Gg          , Wwf         
+Hh          , Gg          , Re^Gvs      , Gs^Fp       , Gg^Wm       , Gg^Fms      , Re^Gvs      , Re^Gvs      , Gg          , Gg          , Gg          , Hh          , Gg          , Gg^Fp       , Wwf         , Wwf         , Ch          , Gg          , Re^Gvs      , Re^Gvs      , Gg^Fp       , Hh          , Wwf         , Wwf         , Wwf         , Mm          , Wwf         , Wwf         , Wwf         
+Mm          , Hh^Fms      , Gg          , Re^Gvs      , Re^Gvs      , Re^Gvs      , Re^Gvs      , Gg          , Gs^Fp       , Mm          , Wwf         , Wwf         , Wwf         , Wwf         , Ch          , Ch          , Gg          , Re^Gvs      , Gg          , Gg          , Wwf         , Wwf         , Gg^Fp       , Gg^Vh       , Hh          , Wwf         , Wwf         , Wwf         , Mm          
+Mm          , Hh          , Gg          , Re^Uf       , Hh          , Re^Gvs      , Gg^Fp       , Gg^Vh       , Wwf         , Wwf         , Gg          , Ch          , Ch          , Ch          , 2 Kh        , Gg          , Gg          , Gg^Vh       , Wwf         , Wwf         , Wwf         , Gg^Fms      , Wwf         , Gg          , Gg          , Gg          , Wwf         , Mm          , Mm          
+Wwf         , Hh^Fms      , Wwf         , Wwf         , Wwf         , Gg^Fms      , Wwf         , Wwf         , Gg^Uf       , Gg          , Gg          , Gg          , Gg          , Gg^Fp       , Hh          , Wwf         , Wwf         , Wwf         , Gg          , Gg          , Gg          , Wwf         , Gg          , Wwf         , Hh^Fms      , Hh          , Wwf         , Mm^Xm       , Mm          
+Wwf         , Wwf         , Gg^Efm      , Hh          , Mm          , Wwf         , Mm          , Hh          , Gg          , Gg          , Wwf         , Wwf         , Wwf         , Wwf         , Wwf         , Wwf         , Gs^Fms      , Gg          , Hh          , Gg          , Gg          , Gg          , Gg^Vh       , Wwf         , Wwf         , Mm          , Gg^Uf       , Wwf         , Wwf         
+Mm          , Mm          , Mm          , Hh          , Gs^Fms      , Hh^Fp       , Hh          , Gs^Fp       , Wwf         , Wwf         , Gs^Fms      , Hh          , Mm          , Wwf         , Wwf         , Wwf         , Hh^Fms      , Mm          , Gg^Uf       , Gg^Efm      , Gs^Fp       , Gg^Efm      , Gs^Fp       , Hh          , Hh^Fp       , Wwf         , Wwf         , Gg^Fms      , Hh^Fms      
+Mm          , Mm          , Mm          , Mm^Xo       , Mm          , Hh^Fp       , Gs^Fp       , Hh          , Wwf         , Wwf         , Mm          , Gs^Fms      , Hh          , Gg          , Wwf         , Wwf         , Hh          , Hh          , Mm          , Hh^Fp       , Gs^Fp       , Hh          , Gs^Fp       , Hh^Fp       , Mm          , Mm          , Wwf         , Hh          , Mm          
+"
+name="2p — Hamlets"
+next_underlying_unit_id="0"
+objectives="<big>" +
+#textdomain wesnoth
+	_"Victory:" +
+	"</big>
+<span foreground=""#00ff00"">&#8226; " +
+	_"Defeat enemy leader(s)" +
+	"</span>"
+observer="yes"
+random_seed="32561"
+random_start_time="no"
+shuffle_sides="yes"
+turns="-1"
+version="1.12.5"
+[event]
+
+[/event]
+[event]
+
+	name="prestart"
+	[music]
+		ms_before=12000
+		name="knolls.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="wanderer.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="battle.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="transience.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="revelation.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="loyalists.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_king_is_dead.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="knalgan_theme.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_city_falls.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="nunc_dimittis.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="breaking_the_chains.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="elvish-theme.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="legends_of_the_north.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="traveling_minstrels.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="underground.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="vengeful.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="frantic.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_dangerous_symphony.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="heroes_rite.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="suspense.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_deep_path.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="siege_of_laurelmor.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="casualties_of_war.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="silvan_sanctuary.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="battle-epic.ogg"
+	[/music]
+[/event]
+[music]
+
+	ms_before=12000
+	name="knolls.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="wanderer.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="battle.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="transience.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_king_is_dead.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="knalgan_theme.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_city_falls.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="nunc_dimittis.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="revelation.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="loyalists.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="breaking_the_chains.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="elvish-theme.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="legends_of_the_north.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="traveling_minstrels.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="underground.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="vengeful.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="frantic.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_dangerous_symphony.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="heroes_rite.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="suspense.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_deep_path.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="siege_of_laurelmor.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="casualties_of_war.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="silvan_sanctuary.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="battle-epic.ogg"
+[/music]
+[time]
+
+	green=-20
+	id="dawn"
+	image="misc/time-schedules/default/schedule-dawn.png"
+#textdomain wesnoth-help
+	name=_"Dawn"
+	red=-20
+	sound="ambient/morning.ogg"
+[/time]
+[time]
+
+	id="morning"
+	image="misc/time-schedules/default/schedule-morning.png"
+	lawful_bonus=25
+	name=_"Morning"
+[/time]
+[time]
+
+	id="afternoon"
+	image="misc/time-schedules/default/schedule-afternoon.png"
+	lawful_bonus=25
+	name=_"Afternoon"
+[/time]
+[time]
+
+	blue=-20
+	green=-20
+	id="dusk"
+	image="misc/time-schedules/default/schedule-dusk.png"
+	name=_"Dusk"
+	sound="ambient/night.ogg"
+[/time]
+[time]
+
+	blue=-10
+	green=-35
+	id="first_watch"
+	image="misc/time-schedules/default/schedule-firstwatch.png"
+	lawful_bonus=-25
+	name=_"First Watch"
+	red=-45
+[/time]
+[time]
+
+	blue=-10
+	green=-35
+	id="second_watch"
+	image="misc/time-schedules/default/schedule-secondwatch.png"
+	lawful_bonus=-25
+	name=_"Second Watch"
+	red=-45
+[/time]
+[multiplayer]
+
+	active_mods=""
+	difficulty_define=""
+	experience_modifier=70
+	hash="LR6.Pg3E5ksStD5y2WL2>aj1ySck88C>MbXziMekrbvy8F-ERl8n0vBCTL3<IuicLpizk++Q<7lh3a7wwuJgj>VvZy<MVcs0-aeZ35,ubPc<ndfotasj+VCGfHMZW-C0"
+	mp_campaign=""
+	mp_countdown=yes
+	mp_countdown_action_bonus=0
+	mp_countdown_init_time=300
+	mp_countdown_reservoir_time=300
+	mp_countdown_turn_bonus=300
+	mp_era="era_khalifate"
+	mp_fog=yes
+	mp_num_turns=-1
+	mp_random_start_time=no
+	mp_scenario="multiplayer_Hamlets"
+	mp_scenario_name="2и - Деревушки"
+	mp_shroud=no
+	mp_use_map_settings=yes
+	mp_village_gold=2
+	mp_village_support=1
+	observer=yes
+	savegame=no
+	scenario="wesnothlife.ru winter tournament 1/16 (for ishayahu)"
+	shuffle_sides=yes
+	side_users=""
+	[options]
+	[/options]
+[/multiplayer]
+[era]
+
+#textdomain wesnoth-multiplayer
+	description=_"An era featuring an additional faction besides the six factions from Default Era. Khalifate units use no magic, but instead rely on careful use of terrain and coordinated strikes around dusk or dawn.
+
+This era is still under development, so please be sure to report any problems that arise."
+	id="era_khalifate"
+	name=_"Default + Khalifate"
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Custom"
+		image="units/unknown-unit.png"
+		name=_"Custom"
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Random"
+		image="units/random-dice.png"
+		name=_"Random"
+		random_faction=yes
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Loyalists"
+		image="units/human-loyalists/lieutenant.png"
+		leader="Lieutenant,Swordsman,Pikeman,Javelineer,Shock Trooper,Longbowman,White Mage,Red Mage"
+		name=_"Loyalists"
+		random_leader="Lieutenant,Swordsman,Pikeman,Javelineer,Longbowman,White Mage,Red Mage"
+		recruit="Cavalryman,Horseman,Spearman,Fencer,Heavy Infantryman,Bowman,Mage,Merman Fighter"
+		terrain_liked="Gg,Ww,Wo"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,archer,mixed fighter,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Rebels"
+		image="units/elves-wood/captain.png"
+		leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage,Elder Wose"
+		name=_"Rebels"
+		random_leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage"
+		recruit="Elvish Fighter,Elvish Archer,Mage,Elvish Shaman,Elvish Scout,Wose,Merman Hunter"
+		terrain_liked="Ff,Fa,Ss,Ww"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,archer,mixed fighter,healer,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Northerners"
+		image="units/orcs/warrior.png"
+		leader="Orcish Warrior,Troll,Troll Rocklobber,Orcish Crossbowman,Orcish Slayer"
+		name=_"Northerners"
+		recruit="Orcish Grunt,Troll Whelp,Wolf Rider,Orcish Archer,Orcish Assassin,Naga Fighter,Goblin Spearman"
+		terrain_liked="Hh,Ha,Mm,Ss"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,mixed fighter,archer,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Undead"
+		image="units/undead-necromancers/dark-sorcerer.png"
+		leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter,Necrophage"
+		name=_"Undead"
+		random_leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter"
+		recruit="Skeleton,Skeleton Archer,Walking Corpse,Ghost,Vampire Bat,Dark Adept,Ghoul"
+		terrain_liked="Ss,Hh,Ha,Ww"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,fighter,scout,archer"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Knalgan Alliance"
+		image="units/dwarves/steelclad.png"
+		leader="Dwarvish Steelclad,Dwarvish Thunderguard,Dwarvish Stalwart,Rogue,Trapper"
+		name=_"Knalgan Alliance"
+		recruit="Dwarvish Guardsman,Dwarvish Fighter,Dwarvish Ulfserker,Dwarvish Thunderer,Thief,Poacher,Footpad,Gryphon Rider"
+		terrain_liked="Hh,Ha,Mm"
+		type="random"
+		[ai]
+			[aspect]
+				id="recruitment_pattern"
+				[facet]
+					value="fighter,fighter,fighter,mixed fighter,archer,scout"
+				[/facet]
+			[/aspect]
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Drakes"
+		image="units/drakes/flare.png"
+		leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior,Saurian Oracle,Saurian Soothsayer"
+		name=_"Drakes"
+		random_leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior"
+		recruit="Drake Burner,Drake Clasher,Drake Glider,Drake Fighter,Saurian Skirmisher,Saurian Augur"
+		terrain_liked="Hh,Ha,Ds,Ss"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,healer,scout,scout"
+		[/ai]
+	[/multiplayer_side]
+	[event]
+	[/event]
+	[event]
+		name="prestart"
+		[store_unit]
+			kill=yes
+			variable="leaders_to_make_quick"
+			[filter]
+				canrecruit=yes
+				[filter_wml]
+					max_moves=4
+				[/filter_wml]
+			[/filter]
+		[/store_unit]
+		[set_variable]
+			name="i"
+			value=0
+		[/set_variable]
+		[while]
+			[variable]
+				less_than="$leaders_to_make_quick.length"
+				name="i"
+			[/variable]
+			[do]
+				[if]
+					[variable]
+						boolean_equals=yes
+						name="leaders_to_make_quick[$i].variables.dont_make_me_quick"
+					[/variable]
+					[then]
+						[unstore_unit]
+							variable="leaders_to_make_quick[$i]"
+						[/unstore_unit]
+					[/then]
+					[else]
+						[set_variables]
+							name="temp"
+							[literal]
+								[trait]
+#textdomain wesnoth-help
+									female_name=_"female^quick"
+									id="quick"
+									male_name=_"quick"
+									[effect]
+										apply_to="movement"
+										increase=1
+									[/effect]
+									[effect]
+										apply_to="hitpoints"
+										increase_total="-5%"
+									[/effect]
+								[/trait]
+							[/literal]
+						[/set_variables]
+						[set_variables]
+							mode="append"
+							name="leaders_to_make_quick[$i].modifications.trait"
+							[insert_tag]
+								name="literal"
+								variable="temp.trait"
+							[/insert_tag]
+						[/set_variables]
+						[clear_variable]
+							name="leaders_to_make_quick[$i].max_moves,leaders_to_make_quick[$i].moves,leaders_to_make_quick[$i].max_hitpoints,leaders_to_make_quick[$i].hitpoints"
+						[/clear_variable]
+						[unstore_unit]
+							variable="leaders_to_make_quick[$i]"
+						[/unstore_unit]
+					[/else]
+				[/if]
+				[set_variable]
+					add=1
+					name="i"
+				[/set_variable]
+			[/do]
+		[/while]
+		[clear_variable]
+			name="i"
+		[/clear_variable]
+		[clear_variable]
+			name="leaders_to_make_quick,temp"
+		[/clear_variable]
+	[/event]
+	[event]
+		name="time over"
+		[lua]
+			code="
+                local _ = wesnoth.textdomain ""wesnoth-multiplayer""
+                local function all_sides()
+                    local function f(s, i)
+                        i = i + 1
+                        local t = wesnoth.sides[i]
+                        return t and i, t
+                    end
+                    return f, nil, 0
+                end
+
+                local income_factor = 5
+
+                local side_num = -1
+                local total_score = -1
+                local side_comparison = """"
+                for side, team in all_sides() do
+                    repeat -- ugly hack to convert 'break' into 'continue'
+                    if team.__cfg.hidden then
+                        break
+                    end
+                    local r, g, b = 255, 255, 255
+                    if     team.__cfg.color == 1 then r, g, b = 255,   0,   0
+                    elseif team.__cfg.color == 2 then r, g, b =   0,   0, 255
+                    elseif team.__cfg.color == 3 then r, g, b =   0, 255,   0
+                    elseif team.__cfg.color == 4 then r, g, b = 155,  48, 255
+                    elseif team.__cfg.color == 5 then r, g, b =   0,   0,   0
+                    elseif team.__cfg.color == 6 then r, g, b = 165,  42,  42
+                    elseif team.__cfg.color == 7 then r, g, b = 255, 165,   0
+                    elseif team.__cfg.color == 8 then r, g, b = 255, 255, 255
+                    elseif team.__cfg.color == 9 then r, g, b =   0, 128, 128 end
+                    if # wesnoth.get_units( { side = side } ) == 0 then
+                        side_comparison = side_comparison ..
+                            string.format( tostring( _ ""<span strikethrough='true' foreground='#%02x%02x%02x'>Side %d</span>"") .. ""\n"",
+                                r, g, b, side)
+                        break
+                    end
+                    local income = team.total_income * income_factor
+                    local units = 0
+                    -- Calc the total unit-score here
+                    for i, unit in ipairs( wesnoth.get_units { side = side } ) do
+                        if not unit.__cfg.canrecruit then
+                            wesnoth.fire(""unit_worth"", { id = unit.id })
+                            units = units + wesnoth.get_variable(""unit_worth"")
+                        end
+                    end
+                    -- Up to here
+                    local total = units + team.gold + income
+                    side_comparison = side_comparison ..
+                        string.format( tostring( _ ""<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit score = %d  Gold = %d"") .. ""\n"" .. tostring( _ ""Grand total: <b>%d</b>"") .. ""\n"",
+                            r, g, b, side, income, units, team.gold, total)
+                    if total > total_score then
+                        color = string.format(""#%02x%02x%02x"", r, g, b)
+                        side_num = side
+                        total_score = total
+                    end
+                    until true -- end ugly hack
+                end
+                side_comparison = side_comparison ..
+                    string.format( ""\n"" .. tostring( _ ""<span foreground='%s'>Side %d</span> has the advantage.""), color, side_num)
+                wesnoth.fire(""message"", { message = side_comparison, speaker = ""narrator"", image = ""wesnoth-icon.png""})
+            "
+		[/lua]
+	[/event]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Khalifate"
+		image="units/khalifate/muharib.png"
+		leader="Muharib,Ghazi,Mudafi,Monawish,Tabib"
+#textdomain wesnoth-multiplayer
+		name=_"Khalifate"
+		random_leader="Muharib,Ghazi,Mudafi,Monawish,Tabib"
+		recruit="Jundi,Arif,Khaiyal,Rami,Hakim,Naffat,Falcon"
+		terrain_liked="Ss,Hh,Ha,Ww"
+		type="random"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,mixed fighter,mixed fighter,archer,archer,scout"
+		[/ai]
+	[/multiplayer_side]
+[/era]
+[side]
+allow_changes="yes"
+canrecruit="yes"
+chose_random="yes"
+color="2"
+controller="network"
+current_player="Ishayahu"
+faction_name="Rebels"
+flag_rgb="magenta"
+fog="yes"
+gender="male"
+gold="100"
+image="units/elves-wood/captain.png"
+income="0"
+leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage,Elder Wose"
+name="Ishayahu"
+no_recruit="yes"
+player_id="Ishayahu1"
+random_leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage"
+recruit="Elvish Fighter,Elvish Archer,Mage,Elvish Shaman,Elvish Scout,Wose,Merman Hunter"
+save_id="Ishayahu1"
+share_maps="no"
+share_view="yes"
+shroud="no"
+side="1"
+team_name="north"
+terrain_liked="Ff,Fa,Ss,Ww"
+type="Red Mage"
+user_description="Ishayahu"
+user_team_name="wesnoth-multiplayerteamname^North"
+village_gold="2"
+village_support="1"
+[ai]
+
+		villages_per_scout=8
+	[/ai]
+[ai]
+recruitment_pattern="fighter,fighter,archer,archer,mixed fighter,healer,scout"
+[/ai]
+[/side]
+[side]
+allow_changes="yes"
+canrecruit="yes"
+chose_random="yes"
+color="1"
+controller="network"
+current_player="gs_fx"
+faction_name="Undead"
+flag_rgb="magenta"
+fog="yes"
+gender="male"
+gold="100"
+image="units/undead-necromancers/dark-sorcerer.png"
+income="0"
+leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter,Necrophage"
+name="gs_fx"
+no_recruit="yes"
+player_id="gs_fx2"
+random_leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter"
+recruit="Skeleton,Skeleton Archer,Walking Corpse,Ghost,Vampire Bat,Dark Adept,Ghoul"
+save_id="gs_fx2"
+share_maps="no"
+share_view="yes"
+shroud="no"
+side="2"
+team_name="south"
+terrain_liked="Ss,Hh,Ha,Ww"
+type="Deathblade"
+user_description="gs_fx"
+user_team_name="wesnoth-multiplayerteamname^South"
+village_gold="2"
+village_support="1"
+[ai]
+
+		villages_per_scout=8
+	[/ai]
+[village]
+
+		x=22
+		y=27
+	[/village]
+[ai]
+recruitment_pattern="fighter,fighter,archer,fighter,scout,archer"
+[/ai]
+[/side]
+[/replay_start]

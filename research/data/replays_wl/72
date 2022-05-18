@@ -1,0 +1,3645 @@
+campaign_type="multiplayer"
+difficulty="NORMAL"
+label="2p — Sablestone Delta Turn 7"
+mp_game_title="wesnothlife9 vandal vs renom"
+random_seed="24707"
+version="1.10.2"
+[replay]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="uda4i"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,6,7,8"
+			y="1,2,3,3"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="и тебе"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="nadeius ne mirror"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=1
+			x=8
+			y=4
+			[from]
+				x=8
+				y=3
+			[/from]
+		[/recruit]
+		[random]
+			value=7069
+		[/random]
+		[random]
+			value=25050
+		[/random]
+		[random]
+			value=12147
+		[/random]
+		[random]
+			value=1858
+		[/random]
+		[random]
+			value=6081
+		[/random]
+		[random]
+			value=7309
+		[/random]
+		[random]
+			value=31327
+		[/random]
+		[random]
+			value=4464
+		[/random]
+		[random]
+			value=16880
+		[/random]
+		[random]
+			value=26424
+		[/random]
+		[random]
+			value=18824
+		[/random]
+		[random]
+			value=14873
+		[/random]
+		[random]
+			value=11770
+		[/random]
+		[random]
+			value=25016
+			[results]
+				checksum="8oH+<tEMdLmbpGOqyN<CsAMNItBINmtKD8nHPCqPxGTBrGJEnKRBqBwyjEDBAIGwKUbOBPFwTVUIO54zCHzG6uBEz,BKOIDHPjET<N-LCOOOPpvKDpuvqy4xCCCqRQSI"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=1
+			x=9
+			y=5
+			[from]
+				x=8
+				y=3
+			[/from]
+		[/recruit]
+		[random]
+			value=17304
+		[/random]
+		[random]
+			value=11587
+		[/random]
+		[random]
+			value=22996
+		[/random]
+		[random]
+			value=29492
+		[/random]
+		[random]
+			value=32505
+		[/random]
+		[random]
+			value=26249
+		[/random]
+		[random]
+			value=3327
+		[/random]
+		[random]
+			value=21277
+		[/random]
+		[random]
+			value=7457
+		[/random]
+		[random]
+			value=30831
+		[/random]
+		[random]
+			value=17082
+		[/random]
+		[random]
+			value=9703
+		[/random]
+		[random]
+			value=20126
+		[/random]
+		[random]
+			value=28038
+			[results]
+				checksum="8oH+<tEMdLmbpGIqyN<CsAMNItBINstKD8nHPCqOxGTBrGJEnKRBqBwyjEDBAIGwKUbOBPzwTVUIO54zCHzG6uBEz,BKOIDHPjET<N-LCOOOPpvKDpuvqy4xCCCqRQSI"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=3
+			x=8
+			y=5
+			[from]
+				x=8
+				y=3
+			[/from]
+		[/recruit]
+		[random]
+			value=2791
+		[/random]
+		[random]
+			value=10628
+		[/random]
+		[random]
+			value=3045
+		[/random]
+		[random]
+			value=8003
+		[/random]
+		[random]
+			value=3517
+		[/random]
+		[random]
+			value=11685
+		[/random]
+		[random]
+			value=3802
+		[/random]
+		[random]
+			value=7840
+		[/random]
+		[random]
+			value=7731
+		[/random]
+		[random]
+			value=21423
+		[/random]
+		[random]
+			value=22815
+		[/random]
+		[random]
+			value=2672
+		[/random]
+		[random]
+			value=1832
+		[/random]
+		[random]
+			value=21119
+			[results]
+				checksum="yDJAjo4cZe,xpW20oEjd+he4M.>564fk.Z0207Ysap.1e5.fcg+3apl7m4khijrlZz8i55ch5gp..Kj06lIrf0iN7gr.cg1e4el11X<ym4JmH3e9ccd7p3-0hc2,S,-e"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=1
+			x=7
+			y=5
+			[from]
+				x=8
+				y=3
+			[/from]
+		[/recruit]
+		[random]
+			value=21277
+		[/random]
+		[random]
+			value=28547
+		[/random]
+		[random]
+			value=32594
+		[/random]
+		[random]
+			value=14814
+		[/random]
+		[random]
+			value=20435
+		[/random]
+		[random]
+			value=3709
+		[/random]
+		[random]
+			value=28653
+		[/random]
+		[random]
+			value=29123
+		[/random]
+		[random]
+			value=353
+		[/random]
+		[random]
+			value=9079
+		[/random]
+		[random]
+			value=31263
+		[/random]
+		[random]
+			value=29003
+		[/random]
+		[random]
+			value=10835
+		[/random]
+		[random]
+			value=2899
+			[results]
+				checksum="8oH+<tEMdLmgpGOqyN<CsAMNItBINqtKD8nHPCqPxGTBrGJEnKRBqBwyjEDBAIGwKUbOBPBwTVUIO54zCHzG6uBEz,BKOIDHPjET<N-LCOOOPpvKDpuvqy4xCCCqRQSI"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=4
+			x=14
+			y=24
+			[from]
+				x=13
+				y=23
+			[/from]
+		[/recruit]
+		[random]
+			value=3865
+		[/random]
+		[random]
+			value=24084
+		[/random]
+		[random]
+			value=26690
+		[/random]
+		[random]
+			value=10897
+		[/random]
+		[random]
+			value=5782
+		[/random]
+		[random]
+			value=20770
+		[/random]
+		[random]
+			value=14337
+		[/random]
+		[random]
+			value=27143
+		[/random]
+		[random]
+			value=812
+		[/random]
+		[random]
+			value=8186
+		[/random]
+		[random]
+			value=31965
+		[/random]
+		[random]
+			value=1340
+		[/random]
+		[random]
+			value=497
+		[/random]
+		[random]
+			value=16851
+		[/random]
+		[random]
+			value=7242
+			[results]
+				checksum="k6g9vhe4EdiVghjj47j9Qc757fh+g5af8p4C264m+.ec.j3k-e+429gYanTk3eeb-o58W>ZP<l.4WonNcn6tmkT71.n5daKf,ZiVg9LWu677W+07p3-0hc2,S,-e7f-9"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="ыы"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=4
+			x=15
+			y=23
+			[from]
+				x=13
+				y=23
+			[/from]
+		[/recruit]
+		[random]
+			value=7182
+		[/random]
+		[random]
+			value=27138
+		[/random]
+		[random]
+			value=15906
+		[/random]
+		[random]
+			value=31953
+		[/random]
+		[random]
+			value=13195
+		[/random]
+		[random]
+			value=13396
+		[/random]
+		[random]
+			value=22127
+		[/random]
+		[random]
+			value=24770
+		[/random]
+		[random]
+			value=14638
+		[/random]
+		[random]
+			value=9272
+		[/random]
+		[random]
+			value=29172
+		[/random]
+		[random]
+			value=16280
+		[/random]
+		[random]
+			value=32217
+		[/random]
+		[random]
+			value=27824
+		[/random]
+		[random]
+			value=9978
+			[results]
+				checksum="3cDfpk<ey<6C+<67,1H71+8<cme6>ejf0Sdc8<2g3a108e45,l-87ad4Tk3eeb-o58W>ZP5l.4WonNcn6tmkT71.n5daKf,ZiVg9LWu677W+07p3-0hc2,S,-e7f-9Nu"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=14
+			y=22
+			[from]
+				x=13
+				y=23
+			[/from]
+		[/recruit]
+		[random]
+			value=18986
+		[/random]
+		[random]
+			value=25746
+		[/random]
+		[random]
+			value=24180
+		[/random]
+		[random]
+			value=32244
+		[/random]
+		[random]
+			value=1431
+		[/random]
+		[random]
+			value=16637
+		[/random]
+		[random]
+			value=27330
+		[/random]
+		[random]
+			value=19032
+		[/random]
+		[random]
+			value=10479
+		[/random]
+		[random]
+			value=8605
+		[/random]
+		[random]
+			value=1769
+		[/random]
+		[random]
+			value=13633
+		[/random]
+		[random]
+			value=10657
+		[/random]
+		[random]
+			value=459
+			[results]
+				checksum="RKZwrQQFdEU-mF7fe4.4t+,4m5iW2gIhi.i.a<f36.l7WJZhh59<6mcecd0n7,a4-558A.W7-ek95em-6f29fhqezrf303YXi6sm>a<8j-6ch11np4R-33410<6i<<eh"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="13,12,11,10,10"
+			y="23,22,22,21,20"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=5
+			x=9
+			y=20
+			[from]
+				x=10
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=15508
+		[/random]
+		[random]
+			value=21958
+		[/random]
+		[random]
+			value=8873
+		[/random]
+		[random]
+			value=8050
+		[/random]
+		[random]
+			value=29399
+		[/random]
+		[random]
+			value=29464
+		[/random]
+		[random]
+			value=630
+		[/random]
+		[random]
+			value=28816
+		[/random]
+		[random]
+			value=15355
+		[/random]
+		[random]
+			value=19549
+		[/random]
+		[random]
+			value=11164
+		[/random]
+		[random]
+			value=29804
+		[/random]
+		[random]
+			value=13321
+		[/random]
+		[random]
+			value=592
+			[results]
+				checksum="-<n09mYcF4yF15h.Mb6<bKGLDHayrrE3odEKELtnw9qySTCGTsCvUHVtPBRMJTtA>RFwyFHLSnCuHKAuHxQzB3bsHGMIdDOzr4VBPNNnv+qKa8DEyAqHmQxqMorLPI,O"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=6
+			x=11
+			y=20
+			[from]
+				x=10
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=29758
+		[/random]
+		[random]
+			value=23703
+		[/random]
+		[random]
+			value=15385
+		[/random]
+		[random]
+			value=32405
+		[/random]
+		[random]
+			value=12345
+		[/random]
+		[random]
+			value=18853
+		[/random]
+		[random]
+			value=7768
+		[/random]
+		[random]
+			value=29917
+		[/random]
+		[random]
+			value=12817
+		[/random]
+		[random]
+			value=6057
+		[/random]
+		[random]
+			value=26330
+		[/random]
+		[random]
+			value=22974
+		[/random]
+		[random]
+			value=28316
+		[/random]
+		[random]
+			value=30321
+			[results]
+				checksum="3<+sc<ekO.WrbXp+bW.vaf5<kj7>g-ljh<S1i20XhWi10+e48,l-87ad4Tk9eeb-o38W>ZP0l.4WpnNcn6tmkT91.n5daKf,ZiVd9LWu677Wo07p3-0hc2,S,-e7f-9N"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,6,6,5,5,4,3,2"
+			y="5,5,6,7,8,8,9,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="8,8,8"
+			y="5,6,7"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="8,8,9,10,11,12,13"
+			y="4,3,3,2,2,1,1"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="9,10,11,12,13,14,15,16"
+			y="5,5,6,6,7,7,8,8"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=7
+			x=8
+			y=5
+			[from]
+				x=8
+				y=3
+			[/from]
+		[/recruit]
+		[random]
+			value=26413
+		[/random]
+		[random]
+			value=27001
+		[/random]
+		[random]
+			value=6062
+		[/random]
+		[random]
+			value=25311
+		[/random]
+		[random]
+			value=28512
+		[/random]
+		[random]
+			value=24493
+		[/random]
+		[random]
+			value=12221
+		[/random]
+		[random]
+			value=31665
+		[/random]
+		[random]
+			value=949
+		[/random]
+		[random]
+			value=29670
+		[/random]
+		[random]
+			value=8600
+		[/random]
+		[random]
+			value=17084
+		[/random]
+		[random]
+			value=1607
+		[/random]
+		[random]
+			value=20151
+			[results]
+				checksum="GvCHyvut,JsqQrzoztrKV0q4LmyOHbzYzzAHNNI0sapLCHnxOEMSDXEL0GTrQMj6c5gd4l1.fb9X9zXfpg2nZf61-iI,a2-1ewCjw1yhbMeW3g+ilF83<dKpeU1phgg1"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=6
+			x=7
+			y=5
+			[from]
+				x=8
+				y=3
+			[/from]
+		[/recruit]
+		[random]
+			value=377
+		[/random]
+		[random]
+			value=29878
+		[/random]
+		[random]
+			value=7549
+		[/random]
+		[random]
+			value=29450
+		[/random]
+		[random]
+			value=23998
+		[/random]
+		[random]
+			value=15402
+		[/random]
+		[random]
+			value=3571
+		[/random]
+		[random]
+			value=28568
+		[/random]
+		[random]
+			value=6333
+		[/random]
+		[random]
+			value=5468
+		[/random]
+		[random]
+			value=18218
+		[/random]
+		[random]
+			value=11300
+		[/random]
+		[random]
+			value=4940
+		[/random]
+		[random]
+			value=5088
+			[results]
+				checksum="b-<73l>3zzcH1pHFwwbrKOUGsjmxxiCcIQKIsMvLiQymKrMnFAPnwvBmNHGTzpHeFwGxzNOzxwFDvUvrEwyMVjNFBNH7EUziq>tIpVLVbBmJvppHRpzsqMTArpJBI1CQ"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="8,8,9,9,9,10"
+			y="3,4,5,6,7,7"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="14,13,12,11,10,9"
+			y="24,25,25,26,26,27"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="15,16,16,17,17,18,19,20"
+			y="23,22,21,21,20,19,19,18"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,14,14"
+			y="22,21,20"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="9,8,7,6,6,5,4,3,2"
+			y="20,20,21,21,22,23,22,22,22"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,12,13,14,14"
+			y="20,19,19,18,17"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,9,8,7,6"
+			y="20,20,19,19,19"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="13,14,15,16,17,18,19,20"
+			y="1,1,2,2,3,2,3,2"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,16,16,16,17,18,19,20"
+			y="8,7,6,5,5,5,6,5"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="2,3,4,5,6,7,8"
+			y="9,10,9,10,10,10,10"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="читер))"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="4e tam?"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="гномы"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="bozhe moi"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="eto eshe huzhe 4em rki"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="orki"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,11,12"
+			y="7,8,7"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="7,8,8,9,10,11"
+			y="5,5,6,7,7,8"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="8,9,10,10,10,10"
+			y="7,7,7,8,9,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="8,8,9,10,11,11,11"
+			y="5,6,7,7,8,9,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="у тебя)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="2,2,1,1,1,2,3,4"
+			y="22,21,21,20,19,18,19,18"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="4,4"
+			y="18,17"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="uffffffff"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="nu ti shutnik"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="9,8,7,6,5,4,3,2"
+			y="27,26,26,25,25,25,25,25"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,19,19"
+			y="18,18,17"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,18"
+			y="17,16"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="18,17"
+			y="16,16"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,16"
+			y="16,15"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="6,6,6,6,5,4"
+			y="19,18,17,16,16,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=4
+			y=14
+			[from]
+				x=4
+				y=15
+			[/from]
+		[/recruit]
+		[random]
+			value=32037
+		[/random]
+		[random]
+			value=27471
+		[/random]
+		[random]
+			value=12144
+		[/random]
+		[random]
+			value=18822
+		[/random]
+		[random]
+			value=19065
+		[/random]
+		[random]
+			value=10118
+		[/random]
+		[random]
+			value=13
+		[/random]
+		[random]
+			value=3042
+		[/random]
+		[random]
+			value=30944
+		[/random]
+		[random]
+			value=19539
+		[/random]
+		[random]
+			value=16843
+		[/random]
+		[random]
+			value=13167
+		[/random]
+		[random]
+			value=5882
+		[/random]
+		[random]
+			value=15736
+			[results]
+				checksum="RKZwrQQFdEU-mF7fe4.4t+,4m5cW2gIhi.i.a<f36,l7WJZhh59>6mcecd0n7,a4-558A.W7-ek95em-6f39fhqezrf303YXi6sm>a<8j-6ch11np4R-33410<6i<<eh"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,13,12,12,12,12"
+			y="20,21,20,19,18,17"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,13,12,11,10"
+			y="17,17,16,16,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,9"
+			y="15,16"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,15"
+			y="15,16"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20,21,21,21,21"
+			y="5,6,7,8,9,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20,20,19,18,17,16,16,16,16"
+			y="2,3,4,5,5,5,5,6,7,8"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="8,7,6,5,4,3,2,1"
+			y="10,10,9,10,9,10,9,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,10,9,8"
+			y="10,10,11,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,9,8,7,6,5"
+			y="10,11,10,10,9,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,10,9,8,7,6"
+			y="8,8,9,9,10,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=5
+			x=11
+			y=8
+			[from]
+				x=12
+				y=7
+			[/from]
+		[/recruit]
+		[random]
+			value=3822
+		[/random]
+		[random]
+			value=20090
+		[/random]
+		[random]
+			value=29707
+		[/random]
+		[random]
+			value=26105
+		[/random]
+		[random]
+			value=30603
+		[/random]
+		[random]
+			value=29483
+		[/random]
+		[random]
+			value=6008
+		[/random]
+		[random]
+			value=12722
+		[/random]
+		[random]
+			value=3247
+		[/random]
+		[random]
+			value=13829
+		[/random]
+		[random]
+			value=29872
+		[/random]
+		[random]
+			value=10174
+		[/random]
+		[random]
+			value=25373
+		[/random]
+		[random]
+			value=18005
+		[/random]
+		[random]
+			value=774
+			[results]
+				checksum="ozXuqOpzbCL+UqfLy<NMMSkOUzlJJNeSMp2PuPROIsqAIeKcbmSULsn46i<5gad3.5i9zZkp8<12eklbkLX3g<g,tR7S4yhbMeW3g+ilF83<dKpeU1phgg1fX0e,476j"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="12,11,10,9,8,7"
+			y="7,8,8,9,9,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="4,5"
+			y="17,17"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="4,3"
+			y="14,14"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="3,3,3,3"
+			y="14,13,12,11"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="12,11,10,9,8,7"
+			y="17,17,16,16,15,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=3
+			x=4
+			y=14
+			[from]
+				x=4
+				y=15
+			[/from]
+		[/recruit]
+		[random]
+			value=4738
+		[/random]
+		[random]
+			value=20548
+		[/random]
+		[random]
+			value=11398
+		[/random]
+		[random]
+			value=27695
+		[/random]
+		[random]
+			value=29179
+		[/random]
+		[random]
+			value=25503
+		[/random]
+		[random]
+			value=2992
+		[/random]
+		[random]
+			value=7290
+		[/random]
+		[random]
+			value=21018
+		[/random]
+		[random]
+			value=10912
+		[/random]
+		[random]
+			value=27421
+		[/random]
+		[random]
+			value=9288
+		[/random]
+		[random]
+			value=32199
+		[/random]
+		[random]
+			value=22731
+			[results]
+				checksum="knw9+llgIhhq>gK4+,hisCm2f4cabhN<-05kf4XaKRgo0w,.Oa1m3+a2m>gkRN+h2he05CrOzxFQvqBNPGKVwA2QbgPxJOAuPv.LmHDNOqvJUEEK0BkqyyBEFDLPqDTE"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="4,4,3,3"
+			y="15,14,14,13"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="5,5,5,6"
+			y="17,16,15,14"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,6,5,5,4"
+			y="14,13,13,12,11"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="15,15"
+			y="16,15"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="9,8,8,7,6,5"
+			y="16,15,14,14,13,13"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="15,15,16"
+			y="15,14,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,17"
+			y="13,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,16"
+			y="13,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="2,3,3,4,5,6,6"
+			y="25,25,24,23,23,22,21"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=231000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,16"
+			y="8,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,16"
+			y="9,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,16"
+			y="10,11"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,15"
+			y="11,12"
+		[/move]
+	[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="15,14,14,15"
+			y="12,12,13,14"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Cavalryman"
+defender_lvl="1"
+defender_type="Footpad"
+defender_weapon="0"
+seed="1025747595"
+tod="first_watch"
+turn="5"
+weapon="0"
+[source]
+
+				x=15
+				y=14
+			[/source]
+[destination]
+
+				x=16
+				y=13
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither"
+message="здрасте, удачи :)"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="спасибо))"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,20,19,18,17,16,16,17"
+			y="10,9,9,9,10,10,11,12"
+		[/move]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="5,4"
+			y="10,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Heavy Infantryman"
+defender_lvl="1"
+defender_type="Gryphon Rider"
+defender_weapon="0"
+seed="91574500"
+tod="first_watch"
+turn="5"
+weapon="0"
+[source]
+
+				x=4
+				y=10
+			[/source]
+[destination]
+
+				x=4
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="6,6"
+			y="10,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="1,2,3"
+			y="10,9,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="7,8,9,10,11,12"
+			y="9,9,9,8,8,7"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,10,9,8,7"
+			y="8,8,9,9,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=5
+			x=11
+			y=8
+			[from]
+				x=12
+				y=7
+			[/from]
+		[/recruit]
+		[random]
+			value=1218
+		[/random]
+		[random]
+			value=24488
+		[/random]
+		[random]
+			value=11877
+		[/random]
+		[random]
+			value=25479
+		[/random]
+		[random]
+			value=12469
+		[/random]
+		[random]
+			value=21830
+		[/random]
+		[random]
+			value=32151
+		[/random]
+		[random]
+			value=12728
+		[/random]
+		[random]
+			value=29672
+		[/random]
+		[random]
+			value=31330
+		[/random]
+		[random]
+			value=8496
+		[/random]
+		[random]
+			value=7744
+		[/random]
+		[random]
+			value=24583
+		[/random]
+		[random]
+			value=14234
+		[/random]
+		[random]
+			value=27887
+			[results]
+				checksum="ozXuqOpzbCL+UqfLD<NMMSkOUzdJJNeSMp2PuPROIvqAIeKcbmSULsn46i<5gad3.5i9zZkp8<12eklbkL,3g<g,tR7S4yhbMeW3g+ilF83<dKpeU1phgg1fX0e,476j"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="6,6"
+			y="11,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="7,6,6,6,5,5"
+			y="15,14,13,12,12,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dwarvish Fighter"
+defender_lvl="1"
+defender_type="Heavy Infantryman"
+defender_weapon="0"
+seed="1601099221"
+tod="first_watch"
+turn="5"
+weapon="1"
+[source]
+
+				x=5
+				y=11
+			[/source]
+[destination]
+
+				x=4
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="4,5"
+			y="11,12"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="4,3,3,3,4"
+			y="14,14,13,12,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dwarvish Ulfserker"
+defender_lvl="1"
+defender_type="Heavy Infantryman"
+defender_weapon="0"
+seed="2003480596"
+tod="first_watch"
+turn="5"
+weapon="0"
+[source]
+
+				x=4
+				y=11
+			[/source]
+[destination]
+
+				x=4
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="3,3"
+			y="11,12"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="3,3,3"
+			y="13,12,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Trapper"
+defender_lvl="1"
+defender_type="Cavalryman"
+defender_weapon="-1"
+seed="1681066937"
+tod="first_watch"
+turn="5"
+weapon="1"
+[source]
+
+				x=3
+				y=11
+			[/source]
+[destination]
+
+				x=3
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="5,4,4,4"
+			y="13,12,11,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Poacher"
+defender_lvl="1"
+defender_type="Cavalryman"
+defender_weapon="-1"
+seed="1301197905"
+tod="first_watch"
+turn="5"
+weapon="1"
+[source]
+
+				x=4
+				y=10
+			[/source]
+[destination]
+
+				x=3
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="3,3,3,2"
+			y="12,11,10,9"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Footpad"
+defender_lvl="1"
+defender_type="Cavalryman"
+defender_weapon="-1"
+seed="1522628210"
+tod="first_watch"
+turn="5"
+weapon="1"
+[source]
+
+				x=16
+				y=13
+			[/source]
+[destination]
+
+				x=15
+				y=14
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="6,6,6,7,8,9,10,10"
+			y="21,20,19,19,18,18,17,16"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=3
+			x=3
+			y=10
+			[from]
+				x=3
+				y=11
+			[/from]
+		[/recruit]
+		[random]
+			value=14962
+		[/random]
+		[random]
+			value=6572
+		[/random]
+		[random]
+			value=15045
+		[/random]
+		[random]
+			value=1924
+		[/random]
+		[random]
+			value=18805
+		[/random]
+		[random]
+			value=29861
+		[/random]
+		[random]
+			value=31346
+		[/random]
+		[random]
+			value=7768
+		[/random]
+		[random]
+			value=21348
+		[/random]
+		[random]
+			value=14239
+		[/random]
+		[random]
+			value=19101
+		[/random]
+		[random]
+			value=29390
+		[/random]
+		[random]
+			value=12654
+		[/random]
+		[random]
+			value=10240
+			[results]
+				checksum="knw9+llgIhhq>gK4+,hisCm2f4habhN<-05kf4XaJUgo0w,.Oa1m3+a2m>gkRN+h2he05CrOzxFQvqBNPFPVwA2QbgPxJOAuPv.LmHDNOqvJUEEK0BkqyyBEFDLPqDTE"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="5,6,7,8,9,10,10,11"
+			y="12,12,13,13,14,14,15,16"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="6,7,7,8,8,8,9,10"
+			y="10,11,12,12,13,14,15,15"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Merman Fighter"
+defender_lvl="1"
+defender_type="Footpad"
+defender_weapon="0"
+seed="901681176"
+tod="second_watch"
+turn="6"
+weapon="0"
+[source]
+
+				x=10
+				y=15
+			[/source]
+[destination]
+
+				x=10
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="8,8,8,8,8,8,9"
+			y="10,11,12,13,14,15,16"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Spearman"
+defender_lvl="1"
+defender_type="Footpad"
+defender_weapon="0"
+seed="580350286"
+tod="second_watch"
+turn="6"
+weapon="0"
+[source]
+
+				x=9
+				y=16
+			[/source]
+[destination]
+
+				x=10
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="15,15,16,17,18,19,19,20"
+			y="14,15,15,16,16,17,18,18"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="17,16,15,14,14,14,14,14,14"
+			y="12,11,12,12,13,14,15,16,17"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="7,8,9,10,11,12,13"
+			y="9,9,9,8,8,7,7"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,12,13,14,15,16"
+			y="8,8,8,8,9,8"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=7
+			x=11
+			y=8
+			[from]
+				x=12
+				y=7
+			[/from]
+		[/recruit]
+		[random]
+			value=2037
+		[/random]
+		[random]
+			value=13444
+		[/random]
+		[random]
+			value=4268
+		[/random]
+		[random]
+			value=2267
+		[/random]
+		[random]
+			value=30216
+		[/random]
+		[random]
+			value=795
+		[/random]
+		[random]
+			value=28786
+		[/random]
+		[random]
+			value=22157
+		[/random]
+		[random]
+			value=4029
+		[/random]
+		[random]
+			value=2505
+		[/random]
+		[random]
+			value=24168
+		[/random]
+		[random]
+			value=22685
+		[/random]
+		[random]
+			value=25877
+		[/random]
+		[random]
+			value=31863
+			[results]
+				checksum="GvCHyvut,JsqQrzoztrKV0q4LmyOHbzYzzAHNNI0sapLCHnxOEMSDXEL0GTrQMj6c5gd4l1.fb9X9zXfpg2nZf61-iI,a2-1ewCjw1yhbMeW3g+ilF83<dKpeU1phgg1"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="10,10,9,8,8"
+			y="16,17,18,17,16"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Footpad"
+defender_lvl="1"
+defender_type="Spearman"
+defender_weapon="1"
+seed="1773310600"
+tod="second_watch"
+turn="6"
+weapon="1"
+[source]
+
+				x=8
+				y=16
+			[/source]
+[destination]
+
+				x=9
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="16,15,14,13,12,12,11,10"
+			y="13,14,14,15,15,16,17,16"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Footpad"
+defender_lvl="1"
+defender_type="Spearman"
+defender_weapon="1"
+seed="1254956191"
+tod="second_watch"
+turn="6"
+weapon="1"
+[source]
+
+				x=10
+				y=16
+			[/source]
+[destination]
+
+				x=9
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="11,11,10,9"
+			y="16,17,17,17"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Gryphon Rider"
+defender_lvl="1"
+defender_type="Spearman"
+defender_weapon="0"
+seed="689101430"
+tod="second_watch"
+turn="6"
+weapon="0"
+[source]
+
+				x=9
+				y=17
+			[/source]
+[destination]
+
+				x=9
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="4,5"
+			y="10,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="5,6"
+			y="10,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="2,3,4,5"
+			y="9,9,8,8"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="5,6"
+			y="8,7"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="5,6,7"
+			y="11,10,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,8"
+			y="10,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="6,7"
+			y="9,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="4,4,3,2"
+			y="11,10,10,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="3,4,5,6"
+			y="10,9,9,8"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=3
+			x=3
+			y=10
+			[from]
+				x=3
+				y=11
+			[/from]
+		[/recruit]
+		[random]
+			value=13669
+		[/random]
+		[random]
+			value=15818
+		[/random]
+		[random]
+			value=23247
+		[/random]
+		[random]
+			value=7451
+		[/random]
+		[random]
+			value=21837
+		[/random]
+		[random]
+			value=1718
+		[/random]
+		[random]
+			value=8536
+		[/random]
+		[random]
+			value=5904
+		[/random]
+		[random]
+			value=32002
+		[/random]
+		[random]
+			value=1216
+		[/random]
+		[random]
+			value=23274
+		[/random]
+		[random]
+			value=10994
+		[/random]
+		[random]
+			value=5476
+		[/random]
+		[random]
+			value=11588
+			[results]
+				checksum="knw9+llgIhhq>gK4+,hisFm2f4habhN<-05kf4XaJTgo0w,.Oa1m3+a2m>gkRN+h2he05CrOzxFQvqBNPFQVwA2QbgPxJOAuPv.LmHDNOqvJUEEK0BkqyyBEFDLPqDTE"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="3,4,5,6,7,7"
+			y="11,11,12,12,13,14"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="10,11"
+			y="15,16"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Merman Fighter"
+defender_lvl="1"
+defender_type="Footpad"
+defender_weapon="0"
+seed="1394651138"
+tod="dawn"
+turn="7"
+weapon="0"
+[source]
+
+				x=11
+				y=16
+			[/source]
+[destination]
+
+				x=10
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="14,13,12,11,10,9,8,7,6"
+			y="17,17,17,18,18,19,19,19,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,19,18,17,16,15,14"
+			y="18,19,19,20,20,21,20"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,10"
+			y="8,8"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=7
+			x=11
+			y=8
+			[from]
+				x=12
+				y=7
+			[/from]
+		[/recruit]
+		[random]
+			value=8306
+		[/random]
+		[random]
+			value=7627
+		[/random]
+		[random]
+			value=3424
+		[/random]
+		[random]
+			value=21063
+		[/random]
+		[random]
+			value=15409
+		[/random]
+		[random]
+			value=15887
+		[/random]
+		[random]
+			value=5204
+		[/random]
+		[random]
+			value=628
+		[/random]
+		[random]
+			value=24812
+		[/random]
+		[random]
+			value=26388
+		[/random]
+		[random]
+			value=6313
+		[/random]
+		[random]
+			value=12474
+		[/random]
+		[random]
+			value=23482
+		[/random]
+		[random]
+			value=18510
+			[results]
+				checksum="GvCHyvut,JsqQrzoztrKV0q4LmyOHbzYzzAHNNI0sapLCHnxOEMSDXEL0GTrQMj6c5gd4l1.fb9X9zXfpg2nZf61-iI,a2-1ewCjw1yhbMeW3g+ilF83<dKpeU1phgg1"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="13,13,12,11,10,9"
+			y="7,8,8,9,9,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Mage"
+defender_lvl="1"
+defender_type="Dwarvish Fighter"
+defender_weapon="-1"
+seed="158615310"
+tod="dawn"
+turn="7"
+weapon="1"
+[source]
+
+				x=9
+				y=10
+			[/source]
+[destination]
+
+				x=8
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="12,12,11,10,10,9"
+			y="7,8,9,9,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Pikeman"
+defender_lvl="1"
+defender_type="Dwarvish Fighter"
+defender_weapon="0"
+seed="753535803"
+tod="dawn"
+turn="7"
+weapon="0"
+[source]
+
+				x=9
+				y=11
+			[/source]
+[destination]
+
+				x=8
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="10,10,10,10,9,8"
+			y="8,9,10,11,12,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Spearman"
+defender_lvl="1"
+defender_type="Dwarvish Fighter"
+defender_weapon="0"
+seed="847374403"
+tod="dawn"
+turn="7"
+weapon="0"
+[source]
+
+				x=8
+				y=11
+			[/source]
+[destination]
+
+				x=8
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,15,14,13,12,11,10"
+			y="8,9,9,10,10,11,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=1
+			value=270000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="2,3,4,5,6,7"
+			y="9,10,10,11,11,12"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dwarvish Ulfserker"
+defender_lvl="1"
+defender_type="Spearman"
+defender_weapon="0"
+seed="1944981603"
+tod="dawn"
+turn="7"
+weapon="0"
+[source]
+
+				x=7
+				y=12
+			[/source]
+[destination]
+
+				x=8
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="7,7,7"
+			y="9,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Poacher"
+defender_lvl="1"
+defender_type="Spearman"
+defender_weapon="1"
+seed="2003290230"
+tod="dawn"
+turn="7"
+weapon="1"
+[source]
+
+				x=7
+				y=11
+			[/source]
+[destination]
+
+				x=8
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[choose]
+			value=0
+		[/choose]
+	[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="8,7"
+			y="10,10"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="3,4,5,6,7,8"
+			y="10,10,10,9,10,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dwarvish Ulfserker"
+defender_lvl="2"
+defender_type="Pikeman"
+defender_weapon="0"
+seed="1795223876"
+tod="dawn"
+turn="7"
+weapon="0"
+[source]
+
+				x=8
+				y=10
+			[/source]
+[destination]
+
+				x=9
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="6,7,7,8"
+			y="8,9,10,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dwarvish Ulfserker"
+defender_lvl="2"
+defender_type="Pikeman"
+defender_weapon="0"
+seed="1370484827"
+tod="dawn"
+turn="7"
+weapon="0"
+[source]
+
+				x=8
+				y=10
+			[/source]
+[destination]
+
+				x=9
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="gg"
+side="1"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="server"
+message="ReNoM has left the game."
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="server"
+message="vandal takes control of side 1."
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="server"
+message="vandal droids side 1."
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="gg"
+side="2"
+[/speak]
+[/command]
+[/replay]
+[replay_start]
+current_tod="0"
+description="Two armies collide on this disjointed coastal landscape of hidden caves and jagged rivers."
+experience_modifier="70"
+id="multiplayer_Sablestone_Delta"
+map_data="border_size=1
+usage=map
+
+Ss          , Gs          , Gs          , Gs          , Ss          , Ss          , Ss          , Ss          , Gs          , Gs          , Gs          , Ss          , Ss          , Gs          , Gs          , Gs          , Ww          , Ww          , Gs          , Uh          , Xu          , Xu          , Xu          
+Gs          , Gs^Ft       , Gs^Ft       , Ss          , Ss          , Ss          , 1 Gs^Ft     , Ss          , Ss          , Gs          , Gs          , Gs^Ft       , Gs          , Ss^Vhs      , Gs          , Gs^Ft       , Ww          , Ww          , Gs^Ft       , Uh          , Xu          , Xu          , Xu          
+Ww          , Ww          , Gs          , Gs          , Gs          , Gs          , Gs          , Ss          , Gs          , Ss          , Gs          , Gs          , Gs          , Gs          , Ww          , Gs          , Gs          , Gs          , Gs          , Uu^Uf       , Uu^Vu       , Xu          , Xu          
+Xu          , Xu          , Gs          , Ww          , Ww          , Ww          , Ww          , Gs          , Kud         , Gs          , Ww          , Ww          , Ww          , Ww          , Gs          , Gs          , Ww          , Gs          , Xu          , Rb          , Rb          , Cud         , Ss          
+Xu          , Xu          , Gs          , Gs          , Gs          , Ww          , Gs          , Wo          , Cud         , Wo          , Gs          , Ww          , Gs          , Gs          , Gs          , Ww          , Ww          , Gs          , Rb          , Ss          , Rb          , Rb          , Ss          
+Gs          , Gs^Ft       , Gs          , Ww          , Ww          , Gs          , Gs          , Kud         , Cud         , Kud         , Gs          , Gs          , Ww          , Ww          , Ww          , Gs          , Gs          , Gs          , Rb          , Rb          , Uu^Vud      , Rb          , Rb          
+Ww          , Ww          , Ww          , Gs          , Gs          , Ww          , Gs          , Gs          , Wwf         , Gs          , Gs          , Gs          , Gs          , Gs          , Ww          , Ww          , Gs          , Xu          , Rb          , Rb          , Cud         , Rb          , Xu          
+Gs          , Gs          , Ww          , Gs          , Ww          , Gs          , Gd          , Gd          , Uu^Vud      , Gd          , Gd          , Hh          , Kud         , Gs          , Gs          , Gs          , Kud         , Xu          , Xu          , Rb          , Xu          , Kud         , Xu          
+Ww          , Ww          , Gs          , Ww          , Gs          , Gs          , Gd^Ft       , Xu          , Xu          , Xu          , Gd          , Cud         , Cud         , Cud         , Gs          , Gd          , Ss^Vhs      , Cud         , Ww          , Xu          , Xu          , Cud         , Ww          
+Gs          , Gs          , Gs^Vht      , Gs          , Gs          , Gs          , Gs          , Cud         , Wwf         , Wwf         , Wwf         , Gs          , Gs          , Gs          , Gs          , Gd          , Gd          , Gs          , Gs          , Cud         , Wwf         , Ww          , Ww          
+Ww          , Gs^Ft       , Wwf         , Cud         , Re^Uf       , Gs          , Wwf         , Wwf         , Ss^Vhs      , Gs^Ft       , Gs          , Wwf         , Gs          , Re          , Re^Ft       , Gs          , Gs          , Gs          , Ww          , Xu          , Kud         , Cud         , Xu          
+Gs          , Ww          , Xu          , Kud         , Re          , Gs          , Wwf         , Ss          , Gs          , Re          , Re          , Wwf         , Gs          , Mm          , Re^Ft       , Re          , Gs          , Gs^Ft       , Uh          , Xu          , Xu          , Uh          , Xu          
+Ww          , Gs^Ft       , Xu          , Re^Ft       , Re          , Gs          , Gs          , Wwf         , Wwf         , Gs          , Wwf         , Wwf         , Wwf         , Gs          , Gs          , Re          , Re^Uf       , Gd          , Kud         , Xu          , Xu          , Gs^Ft       , Gs^Ft       
+Uh          , Ww          , Xu          , Cud         , Xu          , Re          , Re          , Gs          , Wwf         , Wwf         , Hh          , Hh^Uf       , Gs          , Wwf         , Wwf         , Uh          , Cud         , Re^Ft       , Cud         , Re^Ft       , Xu          , Cud         , Xu          
+Xu          , Uh          , Xu          , Uu^Uf       , Cud         , Xu          , Cud         , Gs          , Wwf         , Gs^Ft       , Gs          , Mm          , Hh          , Gs^Ft       , Wwf         , Gs          , Re          , Xu          , Xu          , Uu^Uf       , Xu          , Uh          , Uh          
+Gs          , Cud         , Xu          , Re^Ft       , Kud         , Re^Ft       , Re^Uf       , Uh          , Gs          , Wwf         , Wwf         , Hh^Uf       , Wwf         , Wwf         , Wwf         , Gs          , Gs          , Re          , Re          , Cud         , Xu          , Ww          , Ww          
+Xu          , Gs^Ft       , Xu          , Xu          , Uh          , Gd          , Gs          , Re          , Re^Ft       , Gs          , Gs          , Wwf         , Gs          , Gs          , Gs          , Wwf         , Wwf         , Gs          , Re          , Re^Ft       , Xu          , Gs^Ft       , Gs^Ft       
+Xu          , Uh          , Kud         , Xu          , Ww          , Gs^Ft       , Gs          , Re          , Re^Ft       , Mm          , Gs          , Wwf         , Gs          , Re          , Ss^Vhs      , Ss          , Wwf         , Gs          , Re^Uf       , Kud         , Wwf         , Ww          , Ww          
+Ww          , Cud         , Wwf         , Xu          , Gs          , Gs          , Gd          , Gs          , Gs          , Re          , Gs          , Wwf         , Wwf         , Gs^Ft       , Wwf         , Wwf         , Gs          , Gs          , Re          , Cud         , Gs^Vht      , Gs^Ft       , Gs          
+Ww          , Ww          , Xu          , Cud         , Ww          , Gg          , Ss^Vhs      , Gd          , Gs          , Gs          , Cud         , Gs          , Gd          , Wwf         , Xu          , Cud         , Gd^Ft       , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          
+Xu          , Cud         , Xu          , Xu          , Xu          , Cud         , Kud         , Gd          , Gs          , Cud         , Kud         , Cud         , Gd          , Xu          , Uu^Vud      , Xu          , Gd          , Gs          , Ww          , Ww          , Ww          , Ww          , Ww          
+Xu          , Kud         , Cud         , Rb          , Rb          , Xu          , Gs          , Gs          , Ww          , Gs          , Gs          , Hh          , Gs          , Gd          , Wwf         , Gd          , Gs          , Gs          , Gs          , Gs          , Ww          , Gs          , Gs          
+Rb          , Rb          , Uu^Vud      , Rb          , Rb          , Xu          , Gs          , Ww          , Ww          , Gs          , Ww          , Gs          , Gs          , Gs          , Cud         , Gs          , Gs          , Ww          , Ww          , Gs          , Gs          , Ww          , Ww          
+Ss          , Rb          , Rb          , Rb          , Rb          , Gs          , Ww          , Gs          , Gs          , Ww          , Gs          , Gs          , Gs          , 2 Kud       , Cud         , Kud         , Gs          , Gs          , Gs          , Ww          , Gs          , Gs^Ft       , Gs          
+Ss          , Rb          , Rb          , Ss          , Xu          , Gs          , Ww          , Ww          , Gs          , Gs          , Ww          , Ww          , Ww          , Wo          , Kud         , Wo          , Ww          , Ww          , Ww          , Gs          , Gs          , Xu          , Xu          
+Cud         , Cud         , Uu^Vu       , Rb          , Gs          , Gs          , Gs          , Gs          , Ww          , Ww          , Gs          , Ww          , Gs          , Gs          , Gs          , Gs          , Gs          , Ww          , Gs          , Ww          , Gs          , Xu          , Xu          
+Xu          , Xu          , Xu          , Uu^Uf       , Gs^Ft       , Gs          , Ww          , Gs          , Gs          , Gs          , Gs          , Gs          , Gs          , Ss          , Ss          , Ss          , Gs          , Gs          , Ss          , Gs          , Gs^Ft       , Ww          , Ww          
+Xu          , Xu          , Xu          , Uh          , Xu          , Ww          , Gs^Ft       , Gs          , Ss          , Ss^Vhs      , Ss          , Gs^Ft       , Gs          , Gs          , Ss          , Gs          , Gs^Ft       , Ss          , Ss          , Ss          , Ss          , Uh          , Uh          
+Ww          , Ww          , Ww          , Xu          , Xu          , Xu          , Ss          , Gs          , Ss          , Xu          , Xu          , Xu          , Ss          , Ss          , Gs          , Xu          , Xu          , Xu          , Xu          , Gs^Ft       , Ss          , Xu          , Xu          
+Ww          , Ww          , Ww          , Xu          , Xu          , Xu          , Ss          , Xu          , Ss          , Xu          , Xu          , Xu          , Ss          , Ss          , Gs          , Xu          , Xu          , Xu          , Xu          , Gs          , Ss          , Xu          , Xu          
+"
+name="2p — Sablestone Delta"
+next_underlying_unit_id="0"
+objectives="<big>" +
+#textdomain wesnoth
+	_"Victory:" +
+	"</big>
+<span foreground=""#00ff00"">&#8226; " +
+	_"Defeat enemy leader(s)" +
+	"</span>"
+observer="yes"
+random_seed="24707"
+random_start_time="no"
+shuffle_sides="yes"
+turns="-1"
+version="1.10.2"
+[event]
+
+	name="prestart"
+	[music]
+		ms_before=12000
+		name="knolls.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="wanderer.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="battle.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="transience.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="revelation.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="loyalists.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_king_is_dead.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="knalgan_theme.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_city_falls.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="nunc_dimittis.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="breaking_the_chains.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="elvish-theme.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="legends_of_the_north.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="traveling_minstrels.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="underground.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="vengeful.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="frantic.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_dangerous_symphony.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="heroes_rite.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="suspense.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_deep_path.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="siege_of_laurelmor.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="casualties_of_war.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="silvan_sanctuary.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="battle-epic.ogg"
+	[/music]
+[/event]
+[music]
+
+	ms_before=12000
+	name="knolls.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="wanderer.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="battle.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="transience.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_king_is_dead.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="knalgan_theme.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_city_falls.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="nunc_dimittis.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="revelation.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="loyalists.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="breaking_the_chains.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="elvish-theme.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="legends_of_the_north.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="traveling_minstrels.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="underground.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="vengeful.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="frantic.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_dangerous_symphony.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="heroes_rite.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="suspense.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_deep_path.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="siege_of_laurelmor.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="casualties_of_war.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="silvan_sanctuary.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="battle-epic.ogg"
+[/music]
+[time]
+
+	green=-20
+	id="dawn"
+	image="misc/schedule-dawn.png"
+#textdomain wesnoth-help
+	name=_"Dawn"
+	red=-20
+	sound="ambient/morning.ogg"
+[/time]
+[time]
+
+	id="morning"
+	image="misc/schedule-morning.png"
+	lawful_bonus=25
+	name=_"Morning"
+[/time]
+[time]
+
+	id="afternoon"
+	image="misc/schedule-afternoon.png"
+	lawful_bonus=25
+	name=_"Afternoon"
+[/time]
+[time]
+
+	blue=-20
+	green=-20
+	id="dusk"
+	image="misc/schedule-dusk.png"
+	name=_"Dusk"
+	sound="ambient/night.ogg"
+[/time]
+[time]
+
+	blue=-10
+	green=-35
+	id="first_watch"
+	image="misc/schedule-firstwatch.png"
+	lawful_bonus=-25
+	name=_"First Watch"
+	red=-45
+[/time]
+[time]
+
+	blue=-10
+	green=-35
+	id="second_watch"
+	image="misc/schedule-secondwatch.png"
+	lawful_bonus=-25
+	name=_"Second Watch"
+	red=-45
+[/time]
+[multiplayer]
+
+	experience_modifier=70
+	hash=""
+	mp_countdown=yes
+	mp_countdown_action_bonus=20
+	mp_countdown_init_time=270
+	mp_countdown_reservoir_time=270
+	mp_countdown_turn_bonus=200
+	mp_era="era_default"
+	mp_fog=yes
+	mp_scenario="multiplayer_Sablestone_Delta"
+	mp_shroud=no
+	mp_use_map_settings=yes
+	mp_village_gold=2
+	observer=yes
+	savegame=no
+	scenario="wesnothlife9 vandal vs renom"
+	shuffle_sides=yes
+[/multiplayer]
+[era]
+
+	id="era_default"
+#textdomain wesnoth-multiplayer
+	name=_"Default"
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Random"
+		image="units/random-dice.png"
+		name=_"Random"
+		random_faction=yes
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Loyalists"
+		image="units/human-loyalists/lieutenant.png"
+		leader="Lieutenant,Swordsman,Pikeman,Javelineer,Shock Trooper,Longbowman,White Mage,Red Mage"
+		name=_"Loyalists"
+		random_leader="Lieutenant,Swordsman,Pikeman,Javelineer,Longbowman,White Mage,Red Mage"
+		recruit="Cavalryman,Horseman,Spearman,Fencer,Heavy Infantryman,Bowman,Mage,Merman Fighter"
+		terrain_liked="Gg,Ww,Wo"
+		type="Lieutenant"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,archer,mixed fighter,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Rebels"
+		image="units/elves-wood/captain.png"
+		leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage,Elder Wose"
+		name=_"Rebels"
+		random_leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage"
+		recruit="Elvish Fighter,Elvish Archer,Mage,Elvish Shaman,Elvish Scout,Wose,Merman Hunter"
+		terrain_liked="Ff,Fa,Ss,Ww"
+		type="Elvish Captain"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,archer,mixed fighter,healer,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Northerners"
+		image="units/orcs/warrior.png"
+		leader="Orcish Warrior,Troll,Troll Rocklobber,Orcish Crossbowman,Orcish Slayer"
+		name=_"Northerners"
+		recruit="Orcish Grunt,Troll Whelp,Wolf Rider,Orcish Archer,Orcish Assassin,Naga Fighter,Goblin Spearman"
+		terrain_liked="Hh,Ha,Mm,Ss"
+		type="Orcish Warrior"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,mixed fighter,archer,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Undead"
+		image="units/undead-necromancers/dark-sorcerer.png"
+		leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter,Necrophage"
+		name=_"Undead"
+		random_leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter"
+		recruit="Skeleton,Skeleton Archer,Walking Corpse,Ghost,Vampire Bat,Dark Adept,Ghoul"
+		terrain_liked="Ss,Hh,Ha,Ww"
+		type="Dark Sorcerer"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,fighter,scout,archer"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Knalgan Alliance"
+		image="units/dwarves/steelclad.png"
+		leader="Dwarvish Steelclad,Dwarvish Thunderguard,Dwarvish Stalwart,Rogue,Trapper"
+		name=_"Knalgan Alliance"
+		recruit="Dwarvish Guardsman,Dwarvish Fighter,Dwarvish Ulfserker,Dwarvish Thunderer,Thief,Poacher,Footpad,Gryphon Rider"
+		terrain_liked="Hh,Ha,Mm"
+		type="Dwarvish Steelclad"
+		[ai]
+			[aspect]
+				id="recruitment_pattern"
+				[facet]
+					value="fighter,fighter,fighter,mixed fighter,archer,scout"
+				[/facet]
+			[/aspect]
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Drakes"
+		image="units/drakes/flare.png"
+		leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior,Saurian Oracle,Saurian Soothsayer"
+		name=_"Drakes"
+		random_leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior"
+		recruit="Drake Burner,Drake Clasher,Drake Glider,Drake Fighter,Saurian Skirmisher,Saurian Augur"
+		terrain_liked="Hh,Ha,Ds,Ss"
+		type="Drake Flare"
+	[/multiplayer_side]
+	[event]
+		name="prestart"
+		[store_unit]
+			kill=yes
+			variable="leaders_to_make_quick"
+			[filter]
+				canrecruit=yes
+				[filter_wml]
+					max_moves=4
+				[/filter_wml]
+			[/filter]
+		[/store_unit]
+		[set_variable]
+			name="i"
+			value=0
+		[/set_variable]
+		[while]
+			[variable]
+				less_than="$leaders_to_make_quick.length"
+				name="i"
+			[/variable]
+			[do]
+				[if]
+					[variable]
+						boolean_equals=yes
+						name="leaders_to_make_quick[$i].variables.dont_make_me_quick"
+					[/variable]
+					[then]
+						[unstore_unit]
+							variable="leaders_to_make_quick[$i]"
+						[/unstore_unit]
+					[/then]
+					[else]
+						[set_variables]
+							name="temp"
+							[literal]
+								[trait]
+#textdomain wesnoth-help
+									female_name=_"female^quick"
+									id="quick"
+									male_name=_"quick"
+									[effect]
+										apply_to="movement"
+										increase=1
+									[/effect]
+									[effect]
+										apply_to="hitpoints"
+										increase_total="-5%"
+									[/effect]
+								[/trait]
+							[/literal]
+						[/set_variables]
+						[set_variables]
+							mode="append"
+							name="leaders_to_make_quick[$i].modifications.trait"
+							[insert_tag]
+								name="literal"
+								variable="temp.trait"
+							[/insert_tag]
+						[/set_variables]
+						[clear_variable]
+							name="leaders_to_make_quick[$i].max_moves,leaders_to_make_quick[$i].moves,leaders_to_make_quick[$i].max_hitpoints,leaders_to_make_quick[$i].hitpoints"
+						[/clear_variable]
+						[unstore_unit]
+							variable="leaders_to_make_quick[$i]"
+						[/unstore_unit]
+					[/else]
+				[/if]
+				[set_variable]
+					add=1
+					name="i"
+				[/set_variable]
+			[/do]
+		[/while]
+		[clear_variable]
+			name="i"
+		[/clear_variable]
+		[clear_variable]
+			name="leaders_to_make_quick,temp"
+		[/clear_variable]
+	[/event]
+	[event]
+		name="time over"
+		[lua]
+			code="
+                local _ = wesnoth.textdomain ""wesnoth-multiplayer""
+                local function all_sides()
+                    local function f(s, i)
+                        i = i + 1
+                        local t = wesnoth.get_side(i)
+                        return t and i, t
+                    end
+                    return f, nil, 0
+                end
+
+                local income_factor = 5
+
+                local side_num = -1
+                local total_score = -1
+                local side_comparison = """"
+                for side, team in all_sides() do
+                    repeat -- ugly hack to convert 'break' into 'continue'
+                    if team.__cfg.hidden then
+                        break
+                    end
+                    local income = team.total_income * income_factor
+                    local units = 0
+                    -- Calc the total unit-score here
+                    for i, unit in ipairs( wesnoth.get_units { side = side } ) do
+                        if not unit.__cfg.canrecruit then
+                            wesnoth.fire(""unit_worth"", { id = unit.id })
+                            units = units + wesnoth.get_variable(""unit_worth"")
+                        end
+                    end
+                    -- Up to here
+                    local total = units + team.gold + income
+                    local r, g, b = 255, 255, 255
+                    if     team.__cfg.color == 1 then r, g, b = 255,   0,   0
+                    elseif team.__cfg.color == 2 then r, g, b =   0,   0, 255
+                    elseif team.__cfg.color == 3 then r, g, b =   0, 255,   0
+                    elseif team.__cfg.color == 4 then r, g, b = 155,  48, 255
+                    elseif team.__cfg.color == 5 then r, g, b =   0,   0,   0
+                    elseif team.__cfg.color == 6 then r, g, b = 165,  42,  42
+                    elseif team.__cfg.color == 7 then r, g, b = 255, 165,   0
+                    elseif team.__cfg.color == 8 then r, g, b = 255, 255, 255
+                    elseif team.__cfg.color == 9 then r, g, b =   0, 128, 128 end
+                    side_comparison = side_comparison ..
+                        string.format( tostring( _ ""<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit score = %d  Gold = %d"") .. ""\n"" .. tostring( _ ""Grand total: <b>%d</b>"") .. ""\n"",
+                            r, g, b, side, income, units, team.gold, total)
+                    if total > total_score then
+                        color = string.format(""#%02x%02x%02x"", r, g, b)
+                        side_num = side
+                        total_score = total
+                    end
+                    until true -- end ugly hack
+                end
+                side_comparison = side_comparison ..
+                    string.format( ""\n"" .. tostring( _ ""<span foreground='%s'>Side %d</span> has the advantage.""), color, side_num)
+                wesnoth.fire(""message"", { message = side_comparison, speaker = ""narrator"", image = ""wesnoth-icon.png""})
+            "
+		[/lua]
+	[/event]
+[/era]
+[side]
+allow_changes="yes"
+canrecruit="yes"
+color="1"
+colour="1"
+controller="ai"
+current_player="vandal"
+faction_name="Loyalists"
+flag_rgb="magenta"
+fog="yes"
+gender="male"
+gold="100"
+image="units/human-loyalists/lieutenant.png"
+income="0"
+leader="Lieutenant,Swordsman,Pikeman,Javelineer,Shock Trooper,Longbowman,White Mage,Red Mage"
+name="ReNoM"
+player_id="ReNoM1"
+random_leader="Lieutenant,Swordsman,Pikeman,Javelineer,Longbowman,White Mage,Red Mage"
+recruit="Cavalryman,Horseman,Spearman,Fencer,Heavy Infantryman,Bowman,Mage,Merman Fighter"
+save_id="ReNoM1"
+share_maps="no"
+share_view="yes"
+shroud="no"
+side="1"
+team_name="north"
+terrain_liked="Gg,Ww,Wo"
+type="Pikeman"
+user_description="ReNoM"
+user_team_name="wesnoth-multiplayerteamname^North"
+village_gold="2"
+[ai]
+recruitment_pattern="fighter,fighter,fighter,archer,mixed fighter,scout"
+villages_per_scout="8"
+[/ai]
+[ai]
+
+		villages_per_scout=8
+	[/ai]
+[/side]
+[side]
+allow_changes="yes"
+canrecruit="yes"
+color="5"
+colour="5"
+controller="human"
+current_player="vandal"
+faction_name="Knalgan Alliance"
+flag_rgb="magenta"
+fog="yes"
+gender="male"
+gold="100"
+image="units/dwarves/steelclad.png"
+income="0"
+leader="Dwarvish Steelclad,Dwarvish Thunderguard,Dwarvish Stalwart,Rogue,Trapper"
+name="vandal"
+player_id="vandal2"
+recruit="Dwarvish Guardsman,Dwarvish Fighter,Dwarvish Ulfserker,Dwarvish Thunderer,Thief,Poacher,Footpad,Gryphon Rider"
+save_id="vandal2"
+share_maps="no"
+share_view="yes"
+shroud="no"
+side="2"
+team_name="south"
+terrain_liked="Hh,Ha,Mm"
+type="Trapper"
+user_description="vandal"
+user_team_name="wesnoth-multiplayerteamname^South"
+village_gold="2"
+[ai]
+villages_per_scout="8"
+[aspect]
+id="recruitment_pattern"
+[facet]
+value="fighter,fighter,fighter,mixed fighter,archer,scout"
+[/facet]
+[/aspect]
+[/ai]
+[ai]
+
+		villages_per_scout=8
+	[/ai]
+[/side]
+[/replay_start]

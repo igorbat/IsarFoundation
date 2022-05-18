@@ -1,0 +1,2285 @@
+version="1.10.7"
+next_underlying_unit_id=22
+abbrev=""
+campaign=""
+campaign_define=""
+campaign_extra_defines=""
+campaign_type="multiplayer"
+completion="running"
+difficulty="NORMAL"
+end_text=""
+end_text_duration=0
+history=""
+label="2p - Caves Of The Basilisk"
+next_scenario=""
+parent="2p - Caves Of The Basilisk-Auto-Save3.gz"
+scenario=""
+version="1.10.7"
+[multiplayer]
+	experience_modifier=70
+	hash="NWR>Birrqgvtx36Q2Vz1CuxWFDCeqlwa-ge,gfVhrKAtj+dPlxRNhQ<QzQgN3u1UB46GUDhN79pgtDD3pW4C<dB7drvKcuMHxfGlCdw6R1cXF6Fcl.k300m4iwrnc3tr"
+	mp_countdown=yes
+	mp_countdown_action_bonus=0
+	mp_countdown_init_time=300
+	mp_countdown_reservoir_time=300
+	mp_countdown_turn_bonus=300
+	mp_era="era_default"
+	mp_fog=yes
+	mp_scenario="RBY Caves Of The Basilisk 12"
+	mp_shroud=no
+	mp_use_map_settings=yes
+	mp_village_gold=2
+	observer=yes
+	savegame=no
+	scenario="League - Exper vs ShuricK"
+	shuffle_sides=yes
+[/multiplayer]
+random_seed=1721
+random_calls=84
+[replay]
+	[command]
+		[start]
+		[/start]
+	[/command]
+	[upload_log]
+		[ai_log]
+			ai_id1="testing_ai_default"
+			ai_id2="testing_ai_default"
+			ai_id3="testing_ai_default"
+			end_gold1=106
+			end_gold2=45
+			end_gold3=100
+			end_turn=4
+			end_units1=0
+			end_units2=6
+			end_units3=15
+			faction1="stcarolas"
+			faction2="SL-Exper"
+			faction3="(Empty slot)"
+			version="1.10.7"
+			[turn_info]
+				event="TURN_START"
+				gold=100
+				side=1
+				turn=1
+				units=1
+				units_cost=35
+				villages=0
+			[/turn_info]
+			[turn_info]
+				event="TURN_START"
+				gold=100
+				side=2
+				turn=1
+				units=1
+				units_cost=40
+				villages=1
+			[/turn_info]
+			[turn_info]
+				event="TURN_START"
+				gold=100
+				side=1
+				turn=2
+				units=1
+				units_cost=35
+				villages=0
+			[/turn_info]
+			[turn_info]
+				event="TURN_START"
+				gold=27
+				side=2
+				turn=2
+				units=6
+				units_cost=116
+				villages=2
+			[/turn_info]
+			[turn_info]
+				event="TURN_START"
+				gold=102
+				side=1
+				turn=3
+				units=1
+				units_cost=35
+				villages=0
+			[/turn_info]
+			[turn_info]
+				event="TURN_START"
+				gold=45
+				side=2
+				turn=3
+				units=6
+				units_cost=116
+				villages=8
+			[/turn_info]
+			[turn_info]
+				event="TURN_START"
+				gold=104
+				side=1
+				turn=4
+				units=1
+				units_cost=35
+				villages=0
+			[/turn_info]
+		[/ai_log]
+	[/upload_log]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="Francis has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=yes
+		[init_side]
+		[/init_side]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="The_Cuttlefish_King has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="Virtuoser has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=yes
+		[move]
+			x="21,21,21,21,21,21"
+			y="4,5,6,7,8,9"
+		[/move]
+	[/command]
+	[command]
+		sent=yes
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=yes
+		[end_turn]
+		[/end_turn]
+	[/command]
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="Kolibri has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=6
+			x=20
+			y=20
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=20232
+		[/random]
+		[random]
+			value=23890
+		[/random]
+		[random]
+			value=2259
+		[/random]
+		[random]
+			value=12093
+		[/random]
+		[random]
+			value=20782
+		[/random]
+		[random]
+			value=21707
+		[/random]
+		[random]
+			value=1692
+		[/random]
+		[random]
+			value=2879
+		[/random]
+		[random]
+			value=10050
+		[/random]
+		[random]
+			value=15710
+		[/random]
+		[random]
+			value=4937
+		[/random]
+		[random]
+			value=8107
+		[/random]
+		[random]
+			value=32284
+		[/random]
+		[random]
+			value=27974
+			[results]
+				checksum="b-<73l>3zzcH1pHFwwboKOUGsjmxxiCcIQKIrMvLiQymKrNnFAPnwvBmNHGTzpHeFwGxzNOzxwFDvTvrEwyMVjNFBNH7EUziq>tIpVLVbBmJvppHRpzsqMTArpJBI1CQ"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=1
+			x=18
+			y=20
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=10438
+		[/random]
+		[random]
+			value=32588
+		[/random]
+		[random]
+			value=22113
+		[/random]
+		[random]
+			value=26697
+		[/random]
+		[random]
+			value=79
+		[/random]
+		[random]
+			value=4893
+		[/random]
+		[random]
+			value=21172
+		[/random]
+		[random]
+			value=4205
+		[/random]
+		[random]
+			value=6773
+		[/random]
+		[random]
+			value=12131
+		[/random]
+		[random]
+			value=15516
+		[/random]
+		[random]
+			value=9850
+		[/random]
+		[random]
+			value=15345
+		[/random]
+		[random]
+			value=24199
+			[results]
+				checksum="8oH+<tEMdLmgpGIqyN<CsAMNItBINwtKD8nHPCqOxGTBrGJEnKRBqBwyjEDBAIGwKUbOBPvwTVUIO54zCHzG6uBEz,BKOIDHPjET<N-LCOOOPpvKDpuvqy4xCCCqRQSI"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		undo=no
+		[speak]
+			id="SL-Exper"
+			message="gl hf"
+			side=2
+		[/speak]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="b4ob has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=7
+			x=18
+			y=19
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=27699
+		[/random]
+		[random]
+			value=22068
+		[/random]
+		[random]
+			value=27436
+		[/random]
+		[random]
+			value=32180
+		[/random]
+		[random]
+			value=32404
+		[/random]
+		[random]
+			value=19029
+		[/random]
+		[random]
+			value=14986
+		[/random]
+		[random]
+			value=1845
+		[/random]
+		[random]
+			value=1794
+		[/random]
+		[random]
+			value=1100
+		[/random]
+		[random]
+			value=27514
+		[/random]
+		[random]
+			value=9868
+		[/random]
+		[random]
+			value=9945
+		[/random]
+		[random]
+			value=29624
+			[results]
+				checksum="GvCHyvut,JsqQrzoztrKV0q4L5yOHbzYzzAKNNI0sapLCHnxOzGSDXEL0GTrPMj6c5gd4l1.fb9X9zXfpg2nZf61-iLWa2-1ewCjw1yhbMeW3g+ilF83<dKpeU1phgg1"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=7
+			x=22
+			y=20
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=13886
+		[/random]
+		[random]
+			value=29265
+		[/random]
+		[random]
+			value=14389
+		[/random]
+		[random]
+			value=2467
+		[/random]
+		[random]
+			value=17019
+		[/random]
+		[random]
+			value=26577
+		[/random]
+		[random]
+			value=30564
+		[/random]
+		[random]
+			value=17278
+		[/random]
+		[random]
+			value=7296
+		[/random]
+		[random]
+			value=1122
+		[/random]
+		[random]
+			value=22284
+		[/random]
+		[random]
+			value=27104
+		[/random]
+		[random]
+			value=13142
+		[/random]
+		[random]
+			value=6279
+			[results]
+				checksum="GvCHyvut,JsqQrzoztrKV0q4L5yOHbzYzzAHNNI0sapLCHnxOELSDXEL0GTrPMj6c5gd4l1.fb9X9zXfpg2nZf61-iI-a2-1ewCjw1yhbMeW3g+ilF83<dKpeU1phgg1"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="Satan has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=1
+			x=24
+			y=19
+			[from]
+				x=21
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=27420
+		[/random]
+		[random]
+			value=32511
+		[/random]
+		[random]
+			value=11148
+		[/random]
+		[random]
+			value=12489
+		[/random]
+		[random]
+			value=5747
+		[/random]
+		[random]
+			value=6378
+		[/random]
+		[random]
+			value=4799
+		[/random]
+		[random]
+			value=12368
+		[/random]
+		[random]
+			value=26451
+		[/random]
+		[random]
+			value=9100
+		[/random]
+		[random]
+			value=16363
+		[/random]
+		[random]
+			value=31044
+		[/random]
+		[random]
+			value=20100
+		[/random]
+		[random]
+			value=18017
+			[results]
+				checksum="8oH+<tEMdLmbpGOqyN<CsAMNItBINmtKD8nHPCqPxGTBrGJEnKRBqBwyjEDBAIGwKUbOBPFwTVUIO54zCHzG6uBEz,BKOIDHPjET<N-LCOOOPpvKDpuvqy4xCCCqRQSI"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,22,23,24,25"
+			y="21,20,21,21,22"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+	[command]
+		sent=yes
+		[init_side]
+		[/init_side]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="writtenSong has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="Alamo has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=yes
+		[move]
+			x="21,20,19,19,19,19"
+			y="9,9,10,11,12,13"
+		[/move]
+	[/command]
+	[command]
+		sent=yes
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=yes
+		[end_turn]
+		[/end_turn]
+	[/command]
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="gymun has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="20,21,21,21,21"
+			y="20,20,19,18,17"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="21,21,20"
+			y="17,16,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=no
+		[speak]
+			id="SL-Exper"
+			message="эм"
+			side=2
+		[/speak]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="18,18,18,17,17,17"
+			y="19,18,17,17,16,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="18,17,16,15,14,13,12,11,10"
+			y="20,20,19,19,18,18,17,17,17"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="22,23,24,25,25,25"
+			y="20,20,19,19,18,17"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="24,25,26,27,28,29,30,31"
+			y="19,19,18,18,17,17,16,16"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="25,25,26,27,28,29"
+			y="22,21,20,20,19,20"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+	[command]
+		sent=yes
+		[init_side]
+		[/init_side]
+	[/command]
+	[command]
+		sent=yes
+		[move]
+			x="19,19,18"
+			y="13,14,14"
+		[/move]
+	[/command]
+	[command]
+		sent=yes
+		[attack]
+			attacker_lvl=2
+			attacker_type="Drake Flare"
+			defender_lvl=1
+			defender_type="Spearman"
+			defender_weapon=0
+			seed=202317022
+			tod="afternoon"
+			turn=3
+			weapon=0
+			[source]
+				x=18
+				y=14
+			[/source]
+			[destination]
+				x=17
+				y=15
+			[/destination]
+		[/attack]
+	[/command]
+	[command]
+		sent=yes
+		[countdown_update]
+			team=1
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=yes
+		[end_turn]
+		[/end_turn]
+	[/command]
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="WINR has logged into the lobby"
+		[/speak]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="29,28,27,26,25,24"
+			y="20,19,19,18,19,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="31,30,30,30,29,29,28,27,26,25"
+			y="16,15,14,13,13,12,11,11,10,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="20,20,19"
+			y="15,14,14"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Merman Fighter"
+			defender_lvl=2
+			defender_type="Drake Flare"
+			defender_weapon=0
+			seed=349988664
+			tod="afternoon"
+			turn=3
+			weapon=0
+			[source]
+				x=19
+				y=14
+			[/source]
+			[destination]
+				x=18
+				y=14
+			[/destination]
+		[/attack]
+		[random]
+			value=5787
+			[results]
+				chance=80
+				damage=0
+				dies=no
+				hits=no
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=14794
+			[results]
+				chance=70
+				damage=0
+				dies=no
+				hits=no
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=10494
+			[results]
+				chance=80
+				damage=0
+				dies=no
+				hits=no
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=2956
+			[results]
+				chance=70
+				damage=10
+				dies=no
+				hits=yes
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=21870
+			[results]
+				chance=80
+				damage=10
+				dies=no
+				hits=yes
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=20403
+			[results]
+				chance=70
+				damage=10
+				dies=no
+				hits=yes
+				unit_hit="defender"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[attack]
+			attacker_lvl=1
+			attacker_type="Spearman"
+			defender_lvl=2
+			defender_type="Drake Flare"
+			defender_weapon=0
+			seed=1022713932
+			tod="afternoon"
+			turn=3
+			weapon=0
+			[source]
+				x=17
+				y=15
+			[/source]
+			[destination]
+				x=18
+				y=14
+			[/destination]
+		[/attack]
+		[random]
+			value=32409
+			[results]
+				chance=80
+				damage=11
+				dies=no
+				hits=yes
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=30854
+			[results]
+				chance=40
+				damage=0
+				dies=no
+				hits=no
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=30805
+			[results]
+				chance=80
+				damage=11
+				dies=no
+				hits=yes
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=1854
+			[results]
+				chance=40
+				damage=0
+				dies=no
+				hits=no
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=27395
+			[results]
+				chance=80
+				damage=0
+				dies=no
+				hits=no
+				unit_hit="defender"
+			[/results]
+		[/random]
+		[random]
+			value=21971
+			[results]
+				chance=40
+				damage=0
+				dies=no
+				hits=no
+				unit_hit="defender"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="10,10,11,12,13,13,13,13,13"
+			y="17,16,16,15,15,14,13,12,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="25,24,23,22,21"
+			y="17,17,18,17,17"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[countdown_update]
+			team=2
+			value=300000
+		[/countdown_update]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+	[command]
+		sent=yes
+		[init_side]
+		[/init_side]
+	[/command]
+	[command]
+		sent=""
+		undo=no
+		[speak]
+			id="SL-Exper"
+			message="..."
+			side=2
+		[/speak]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="stcarolas has left the game."
+		[/speak]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="SL-Exper takes control of side 1."
+		[/speak]
+	[/command]
+	[command]
+		sent=yes
+		[speak]
+			id="server"
+			message="SL-Exper undroids side 1."
+		[/speak]
+	[/command]
+[/replay]
+[replay_start]
+	allow_new_game=yes
+	current_tod=0
+	description=_"These caves were once the lair of Chak’kso Ney’yks, a legendary Elder Basilisk. The petrified forms of his victims remain as monuments to his savage power."
+	experience_modifier=70
+	id="RBY Caves Of The Basilisk 12"
+	map_data="border_size=1
+usage=map
+
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm^Xm       , Mm^Xm       , Mm^Xm       , Gs^Fp       , Mm^Xm       , Gs^Fp       , Hh          , Gs^Fms      , Ww          , Ww          , Ww          , Gs^Fp       , Gs^Fms      , Mm^Xm       , Mm^Xm       , Mm^Xm       , Mm^Xm       , Mm^Xm       , Mm          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Gs^Fp       , Mm          , Hh^Fms      , Mm          , Gs^Fp       , Mm^Xm       , Gs^Fms      , Gg^Ve       , Gg          , Hh          , Mm          , Ww          , Gs^Fp       , Hh          , Gs          , Hh          , Rr^Vd       , Hh^Fms      , Hh          , Mm          , Hh          , Gs^Fp       , Gg          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Hh          , Gg          , Gs          , Hh          , Gs          , Hh          , Hh^Fds      , Mm          , Gg          , Gg          , Ch          , Gg          , Ch          , 1 Kh        , Ch          , Gg          , Ch          , Gs          , Gs          , Hh^Uf       , Gs          , Gs          , Gg          , Gg          , Mm          , Wwf         , Wwf         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Wwf         , Gg          , Gg          , Gs          , Gs          , Gg          , Gg^Ve       , Gg          , Gg          , Gg          , Gg          , Kh          , Ch          , Gg          , Wwf         , Gg          , Ch          , Kh          , Gg          , Gg          , Gs          , Gg          , Gs          , Gg          , Hh          , Hh^Fms      , Gs^Fds      , Wwf         , Xu          , Xu          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Xu          , Xu          , Wwf         , Gg          , Ss          , Hh^Fms      , Hh          , Gg          , Gg          , Gg          , Re          , Gg          , Re          , Gg          , Gg          , Gg          , Gg          , Wwf         , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs          , Gs^Uf       , Gg          , Rr          , Gg          , Gg          , Wwf         , Xu          , Xu          , Xu          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Xu          , Xu          , Wwf         , Wwf         , Gg          , Gg          , Gs          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Re          , Re          , Xu          , Re          , Re^Uf       , Gg          , Re          , Wwf         , Gg          , Gs^Fms      , Gg          , Re          , Re          , Re          , Xu          , Gs          , Gs          , Chr         , Rr^Vd       , Rr          , Re          , Wwf         , Wwf         , Xu          , Uh          , Xu          , Xu          , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Xu          , Xu          , Wwf         , Gg          , Gs          , Gs^Fp       , Mm          , Gs          , Gg          , Gg          , Re          , Re          , Ww          , Xu          , Uh          , Uu^Vud      , Xu          , Re          , Wwf         , Wwf         , Re          , Gg          , Re          , Re          , Wwf         , Xu          , Xu          , Uh          , Gs          , Rr          , Rr          , Hh^Fds      , Gs          , Re          , Wwf         , Xu          , Wwf         , Uu          , Uu^Uf       , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Xu          , Wwf         , Gs^Fp       , Hh          , Gs          , Hh          , Gs^Fp       , Hh          , Gg          , Ss^Vhs      , Re          , Ww          , Wo          , Ww          , Wwf         , Wwf         , Uh          , Uu^Uf       , Wwf         , Ww          , Ss^Vhs      , Re          , Xu          , Wwf         , Ur          , Ur          , Re          , Gs^Fp       , Gg          , Gs          , Gs          , Gs          , Gs          , Re          , Re^Uf       , Wwf         , Wwf         , Uu          , Xu          , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Wwf         , Wwf         , Gs          , Gg          , Gs          , Re^Uf       , Gs          , Gs          , Gg          , Re          , Re          , Ww          , Ww          , Ww          , Xu          , Uh          , Xu          , Ur          , Ww          , Ww          , Ww          , Xu          , Ww          , Uu^Vu       , Ur          , Re          , Gg          , Gg          , Gg          , Gg          , Re^Uf       , Gs          , Gs^Fp       , Gs          , Re          , Gs^Fp       , Wwf         , Xu          , Xu          , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Gs^Fms      , Gs^Fp       , Re^Uf       , Re          , Gg          , Gs          , Gs          , Gs          , Gg          , Gg          , Gg          , Re          , Wwf         , Uh          , Xu          , Ur          , Xu          , Wwf         , Ww          , Wo          , Uu          , Uh          , Uh          , Xu          , Xu          , Re          , Re          , Gg          , Hh          , Hh          , Mm          , Hh^Uf       , Hh          , Gs          , Gs          , Re          , Re          , Wwf         , Xu          , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Mm          , Hh          , Re          , Re          , Gg          , Gs          , Hh          , Gs          , Ss          , Gg          , Hh          , Re          , Wwf         , Xu          , Xu          , Ur          , Wwf         , Wwf         , Ww          , Uu^Uf       , Ww          , Ww          , Wwf         , Uu^Uf       , Xu          , Uh          , Wwf         , Re          , Hh          , Gs^Fms      , Ss          , Gs^Fp       , Hh          , Gs^Fms      , Gs          , Re          , Re          , Wwf         , Wwf         , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Wwf         , Re^Uf       , Re          , Gg          , Gg          , Gs^Fp       , Hh          , Gs^Fms      , Mm          , Gs^Fp       , Hh          , Re          , Re          , Uh          , Xu          , Uu^Uf       , Uh          , Ww          , Uu          , Uu^Uf       , Ww          , Wwf         , Xu          , Ur          , Xu          , Xu          , Wwf         , Re          , Gg          , Gg          , Gg          , Gs          , Gs          , Gs          , Gs          , Gg          , Gg          , Re^Uf       , Mm          , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Xu          , Wwf         , Re          , Gg          , Gg          , Gg          , Gs^Fp       , Hh^Uf       , Re^Uf       , Hh          , Gs          , Gg          , Gg          , Re          , Ur          , Xu          , Ww          , Uh          , Ww          , Wo          , Ww          , Wwf         , Xu          , Ur          , Xu          , Uh          , Ww          , Re          , Re          , Gg          , Gg          , Gg          , Gg          , Gs          , Gg          , Gg          , Hh          , Hh          , Gs^Fp       , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Xu          , Wwf         , Wwf         , Gs^Fms      , Gg^Uf       , Gg          , Gg          , Gs          , Gs          , Gs          , Gs          , Gg          , Re          , Re          , Ur          , Uu^Vu       , Xu          , Xu          , Ss^Vhs      , Ww          , Wwf         , Ur          , Uh          , Uh          , Wwf         , Ww          , Wo          , Ww          , Re          , Re          , Gg          , Gg          , Gs^Fms      , Gs          , Gs          , Gg          , Gg          , Gs^Fp       , Wwf         , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Xu          , Xu          , Wwf         , Re          , Re          , Gg          , Gg          , Gg          , Rr          , Gs          , Gg          , Gs^Fp       , Xu          , Ur          , Wwf         , Wwf         , Re          , Re          , Re          , Ww          , Wwf         , Uu^Uf       , Xu          , Wwf         , Uh          , Ww          , Ww          , Ww          , Re          , Ss^Vhs      , Gg          , Hh          , Mm          , Hh          , Re^Uf       , Gg          , Gg          , Wwf         , Xu          , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Uu^Uf       , Uu          , Wwf         , Wwf         , Wwf         , Re          , Gg          , Hh^Fds      , Rr^Vd       , Rr          , Gg          , Uh          , Xu          , Xu          , Re          , Re          , Gg          , Gg          , Gg          , Wwf         , Re          , Re          , Re^Uf       , Uu^Vud      , Xu          , Xu          , Re          , Re          , Gg          , Gg          , Gg          , Gs          , Gs          , Gs^Fp       , Gg          , Gg          , Wwf         , Wwf         , Xu          , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , Xu          , Wwf         , Uh          , Xu          , Wwf         , Re          , Re          , Rr          , Rr          , Chr         , Gg^Uf       , Gg          , Gg          , Re          , Gg          , Re          , Gg          , Gs^Fp       , Gg          , Wwf         , Gg          , Gg          , Gg          , Re          , Re          , Re          , Re          , Gg          , Gg          , Gg          , Hh          , Gs^Fp       , Ss          , Gg          , Wwf         , Wwf         , Xu          , Xu          , Xu          , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , Xu          , Xu          , Xu          , Xu          , Wwf         , Gg          , Gg          , Hh^Fms      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Kh          , Gg          , Gg          , Wwf         , Gg          , Gg          , Kh          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gs          , Hh^Fms      , Gs          , Gg          , Wwf         , Xu          , Xu          , Xu          , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Xu          , Xu          , Wwf         , Wwf         , Gs^Fds      , Mm          , Hh          , Gs          , Gg          , Gs          , Gs          , Gg          , Gg          , Ch          , Ch          , Ch          , Wwf         , Ch          , Ch          , Ch          , Gg          , Gg          , Gg          , Hh^Fds      , Gg^Ve       , Gs          , Gs          , Gs          , Gs          , Gg          , Wwf         , Xu          , Xu          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Xu          , Wwf         , Gg          , Gg          , Gs^Fp       , Gs          , Gs          , Hh          , Hh^Uf       , Rr^Vd       , Gg          , Gg          , Hh          , Mm          , 2 Kh        , Gs^Fp       , Gg          , Gg          , Gg          , Gs^Fp       , Mm          , Hh          , Hh          , Hh^Fms      , Hh          , Gs^Fms      , Gg          , Wwf         , Wwf         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Gg          , Gg          , Gs          , Gs^Fp       , Mm          , Hh^Fms      , Mm^Xm       , Hh          , Gs^Fms      , Gg^Fet      , Hh          , Ww          , Hh          , Hh          , Gs^Fms      , Gg^Ve       , Hh          , Hh          , Mm^Xm       , Mm          , Mm          , Hh          , Hh^Fms      , Mm          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm          , Hh          , Mm          , Mm^Xm       , Mm^Xm       , Mm^Xm       , Mm^Xm       , Mm^Xm       , Mm          , Mm^Xm       , Ww          , Ww          , Mm          , Mm^Xm       , Mm^Xm       , Mm^Xm       , Mm^Xm       , Mm          , Mm^Xm       , Mm          , Hh          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm^Xm       , _off^_usr   , Mm          , _off^_usr   , Gs^Fp       , _off^_usr   , Mm^Xm       , _off^_usr   , Ww          , _off^_usr   , Gs^Fp       , _off^_usr   , Hh          , _off^_usr   , Gs^Fp       , _off^_usr   , Mm^Xm       , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+"
+	name=_"2p - Caves Of The Basilisk"
+	next_underlying_unit_id=0
+	objectives="<big>" +
+		_"Victory:" +
+		"</big>
+<span foreground=""#00ff00"">&#8226; " +
+		_"Defeat enemy leader(s)" +
+		"</span>"
+	observer=yes
+	random_calls=""
+	random_seed=1721
+	random_start_time=no
+	shuffle_sides=yes
+	turns=-1
+	version="1.10.7"
+	[event]
+		name="prestart"
+		[store_unit]
+			kill=yes
+			variable="leaders_to_make_quick"
+			[filter]
+				canrecruit=yes
+				[filter_wml]
+					max_moves=4
+				[/filter_wml]
+			[/filter]
+		[/store_unit]
+		[set_variable]
+			name="i"
+			value=0
+		[/set_variable]
+		[while]
+			[variable]
+				less_than="$leaders_to_make_quick.length"
+				name="i"
+			[/variable]
+			[do]
+				[if]
+					[variable]
+						boolean_equals=yes
+						name="leaders_to_make_quick[$i].variables.dont_make_me_quick"
+					[/variable]
+					[then]
+						[unstore_unit]
+							variable="leaders_to_make_quick[$i]"
+						[/unstore_unit]
+					[/then]
+					[else]
+						[set_variables]
+							name="temp"
+							[literal]
+								[trait]
+#textdomain wesnoth-help
+									female_name=_"female^quick"
+									id="quick"
+									male_name=_"quick"
+									[effect]
+										apply_to="movement"
+										increase=1
+									[/effect]
+									[effect]
+										apply_to="hitpoints"
+										increase_total="-5%"
+									[/effect]
+								[/trait]
+							[/literal]
+						[/set_variables]
+						[set_variables]
+							mode="append"
+							name="leaders_to_make_quick[$i].modifications.trait"
+							[insert_tag]
+								name="literal"
+								variable="temp.trait"
+							[/insert_tag]
+						[/set_variables]
+						[clear_variable]
+							name="leaders_to_make_quick[$i].max_moves,leaders_to_make_quick[$i].moves,leaders_to_make_quick[$i].max_hitpoints,leaders_to_make_quick[$i].hitpoints"
+						[/clear_variable]
+						[unstore_unit]
+							variable="leaders_to_make_quick[$i]"
+						[/unstore_unit]
+					[/else]
+				[/if]
+				[set_variable]
+					add=1
+					name="i"
+				[/set_variable]
+			[/do]
+		[/while]
+		[clear_variable]
+			name="i"
+		[/clear_variable]
+		[clear_variable]
+			name="leaders_to_make_quick,temp"
+		[/clear_variable]
+	[/event]
+	[event]
+		name="prestart"
+		[music]
+			ms_before=12000
+			name="knolls.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="wanderer.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="battle.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="transience.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="revelation.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="loyalists.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="the_king_is_dead.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="knalgan_theme.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="the_city_falls.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="nunc_dimittis.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="breaking_the_chains.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="elvish-theme.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="legends_of_the_north.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="traveling_minstrels.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="underground.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="vengeful.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="frantic.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="the_dangerous_symphony.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="heroes_rite.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="suspense.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="the_deep_path.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="siege_of_laurelmor.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="casualties_of_war.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="silvan_sanctuary.ogg"
+		[/music]
+		[music]
+			append=yes
+			ms_before=12000
+			name="battle-epic.ogg"
+		[/music]
+	[/event]
+	[event]
+		name="prestart"
+		[if]
+			[variable]
+				boolean_equals=yes
+				name="rby_set_message"
+			[/variable]
+			[then]
+				[chat]
+#textdomain wesnoth
+					message=_"/me can be created at http://rushedbyyetis.heroku.com/"
+					speaker=_"RBY Custom"
+				[/chat]
+				[chat]
+					message=_"$rby_set_info[1].val"
+					speaker=_"RBY $rby_set_info[0].val " +
+						"24"
+				[/chat]
+				[chat]
+					message=_"/me ctrl-x to clear"
+					speaker=_"Press"
+				[/chat]
+			[/then]
+		[/if]
+		[objectives]
+			[objective]
+				condition="win"
+				description=_"Defeat enemy leader"
+			[/objective]
+		[/objectives]
+	[/event]
+	[music]
+		ms_before=12000
+		name="knolls.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="wanderer.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="battle.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="transience.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_king_is_dead.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="knalgan_theme.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_city_falls.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="nunc_dimittis.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="revelation.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="loyalists.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="breaking_the_chains.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="elvish-theme.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="legends_of_the_north.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="traveling_minstrels.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="underground.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="vengeful.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="frantic.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_dangerous_symphony.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="heroes_rite.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="suspense.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_deep_path.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="siege_of_laurelmor.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="casualties_of_war.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="silvan_sanctuary.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="battle-epic.ogg"
+	[/music]
+	[time]
+		green=-20
+		id="dawn"
+		image="misc/schedule-dawn.png"
+#textdomain wesnoth-help
+		name=_"Dawn"
+		red=-20
+		sound="ambient/morning.ogg"
+	[/time]
+	[time]
+		id="morning"
+		image="misc/schedule-morning.png"
+		lawful_bonus=25
+		name=_"Morning"
+	[/time]
+	[time]
+		id="afternoon"
+		image="misc/schedule-afternoon.png"
+		lawful_bonus=25
+		name=_"Afternoon"
+	[/time]
+	[time]
+		blue=-20
+		green=-20
+		id="dusk"
+		image="misc/schedule-dusk.png"
+		name=_"Dusk"
+		sound="ambient/night.ogg"
+	[/time]
+	[time]
+		blue=-10
+		green=-35
+		id="first_watch"
+		image="misc/schedule-firstwatch.png"
+		lawful_bonus=-25
+		name=_"First Watch"
+		red=-45
+	[/time]
+	[time]
+		blue=-10
+		green=-35
+		id="second_watch"
+		image="misc/schedule-secondwatch.png"
+		lawful_bonus=-25
+		name=_"Second Watch"
+		red=-45
+	[/time]
+	[era]
+		id="era_default"
+#textdomain wesnoth-multiplayer
+		name=_"Default"
+		[multiplayer_side]
+			flag_rgb="magenta"
+			id="Random"
+			image="units/random-dice.png"
+			name=_"Random"
+			random_faction=yes
+		[/multiplayer_side]
+		[multiplayer_side]
+			flag_rgb="magenta"
+			id="Loyalists"
+			image="units/human-loyalists/lieutenant.png"
+			leader="Lieutenant,Swordsman,Pikeman,Javelineer,Shock Trooper,Longbowman,White Mage,Red Mage"
+			name=_"Loyalists"
+			random_leader="Lieutenant,Swordsman,Pikeman,Javelineer,Longbowman,White Mage,Red Mage"
+			recruit="Cavalryman,Horseman,Spearman,Fencer,Heavy Infantryman,Bowman,Mage,Merman Fighter"
+			terrain_liked="Gg,Ww,Wo"
+			type="Lieutenant"
+			[ai]
+				recruitment_pattern="fighter,fighter,fighter,archer,mixed fighter,scout"
+			[/ai]
+		[/multiplayer_side]
+		[multiplayer_side]
+			flag_rgb="magenta"
+			id="Rebels"
+			image="units/elves-wood/captain.png"
+			leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage,Elder Wose"
+			name=_"Rebels"
+			random_leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage"
+			recruit="Elvish Fighter,Elvish Archer,Mage,Elvish Shaman,Elvish Scout,Wose,Merman Hunter"
+			terrain_liked="Ff,Fa,Ss,Ww"
+			type="Elvish Captain"
+			[ai]
+				recruitment_pattern="fighter,fighter,archer,archer,mixed fighter,healer,scout"
+			[/ai]
+		[/multiplayer_side]
+		[multiplayer_side]
+			flag_rgb="magenta"
+			id="Northerners"
+			image="units/orcs/warrior.png"
+			leader="Orcish Warrior,Troll,Troll Rocklobber,Orcish Crossbowman,Orcish Slayer"
+			name=_"Northerners"
+			recruit="Orcish Grunt,Troll Whelp,Wolf Rider,Orcish Archer,Orcish Assassin,Naga Fighter,Goblin Spearman"
+			terrain_liked="Hh,Ha,Mm,Ss"
+			type="Orcish Warrior"
+			[ai]
+				recruitment_pattern="fighter,fighter,fighter,mixed fighter,archer,scout"
+			[/ai]
+		[/multiplayer_side]
+		[multiplayer_side]
+			flag_rgb="magenta"
+			id="Undead"
+			image="units/undead-necromancers/dark-sorcerer.png"
+			leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter,Necrophage"
+			name=_"Undead"
+			random_leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter"
+			recruit="Skeleton,Skeleton Archer,Walking Corpse,Ghost,Vampire Bat,Dark Adept,Ghoul"
+			terrain_liked="Ss,Hh,Ha,Ww"
+			type="Dark Sorcerer"
+			[ai]
+				recruitment_pattern="fighter,fighter,archer,fighter,scout,archer"
+			[/ai]
+		[/multiplayer_side]
+		[multiplayer_side]
+			flag_rgb="magenta"
+			id="Knalgan Alliance"
+			image="units/dwarves/steelclad.png"
+			leader="Dwarvish Steelclad,Dwarvish Thunderguard,Dwarvish Stalwart,Rogue,Trapper"
+			name=_"Knalgan Alliance"
+			recruit="Dwarvish Guardsman,Dwarvish Fighter,Dwarvish Ulfserker,Dwarvish Thunderer,Thief,Poacher,Footpad,Gryphon Rider"
+			terrain_liked="Hh,Ha,Mm"
+			type="Dwarvish Steelclad"
+			[ai]
+				[aspect]
+					id="recruitment_pattern"
+					[facet]
+						value="fighter,fighter,fighter,mixed fighter,archer,scout"
+					[/facet]
+				[/aspect]
+			[/ai]
+		[/multiplayer_side]
+		[multiplayer_side]
+			flag_rgb="magenta"
+			id="Drakes"
+			image="units/drakes/flare.png"
+			leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior,Saurian Oracle,Saurian Soothsayer"
+			name=_"Drakes"
+			random_leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior"
+			recruit="Drake Burner,Drake Clasher,Drake Glider,Drake Fighter,Saurian Skirmisher,Saurian Augur"
+			terrain_liked="Hh,Ha,Ds,Ss"
+			type="Drake Flare"
+		[/multiplayer_side]
+		[event]
+			name="prestart"
+			[store_unit]
+				kill=yes
+				variable="leaders_to_make_quick"
+				[filter]
+					canrecruit=yes
+					[filter_wml]
+						max_moves=4
+					[/filter_wml]
+				[/filter]
+			[/store_unit]
+			[set_variable]
+				name="i"
+				value=0
+			[/set_variable]
+			[while]
+				[variable]
+					less_than="$leaders_to_make_quick.length"
+					name="i"
+				[/variable]
+				[do]
+					[if]
+						[variable]
+							boolean_equals=yes
+							name="leaders_to_make_quick[$i].variables.dont_make_me_quick"
+						[/variable]
+						[then]
+							[unstore_unit]
+								variable="leaders_to_make_quick[$i]"
+							[/unstore_unit]
+						[/then]
+						[else]
+							[set_variables]
+								name="temp"
+								[literal]
+									[trait]
+#textdomain wesnoth-help
+										female_name=_"female^quick"
+										id="quick"
+										male_name=_"quick"
+										[effect]
+											apply_to="movement"
+											increase=1
+										[/effect]
+										[effect]
+											apply_to="hitpoints"
+											increase_total="-5%"
+										[/effect]
+									[/trait]
+								[/literal]
+							[/set_variables]
+							[set_variables]
+								mode="append"
+								name="leaders_to_make_quick[$i].modifications.trait"
+								[insert_tag]
+									name="literal"
+									variable="temp.trait"
+								[/insert_tag]
+							[/set_variables]
+							[clear_variable]
+								name="leaders_to_make_quick[$i].max_moves,leaders_to_make_quick[$i].moves,leaders_to_make_quick[$i].max_hitpoints,leaders_to_make_quick[$i].hitpoints"
+							[/clear_variable]
+							[unstore_unit]
+								variable="leaders_to_make_quick[$i]"
+							[/unstore_unit]
+						[/else]
+					[/if]
+					[set_variable]
+						add=1
+						name="i"
+					[/set_variable]
+				[/do]
+			[/while]
+			[clear_variable]
+				name="i"
+			[/clear_variable]
+			[clear_variable]
+				name="leaders_to_make_quick,temp"
+			[/clear_variable]
+		[/event]
+		[event]
+			name="time over"
+			[lua]
+				code="
+                local _ = wesnoth.textdomain ""wesnoth-multiplayer""
+                local function all_sides()
+                    local function f(s, i)
+                        i = i + 1
+                        local t = wesnoth.get_side(i)
+                        return t and i, t
+                    end
+                    return f, nil, 0
+                end
+
+                local income_factor = 5
+
+                local side_num = -1
+                local total_score = -1
+                local side_comparison = """"
+                for side, team in all_sides() do
+                    repeat -- ugly hack to convert 'break' into 'continue'
+                    if team.__cfg.hidden then
+                        break
+                    end
+                    local income = team.total_income * income_factor
+                    local units = 0
+                    -- Calc the total unit-score here
+                    for i, unit in ipairs( wesnoth.get_units { side = side } ) do
+                        if not unit.__cfg.canrecruit then
+                            wesnoth.fire(""unit_worth"", { id = unit.id })
+                            units = units + wesnoth.get_variable(""unit_worth"")
+                        end
+                    end
+                    -- Up to here
+                    local total = units + team.gold + income
+                    local r, g, b = 255, 255, 255
+                    if     team.__cfg.color == 1 then r, g, b = 255,   0,   0
+                    elseif team.__cfg.color == 2 then r, g, b =   0,   0, 255
+                    elseif team.__cfg.color == 3 then r, g, b =   0, 255,   0
+                    elseif team.__cfg.color == 4 then r, g, b = 155,  48, 255
+                    elseif team.__cfg.color == 5 then r, g, b =   0,   0,   0
+                    elseif team.__cfg.color == 6 then r, g, b = 165,  42,  42
+                    elseif team.__cfg.color == 7 then r, g, b = 255, 165,   0
+                    elseif team.__cfg.color == 8 then r, g, b = 255, 255, 255
+                    elseif team.__cfg.color == 9 then r, g, b =   0, 128, 128 end
+                    side_comparison = side_comparison ..
+                        string.format( tostring( _ ""<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit score = %d  Gold = %d"") .. ""\n"" .. tostring( _ ""Grand total: <b>%d</b>"") .. ""\n"",
+                            r, g, b, side, income, units, team.gold, total)
+                    if total > total_score then
+                        color = string.format(""#%02x%02x%02x"", r, g, b)
+                        side_num = side
+                        total_score = total
+                    end
+                    until true -- end ugly hack
+                end
+                side_comparison = side_comparison ..
+                    string.format( ""\n"" .. tostring( _ ""<span foreground='%s'>Side %d</span> has the advantage.""), color, side_num)
+                wesnoth.fire(""message"", { message = side_comparison, speaker = ""narrator"", image = ""wesnoth-icon.png""})
+            "
+			[/lua]
+		[/event]
+	[/era]
+	[side]
+		allow_changes=yes
+		allow_player=""
+		color=2
+		colour=2
+		controller="network"
+		current_player="stcarolas"
+#textdomain wesnoth-multiplayer
+		faction_name=_"Drakes"
+		flag_rgb="magenta"
+		fog=yes
+		gender="male"
+		gold=100
+		id="RBY_Side2"
+		image="units/drakes/flare.png"
+		income=0
+		leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior,Saurian Oracle,Saurian Soothsayer"
+		name="stcarolas"
+		persistent=yes
+		player_id="stcarolas1"
+		random_leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior"
+		recruit="Drake Burner,Drake Clasher,Drake Glider,Drake Fighter,Saurian Skirmisher,Saurian Augur"
+		save_id="RBY_Side2"
+		share_maps=yes
+		share_view=yes
+		shroud=no
+		side=1
+		team_name="north"
+		terrain_liked="Hh,Ha,Ds,Ss"
+		type="Drake Flare"
+		user_description="stcarolas"
+		user_team_name="wesnothteamname^North"
+		village_gold=2
+		[ai]
+			villages_per_scout=8
+		[/ai]
+	[/side]
+	[side]
+		allow_changes=yes
+		allow_player=""
+		color=7
+		colour=7
+		controller="human"
+		current_player="SL-Exper"
+		faction_name=_"Loyalists"
+		flag_rgb="magenta"
+		fog=yes
+		gender="female"
+		gold=100
+		id="RBY_Side1"
+		image="units/human-loyalists/lieutenant.png"
+		income=0
+		leader="Lieutenant,Swordsman,Pikeman,Javelineer,Shock Trooper,Longbowman,White Mage,Red Mage"
+		name="SL-Exper"
+		persistent=yes
+		player_id="SL-Exper2"
+		random_leader="Lieutenant,Swordsman,Pikeman,Javelineer,Longbowman,White Mage,Red Mage"
+		recruit="Cavalryman,Horseman,Spearman,Fencer,Heavy Infantryman,Bowman,Mage,Merman Fighter"
+		save_id="RBY_Side1"
+		share_maps=yes
+		share_view=yes
+		shroud=no
+		side=2
+		team_name="south"
+		terrain_liked="Gg,Ww,Wo"
+		type="White Mage"
+		user_description="SL-Exper"
+		user_team_name="wesnothteamname^South"
+		village_gold=2
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,archer,mixed fighter,scout"
+			villages_per_scout=8
+		[/ai]
+		[ai]
+			villages_per_scout=8
+		[/ai]
+		[village]
+			x=16
+			y=21
+		[/village]
+	[/side]
+	[side]
+		allow_changes=yes
+		allow_player=no
+		canrecruit=no
+		color=5
+		colour=5
+		controller="null"
+		current_player=""
+		faction_name=_"Knalgan Alliance"
+		flag_rgb="magenta"
+		fog=yes
+		gender="male"
+		gold=100
+		hidden=yes
+		id=""
+		image="units/dwarves/steelclad.png"
+		income=0
+		leader="Dwarvish Steelclad,Dwarvish Thunderguard,Dwarvish Stalwart,Rogue,Trapper"
+#textdomain wesnoth
+		name=_"(Empty slot)"
+		no_leader=yes
+		recruit="Dwarvish Guardsman,Dwarvish Fighter,Dwarvish Ulfserker,Dwarvish Thunderer,Thief,Poacher,Footpad,Gryphon Rider"
+		share_maps=no
+		share_view=yes
+		shroud=no
+		side=3
+		team_name="statues"
+		terrain_liked="Hh,Ha,Mm"
+		type="Rogue"
+		user_description=_"(Empty slot)"
+		user_team_name="statues"
+		village_gold=2
+		[ai]
+			[aspect]
+				id="recruitment_pattern"
+				[facet]
+					value="fighter,fighter,fighter,mixed fighter,archer,scout"
+				[/facet]
+			[/aspect]
+		[/ai]
+		[unit]
+			description=_"The winds of the dark sky blew so cold,
+The moon was high, the night was old,
+Brave was the drake that dared forsake
+His home to steal the Basilisk’s gold.
+
+On that dark night, the skies so churned,
+He disregarded what he had learned,
+Foolish but brave, to the Basilisk’s cave,
+He flew, and the fire within him burned.
+
+Alas, that fire burns no more,
+For the Basilisk, with one mighty roar,
+Chilled him to the bone, and he turned to stone,
+And so he stays forevermore.
+
+The winds of the sky blow so cold,
+The years pass by, the days are old,
+Here stands that drake, who dared forsake
+His home to steal the Basilisk’s gold.
+(inscribed by Flametrooper)"
+			name=""
+			random_traits=no
+			type="Sky Drake"
+			unrenamable=yes
+			x=27
+			y=14
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Xikkrisx of Syrsszk was a powerful Saurian warrior, sent to this region by the Elders of the Rysssrylosszkk Clan (translation: “The Hunts-Foes-In-Boiling-Rivers Clan”). The Elders were preparing to make war on a human outpost, and were in great need of the powerful magics of Oxsrrsk, a Saurian Mystic who had last been seen heading in the direction of Ruaskkolin Lake. Xikkrisx found the petrified body of Oxsrrsk, along with a carefully bound scroll that had apparently been dropped into a small crevice in the cave floor. He opened the scroll and read a brief passage from the middle of the text: “After he was bound and cast from the Upper World, Chak’kso’s enraged spirit sought release, and was able to exert a corrupting influence on certain regions of the Upper World, channeled through ‘pathways of stone’ that extend from the surface into the depths of the Under Reaches. This rage altered the eggs of great lizards, shaping their bodies and spirits into implements of Chak’kso’s hatred.” Confused, Xikkrisx fixed his attention on the task at hand. Thinking that perhaps the Elders could find some way to restore Oxsrrsk, he began the long and strenuous task of hauling the statue back to the domain of the Rysssrylosszkk Clan. Exhausted, and not having traveled far from the lake, Xikkrisx set the statue down inside of a small cave, and lay down to rest. He was awoken by a bone-chilling roar."
+			facing="sw"
+			name=_"Xikkrisx"
+			random_traits=no
+			type="Saurian Flanker"
+			unrenamable=yes
+			x=40
+			y=8
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Oxsrrsk was a powerful Saurian Oracle, who had, in a raid against the rival Xraxss Clan, acquired (from the vaults of the now-dead Oracle Hesx-Rzzak) a most fascinating scroll. The scroll was entitled “Ney’yks of the Granite Gaze,” and told of a creature known as the “Chak’kso Ney’yks,” a name which, in an ancient saurian tongue, meant “Eldest Child of Chak’kso.” Chak’kso was believed to have been a powerful demigod of the Under Reaches, described as a ‘great demon of the earth’ in the Elvish Histories. According to these histories, Chak’kso had once sought to transform all life on the planet to stone; so great was his hatred for creatures of flesh. He was ultimately defeated and bound by powerful magics, but in the centuries following his banishment (to a realm far below the surface of the world) a new breed of creature began appearing in the Histories, a breed with the ability to turn any being of flesh into stone. There was a period when these Basilisks (as they came to be known) wreaked havoc on the world of the living, turning thousands to stone. One by one, and at great cost, the Basilisks were defeated. All, it would seem, but one; the Basilisk known as “The Ney’yks,” or “The Eldest Child,” in the modern tongue. Supremely convinced of his ability to locate and bind this powerful creature into his service, Oxsrrsk set out on his journey..."
+			facing="sw"
+			name=_"Oxsrrsk"
+			random_traits=no
+			type="Saurian Oracle"
+			unrenamable=yes
+			x=39
+			y=8
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Slim of Stature, dexterous Hands
+— Seven Stones and Eleven
+Left his Foes so slim a Chance
+— Seven Stones and Eleven
+Marksman known as Dragonbane
+’mongst the Statues here was slain
+— Seven Stones — and the Elven
+(inscribed by Gauteamus)"
+			name=""
+			random_traits=no
+			type="Elvish Marksman"
+			unrenamable=yes
+			x=2
+			y=11
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Blum Duk was renowned among his goblin clan for having tamed one of the Dire Wolves of the mountains, and he had the courage to match. His leadership and skills alone were what kept the area’s goblins alive despite human and elvish menaces. Rumor had it that his wolf had slain fifty men and a hundred Elves.
+Thus, when he heard of the awful monster that was inhabiting the area, it was only natural that he ride out alone to face it. All the other goblins expected him to slay the creature easily and drag back its carcass to feast on.
+He was in for quite a shock. As soon as he saw the Basilisk, Blum Duk cowered in fright. He tried to wheel his wolf around to run away, but it wouldn’t move. As the creature stalked towards him, he screamed his last words: Good Gog, dog, are yer legs made of stone?!
+(inscribed by Elvish Pillager)"
+			name=_"Blum Duk"
+			random_traits=no
+			type="Direwolf Rider"
+			unrenamable=yes
+			x=8
+			y=18
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Rah Ihn Mar, Champion of the Burning Hills, made his way to the Ruaskkolin Lake region in pursuit of the Elvish Hero Terowydlithrol, known among Elves as ‘The Dragonbane’. It was said that Terowydlithrol had killed a Dragon of Fire that threatened an Elvish village, and initiated a ‘counterattack’ in which some 37 Drakes, camping in a nearby ravine and believed to be in allegiance with the Dragon, were slaughtered. Knowing that these Drakes were innocent, Rah Ihn Mar came to Ruaskkolin Lake to hunt down and slay Terowydlithrol, who had been seen entering the region but a day ago. Burning for vengeance, Rah Ihn Mar began the hunt....."
+			name=_"Rah Ihn Mar"
+			random_traits=no
+			type="Armageddon Drake"
+			unrenamable=yes
+			x=8
+			y=13
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"He had lived there for ages upon ages, in the depths of the water, preying upon the various fish and frogs and merfolk that entered his domain. It was his lake, no other’s, and though it was not large, he was its master. Then, the Basilisk came, and looked into the Serpent’s eyes. And the Serpent had not died, but it was no longer alive. Thus the new lord of the lake had arrived.
+(inscribed by Turin)"
+			facing="sw"
+			name=""
+			random_traits=no
+			type="Sea Serpent"
+			unrenamable=yes
+			x=22
+			y=12
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"It would seem that no one knows the tale of this brave spider.
+(inscribed by WinnerA)"
+			facing="sw"
+			name=""
+			random_traits=no
+			type="Giant Spider"
+			unrenamable=yes
+			x=37
+			y=17
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"The tale of this unlucky highwayman is yet to be told.
+(inscribed by WinnerB)"
+			facing="sw"
+			name=""
+			random_traits=no
+			type="Highwayman"
+			unrenamable=yes
+			x=5
+			y=8
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"A brave hero of Wesnoth’s Golden Age, this great rider and commander of men came to this evil place while on a raid against the orcs. Caught unaware by the foul creatures, many of his fellows were killed, but he fought valiantly, slaying many a foe. But alas! The foul Basilisk turned him to stone even as he slew the last orc. Now all that is left is a stark reminder of his once great bearing and strength.
+(inscribed by Fynmiir)"
+			facing="sw"
+			name=""
+			random_traits=no
+			type="Grand Knight"
+			unrenamable=yes
+			x=25
+			y=14
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Bramwythl the Wose was always considered a slow, taciturn fellow, even by other Woses. More than any other Wose, he enjoyed simply standing alone in the sun, arms upraised, admiring the beauty of the empty sky. Once, even, he confided in a fellow that his greatest wish was to be able to bask forever in the sun’s glory.
+However, not long after, the local wose community heard of the approach of a horrible monster, powerful enough to easily destroy the few woses that lived in the area. They quickly moved off (quickly for Woses, anyway), but Bramwythl was left behind — in their haste, no one had remembered to find him and tell him of the danger.
+He was taken quite unawares by the Basilisk, and turned to stone before he even recognized the beast. His petrified form still stands there today, warmed by the sun’s rays, under an open sky. His greatest wish has been granted.
+(inscribed by Elvish Pillager)"
+			name=_"Bramwythl"
+			random_traits=no
+			type="Elder Wose"
+			unrenamable=yes
+			x=34
+			y=6
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"General Talael Ryndoc came to this place to fight a duel with the Grand Marshal Aethec Corryn, but the two men never found one another. "
+			facing="sw"
+			name=_"Talael Ryndoc"
+			random_traits=no
+			type="Iron Mauler"
+			unrenamable=yes
+			x=34
+			y=11
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"The last words spoken by Grand Marshal Aethec Corryn: “Talael Ryndoc! I am through searching for you! I shall make my way back to Haldric’s Hall, and inform the court that you were too much of a coward to attend our duel! Your disgrace shall be more agonizing than the death I’d have given you!”
+
+Perhaps he should not have shouted quite so loudly.... "
+			facing="sw"
+			name=_"Aethec Corryn"
+			random_traits=no
+			type="Grand Marshal"
+			unrenamable=yes
+			x=15
+			y=11
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"This brave warrior, known as Rilhon among the Naga, heard tell of a fabulous treasure that had been lost in these watery caves— a spear whose head was said to have been fashioned from the tooth of Chak’kso Ney’yks, an Elder Basilisk slain long ago by the Elvish hero, Eloralduil. According to the legend, the weapon rested somewhere on the bottom of this very lake (Ruaskkolin Lake, named for a well-known Sea Serpent who made it his home). Having prepared himself for battle with the Serpent, Rilhon met with two rather large surprises. The first was the petrified form of Ruaskkolin the Serpent. The second was the very-much-alive Chak’kso Ney’yks, who was, oddly enough, in possession of all of his teeth.
+(inscribed by Paterson)"
+			name=_"Rilhon"
+			random_traits=no
+			type="Naga Myrmidon"
+			unrenamable=yes
+			x=20
+			y=12
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+		[unit]
+			description=_"Through waves and rocky channels
+blue and white
+she pulled and pushed the tides
+and taught the fishes how to speak to planets
+silver green
+with magic
+running from her spirit into skins of kelp and shells of snails
+a twisting of her tail and hands
+she sent her songs to run on pin-tipped legs about the sands
+and now
+and now the strangest pause
+for years and years
+she hasn’t moved her eyes
+
+(inscribed by MJQ)"
+			facing="sw"
+			name=""
+			random_traits=no
+			type="Mermaid Siren"
+			unrenamable=yes
+			x=17
+			y=11
+			[status]
+				petrified=yes
+			[/status]
+			[modifications]
+				[trait]
+					id="remove_hp"
+					[effect]
+						apply_to="hitpoints"
+						increase_total="-100%"
+					[/effect]
+					[effect]
+						apply_to="movement"
+						set=0
+					[/effect]
+				[/trait]
+			[/modifications]
+		[/unit]
+	[/side]
+	[variables]
+	[/variables]
+[/replay_start]
+[snapshot]
+[/snapshot]
+[statistics]
+	mid_scenario=yes
+	[scenario]
+		scenario="2p - Caves Of The Basilisk"
+		[team]
+			[recruits]
+				Cavalryman=2
+				Merman Fighter=1
+				Spearman=2
+			[/recruits]
+			[recalls]
+			[/recalls]
+			[advances]
+			[/advances]
+			[deaths]
+			[/deaths]
+			[killed]
+				Drake Flare=1
+			[/killed]
+			[attacks]
+				[sequence]
+					s001=1
+					s110=1
+					_num=80
+				[/sequence]
+			[/attacks]
+			[defends]
+				[sequence]
+					s001=1
+					s101=1
+					_num=80
+				[/sequence]
+			[/defends]
+			recruit_cost=76
+			recall_cost=0
+			damage_inflicted=55
+			damage_taken=38
+			expected_damage_inflicted=88416
+			expected_damage_taken=49685
+			turn_damage_inflicted=44
+			turn_damage_taken=28
+			turn_expected_damage_inflicted=62016
+			turn_expected_damage_taken=37685
+			save_id="RBY_Side1"
+		[/team]
+		[team]
+			[recruits]
+			[/recruits]
+			[recalls]
+			[/recalls]
+			[advances]
+			[/advances]
+			[deaths]
+				Drake Flare=1
+			[/deaths]
+			[killed]
+			[/killed]
+			[attacks]
+				[sequence]
+					s001=1
+					s01=1
+					_num=40
+				[/sequence]
+			[/attacks]
+			[defends]
+				[sequence]
+					s000=1
+					_num=40
+				[/sequence]
+				[sequence]
+					s011=1
+					_num=70
+				[/sequence]
+			[/defends]
+			recruit_cost=0
+			recall_cost=0
+			damage_inflicted=38
+			damage_taken=55
+			expected_damage_inflicted=49685
+			expected_damage_taken=88416
+			turn_damage_inflicted=8
+			turn_damage_taken=12
+			turn_expected_damage_inflicted=4685
+			turn_expected_damage_taken=11616
+			save_id="RBY_Side2"
+		[/team]
+	[/scenario]
+[/statistics]

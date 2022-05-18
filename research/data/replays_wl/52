@@ -1,0 +1,10803 @@
+campaign_type="multiplayer"
+difficulty="NORMAL"
+label="2p — The Freelands Turn 18"
+mp_game_title="wesnothlife: gs_fx vs andreykko"
+random_seed="31677"
+version="1.10.3"
+[replay]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну как всегда, гл анд хф"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="настройки какие выставил?? "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="и раса - Г"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="20 минут на ход?Оо "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="настройки - стандратные настройки карты + наблы"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="на ход не 20 минут"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="а тю, точно =-= "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="как там было в стандартных :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="видно, нет лимита в стандратных"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="в веснот посл раз играл в стандартную в 8 кубке, а в аддон один пару недель назад"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну мне как то пох"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну начинаем"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=3
+			x=17
+			y=5
+			[from]
+				x=19
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=9381
+		[/random]
+		[random]
+			value=7768
+		[/random]
+		[random]
+			value=535
+		[/random]
+		[random]
+			value=10705
+		[/random]
+		[random]
+			value=7915
+		[/random]
+		[random]
+			value=24868
+		[/random]
+		[random]
+			value=13341
+		[/random]
+		[random]
+			value=29330
+		[/random]
+		[random]
+			value=6629
+		[/random]
+		[random]
+			value=17028
+		[/random]
+		[random]
+			value=31099
+		[/random]
+		[random]
+			value=12641
+		[/random]
+		[random]
+			value=6245
+		[/random]
+		[random]
+			value=25064
+			[results]
+				checksum="vqJQk2HbyM,VJGJmQDML+eBXCrCMwwAvPmB1NKCstEyETH+ZqQDQCk6j27st+Z4aX9-7nYc6dlh12ltro6id39Dvm,kph-,>clR.7hGgt76b>7<t>>7.,aa-G2lnc4Za"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="заново пили, поэтому я и долго рылся, искал настройки, и выставил все как требовали, ну ок."
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=2
+			x=18
+			y=4
+			[from]
+				x=19
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=21023
+		[/random]
+		[random]
+			value=12288
+		[/random]
+		[random]
+			value=15551
+		[/random]
+		[random]
+			value=13476
+		[/random]
+		[random]
+			value=736
+		[/random]
+		[random]
+			value=3718
+		[/random]
+		[random]
+			value=8450
+		[/random]
+		[random]
+			value=24444
+		[/random]
+		[random]
+			value=24086
+		[/random]
+		[random]
+			value=13770
+		[/random]
+		[random]
+			value=30453
+		[/random]
+		[random]
+			value=7409
+		[/random]
+		[random]
+			value=31221
+		[/random]
+		[random]
+			value=1162
+			[results]
+				checksum="KrUUzuBtqMWiQ3A16r2Y9peuWPdPdnei4h0241+J9,b8f1objW9->0ffi1g>.hT<lbbk1a96,eghcn,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g23ml4R.ag"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="начинаем"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="забей D:"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message=":)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=2
+			x=19
+			y=5
+			[from]
+				x=19
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=11219
+		[/random]
+		[random]
+			value=15438
+		[/random]
+		[random]
+			value=28846
+		[/random]
+		[random]
+			value=9055
+		[/random]
+		[random]
+			value=3014
+		[/random]
+		[random]
+			value=1393
+		[/random]
+		[random]
+			value=1604
+		[/random]
+		[random]
+			value=11105
+		[/random]
+		[random]
+			value=8485
+		[/random]
+		[random]
+			value=3418
+		[/random]
+		[random]
+			value=20526
+		[/random]
+		[random]
+			value=2970
+		[/random]
+		[random]
+			value=19310
+		[/random]
+		[random]
+			value=18293
+			[results]
+				checksum="KrUUzuBtqMWiQ3A16r2Y9peuWPdPdnei4h0241+J9,b8f1objW9->0ffi1g>.hT<lbbk1a96,eghcn,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g23ml4R.ag"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=3
+			x=20
+			y=4
+			[from]
+				x=19
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=15026
+		[/random]
+		[random]
+			value=22827
+		[/random]
+		[random]
+			value=18946
+		[/random]
+		[random]
+			value=24488
+		[/random]
+		[random]
+			value=2044
+		[/random]
+		[random]
+			value=30272
+		[/random]
+		[random]
+			value=13987
+		[/random]
+		[random]
+			value=10523
+		[/random]
+		[random]
+			value=9473
+		[/random]
+		[random]
+			value=15285
+		[/random]
+		[random]
+			value=11182
+		[/random]
+		[random]
+			value=11721
+		[/random]
+		[random]
+			value=28694
+		[/random]
+		[random]
+			value=4485
+			[results]
+				checksum="vqJQk2HbyM,OJGJmQDML+eBXCrCMwwAwPmB1NKCstFyETH+ZqQDQCk6j27st+Z4aX9-7nYc6alh12ltro6id39Dvm,kph-,>clR.7hGgt76b>7<t>>7.,aa-G2lnc4Za"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=4
+			x=20
+			y=3
+			[from]
+				x=19
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=4631
+		[/random]
+		[random]
+			value=10955
+		[/random]
+		[random]
+			value=19791
+		[/random]
+		[random]
+			value=8695
+		[/random]
+		[random]
+			value=21289
+		[/random]
+		[random]
+			value=1375
+		[/random]
+		[random]
+			value=9368
+		[/random]
+		[random]
+			value=4999
+		[/random]
+		[random]
+			value=27131
+		[/random]
+		[random]
+			value=1211
+		[/random]
+		[random]
+			value=9621
+		[/random]
+		[random]
+			value=30101
+		[/random]
+		[random]
+			value=4273
+		[/random]
+		[random]
+			value=23700
+			[results]
+				checksum="Rx7<8697Of8F.>i7gv6H,<b+,aJl.Fen6dNfi3KPin>0kg-dT<3p82Nsz<jcngdg604,Uw<<030wsNAwVUQ65xOoGNqBCHLSEaCQkVLh6I8LO9w9bszC3KtUvxmSWEql"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="интересно кто ты, надеюсь не одной и той же расой играем хД"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=5
+			x=18
+			y=3
+			[from]
+				x=19
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=27963
+		[/random]
+		[random]
+			value=19407
+		[/random]
+		[random]
+			value=1400
+		[/random]
+		[random]
+			value=21613
+		[/random]
+		[random]
+			value=26923
+		[/random]
+		[random]
+			value=25696
+		[/random]
+		[random]
+			value=9023
+		[/random]
+		[random]
+			value=6048
+		[/random]
+		[random]
+			value=5330
+		[/random]
+		[random]
+			value=25813
+		[/random]
+		[random]
+			value=18998
+		[/random]
+		[random]
+			value=31277
+		[/random]
+		[random]
+			value=27713
+		[/random]
+		[random]
+			value=14803
+			[results]
+				checksum="PZl,i,kZKZYExlfiQFI<uz5qKQRQdMHJzKAO0PzyEPIaLpBmGtTRCGuNJuvDrBUUrLeDBKsJKwSJKMQPVFRMvOmjqKTIyw9EM7z<DwKArqIeqp5h2FqKIBAvqwJDxTBq"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,20,21,22"
+			y="4,3,3,2"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="пока будем играть, запилю систему коментариев ;D"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="пфф"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=3
+			x=19
+			y=20
+			[from]
+				x=19
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=20575
+		[/random]
+		[random]
+			value=23434
+		[/random]
+		[random]
+			value=7572
+		[/random]
+		[random]
+			value=15950
+		[/random]
+		[random]
+			value=31770
+		[/random]
+		[random]
+			value=4059
+		[/random]
+		[random]
+			value=9265
+		[/random]
+		[random]
+			value=28006
+		[/random]
+		[random]
+			value=27227
+		[/random]
+		[random]
+			value=6686
+		[/random]
+		[random]
+			value=14874
+		[/random]
+		[random]
+			value=31005
+			[results]
+				checksum="zDC<yABq,Ru3KEDmw<8p+JDkyjBHlU2-lPDsrHmMysOW7mnIO6AAqBDnUL7IMNLX>rFrpQ9vJFGvJw55nRDL6qC5Q1ZLmBJpMr+-W27,amzbh6U<97Iu>eG8W56i9bib"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=3
+			x=21
+			y=20
+			[from]
+				x=19
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=7014
+		[/random]
+		[random]
+			value=8084
+		[/random]
+		[random]
+			value=18827
+		[/random]
+		[random]
+			value=27519
+		[/random]
+		[random]
+			value=19685
+		[/random]
+		[random]
+			value=32521
+		[/random]
+		[random]
+			value=20930
+		[/random]
+		[random]
+			value=31335
+		[/random]
+		[random]
+			value=19788
+		[/random]
+		[random]
+			value=15825
+		[/random]
+		[random]
+			value=5704
+		[/random]
+		[random]
+			value=21217
+			[results]
+				checksum="zDC<yABq,Ru3KEDmw<8p+JDkyjBHlU2-lPDsrHmMysOW7mnIO6AAqBDnUL7IMNLX>rFrpQ9vJFGvJw55nRDL6qC5Q1ZLmBJpMr+-W27,amzbh6U<97Iu>eG8W56i9bib"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=1
+			x=20
+			y=20
+			[from]
+				x=19
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=6670
+		[/random]
+		[random]
+			value=18564
+		[/random]
+		[random]
+			value=30466
+		[/random]
+		[random]
+			value=15936
+		[/random]
+		[random]
+			value=13441
+		[/random]
+		[random]
+			value=889
+		[/random]
+		[random]
+			value=15606
+		[/random]
+		[random]
+			value=31998
+		[/random]
+		[random]
+			value=22930
+		[/random]
+		[random]
+			value=26371
+		[/random]
+		[random]
+			value=26590
+		[/random]
+		[random]
+			value=29526
+			[results]
+				checksum="ISPEMLYULPIA9SHxtwbDKt8O9+Rt9DGRtCLKAGPtHYCFQyLPC.+h3,e.01<i,i+Jpj9gb+j9nk8j8a.5c6gg8hX,p<7qW9c0a78JM<4btg>>mn67zW-51j8e7kW8bC2i"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=18
+			y=20
+			[from]
+				x=19
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=2088
+		[/random]
+		[random]
+			value=9070
+		[/random]
+		[random]
+			value=18543
+		[/random]
+		[random]
+			value=931
+		[/random]
+		[random]
+			value=601
+		[/random]
+		[random]
+			value=2231
+		[/random]
+		[random]
+			value=29542
+		[/random]
+		[random]
+			value=12919
+		[/random]
+		[random]
+			value=13647
+		[/random]
+		[random]
+			value=11791
+		[/random]
+		[random]
+			value=22871
+		[/random]
+		[random]
+			value=28794
+		[/random]
+		[random]
+			value=13304
+		[/random]
+		[random]
+			value=5390
+		[/random]
+		[random]
+			value=3893
+			[results]
+				checksum="26gfexHzgyUy<pIGe8nRqziw2tuw944s0-Q.AFv0<L<gaBHgPgi7H8DBy5cul>p+xJBQyrHFrzNn,DsOABP4cmZr.SMnSRRuIAzXmRMr0Dw6L7vuuLxFKwGOVoBHR>RO"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=5
+			x=18
+			y=21
+			[from]
+				x=19
+				y=21
+			[/from]
+		[/recruit]
+		[random]
+			value=9737
+		[/random]
+		[random]
+			value=12401
+		[/random]
+		[random]
+			value=17591
+		[/random]
+		[random]
+			value=5024
+		[/random]
+		[random]
+			value=23690
+		[/random]
+		[random]
+			value=8240
+		[/random]
+		[random]
+			value=6192
+		[/random]
+		[random]
+			value=7410
+		[/random]
+		[random]
+			value=8593
+		[/random]
+		[random]
+			value=30451
+		[/random]
+		[random]
+			value=15678
+		[/random]
+		[random]
+			value=15367
+		[/random]
+		[random]
+			value=32692
+			[results]
+				checksum="HvVYo31eh+4Q+Fba7QsjOu2<o81h1r7ZsSq7D1CJHDpDIhObhd1l+xhiX-,ynn1lk5c<-gf5gd9>i8D<J37eEf-FXf1h-2fGwYabvpGmbA9>NZbZ-f1kXg1a6Kkd4,9k"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,18,17,16"
+			y="21,21,22,22"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,16,15,14,13,12,11,11"
+			y="5,5,6,6,7,7,8,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,19,19,18,18,18"
+			y="5,6,7,7,8,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,21,22,23,23,23,24"
+			y="3,4,4,5,6,7,7"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,21,22,23,24,25,26,27,28"
+			y="4,5,5,6,6,7,6,6,5"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,17,16,15,14,13,12"
+			y="4,5,4,4,4,5,5"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,17,16,15,14,13,12"
+			y="3,3,3,3,2,3,2"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="22,21,20,19,18"
+			y="2,3,3,4,4"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="лагает, видно сказывается запущенный серв МиБ"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,19,19,19,19,20"
+			y="20,19,18,17,16,15"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,22,23,24,25,26"
+			y="20,19,19,18,19,19"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="18,17,16,15,14,13,12,11"
+			y="21,21,20,20,19,20,19,19"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="этого я и боялся"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="ппц а я этого хД"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,10"
+			y="19,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="20,19,18,17,16,15,14"
+			y="20,20,19,19,18,18,17"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="уж своей расой я не умею, а против ЭТОГО - сразу ГГ :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,19,19,19,20"
+			y="20,20,19,18,17"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="16,17,18,19,20"
+			y="22,22,21,21,20"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="меня 27 снес так, в посл игре был хД дрейками против нежити"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=4
+			x=19
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=9324
+		[/random]
+		[random]
+			value=7810
+		[/random]
+		[random]
+			value=24528
+		[/random]
+		[random]
+			value=10542
+		[/random]
+		[random]
+			value=16553
+		[/random]
+		[random]
+			value=13685
+		[/random]
+		[random]
+			value=1431
+		[/random]
+		[random]
+			value=12342
+		[/random]
+		[random]
+			value=4933
+		[/random]
+		[random]
+			value=37
+		[/random]
+		[random]
+			value=8719
+		[/random]
+		[random]
+			value=26909
+			[results]
+				checksum="idd+p6070.Phr-X63<C4fRpoLR+>3i-8hkj-uqQrmlR0m4hp96hViefhFx5n5Dan1jnk1j<rrFbZkU4oravDh8-j7e5ABEspyQ8.RLo6wTVi0xMkmEroITRIRoNu.yxq"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="дык он дрейками в 100500 раз лучше играет, чем я"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="и вообще в 100500 раз лучше, чем я"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message=";D ну и лучше чем я, хотя 1 раз выиграл его. "
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="12,11,11,10,9,8"
+			y="2,3,4,4,5,5"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="12,12,11,11,11,10"
+			y="5,6,7,8,9,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="11,11"
+			y="9,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,11,11"
+			y="10,11,12"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="тогда была нереально долгая и сложная игра =-="
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,11,11"
+			y="12,13,14"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ага :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="понял замысле"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="тфу, скриволапил - замысел"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="?? у меня нет замысле хД Раш, это самая лучшая тактика."
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ага, согласен, только лак его мне всегда обламывает"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,11,11,11,11"
+			y="14,13,12,11,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="18,18"
+			y="9,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="28,28,28,28,28,28,29,30,31"
+			y="5,6,7,8,9,10,11,11,12"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="2 спектра Оо"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну интересно же :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="24,23,22,21,20,19,18"
+			y="7,8,8,9,9,9,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=5
+			x=19
+			y=5
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=21511
+		[/random]
+		[random]
+			value=15942
+		[/random]
+		[random]
+			value=12493
+		[/random]
+		[random]
+			value=21883
+		[/random]
+		[random]
+			value=4055
+		[/random]
+		[random]
+			value=9878
+		[/random]
+		[random]
+			value=23398
+		[/random]
+		[random]
+			value=26777
+		[/random]
+		[random]
+			value=507
+		[/random]
+		[random]
+			value=24917
+		[/random]
+		[random]
+			value=22712
+		[/random]
+		[random]
+			value=655
+		[/random]
+		[random]
+			value=25466
+		[/random]
+		[random]
+			value=6157
+			[results]
+				checksum="PZl,i,kZKZYExlfiQFI<uz5qKQRQdMHJzKAO0PzyEPIaLpBmGtTRCGuNJuvDrBUUrLeDBKsJKwSJKMQPVFRMvOmjqKTIyw9EM7z<DwKArqIeqp5h2FqKIBAvqwJDxTBq"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,18,18,18,18,17,17"
+			y="4,5,6,7,8,9,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="удаче"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="кеитер, как игорь с рубакой рубятся? :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="или уже порубились?"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,11,12,13,14,15,16,17,18,19"
+			y="19,20,20,21,21,21,21,21,21,21"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="26,26,26,27,27"
+			y="19,18,17,17,16"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[clear_labels]
+			force=no
+			team_name="north"
+		[/clear_labels]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="пришел :P"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а я думал пошалить слева :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ytrewqldeng"
+message="рубака сдался"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,19,20"
+			y="20,19,18,17,16"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,19,18,17,16"
+			y="17,18,18,19,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=2
+			x=21
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=24913
+		[/random]
+		[random]
+			value=5805
+		[/random]
+		[random]
+			value=3875
+		[/random]
+		[random]
+			value=21034
+		[/random]
+		[random]
+			value=11776
+		[/random]
+		[random]
+			value=7285
+		[/random]
+		[random]
+			value=2683
+		[/random]
+		[random]
+			value=7477
+		[/random]
+		[random]
+			value=23060
+		[/random]
+		[random]
+			value=2351
+		[/random]
+		[random]
+			value=4302
+		[/random]
+		[random]
+			value=14086
+			[results]
+				checksum="JIGUIHcF>+OdtAPLuJyGwU2SM,mQyGJARIJynvbJIwOEwhc,kciYp1<<42-fp-<e1-e<66<W-2Olo-+c.6<cv4Bksnk9+51,7M9elzj3gOD<j>8cck91b.66fkE3m44<"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="20,21,22,23,24,25,26"
+			y="20,20,19,19,18,19,19"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="с другого лева - справа :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="шали, я жду =* "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="аа хД "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а уже и отпало желание"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="31,31"
+			y="12,13"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ухЪ ты"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="скелов я люблю жаренными"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="жарь меня полностью!"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="с аппетитной корочкой"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message=":)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="надо поджога нанять, будет шашлыки готовить из вас :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,17,18,18,18,18,18"
+			y="10,9,8,7,6,5,4"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=17
+			y=5
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=27395
+		[/random]
+		[random]
+			value=17412
+		[/random]
+		[random]
+			value=7495
+		[/random]
+		[random]
+			value=12329
+		[/random]
+		[random]
+			value=19899
+		[/random]
+		[random]
+			value=4172
+		[/random]
+		[random]
+			value=15163
+		[/random]
+		[random]
+			value=2114
+		[/random]
+		[random]
+			value=30431
+		[/random]
+		[random]
+			value=27030
+		[/random]
+		[random]
+			value=4820
+		[/random]
+		[random]
+			value=15913
+		[/random]
+		[random]
+			value=4634
+		[/random]
+		[random]
+			value=25559
+			[results]
+				checksum="vzwMqesp>zA8MDAA67t+PqCJd.d>J954W7NjH-if9<+h>86XC9219-<c56YXe6k5fi1g>.hT<lbbk1a96,eghpn,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="31,30,30,29"
+			y="13,13,14,15"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="надо было на все деньги зомбов брать, хотя бы отравился бы хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="вот оно что"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="29,30"
+			y="15,14"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="30,31"
+			y="14,14"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="добегаешь :("
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="31,32"
+			y="14,13"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="11,11,11"
+			y="10,11,12"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="рубаке менее повезло и он сли практически отказавшись от концовки :)"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,11,11"
+			y="12,13,14"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="менее повезло? ёр рашн из бэд :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,11,11,11,11,11"
+			y="14,13,12,11,10,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="8,8,9,10,10"
+			y="5,6,7,7,8"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,18,18,18,17"
+			y="5,6,7,7,8,9,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="18,19,20,21,22,23"
+			y="10,10,9,10,10,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="27,28,28,29,30,30"
+			y="16,16,17,18,18,19"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,20,21,22,23"
+			y="21,20,20,19,19"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="23,24"
+			y="19,18"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="24,25,26,26,27"
+			y="18,18,17,16,16"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="26,25,24,23,22,21,20"
+			y="19,19,19,19,19,20,20"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а жаренные мыши вкусные?"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,22,23,24,25,26"
+			y="20,19,19,18,19,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="14,13,12,11,10"
+			y="17,18,18,19,19"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,15,15,14"
+			y="19,19,18,17"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20,20"
+			y="15,14,13"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message=":)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="йа байюся холода"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,21"
+			y="13,14"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,20"
+			y="16,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=3
+			x=19
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=19980
+		[/random]
+		[random]
+			value=1420
+		[/random]
+		[random]
+			value=8683
+		[/random]
+		[random]
+			value=26731
+		[/random]
+		[random]
+			value=6922
+		[/random]
+		[random]
+			value=22466
+		[/random]
+		[random]
+			value=14725
+		[/random]
+		[random]
+			value=27931
+		[/random]
+		[random]
+			value=16006
+		[/random]
+		[random]
+			value=7103
+		[/random]
+		[random]
+			value=2241
+		[/random]
+		[random]
+			value=7246
+			[results]
+				checksum="zDC<yABq,Ru3KEDmw<8p+JDkyjBHlU2-lPDsrHmMysOW7mnIO6AAqBDnUL7IMNLX>rFrpQ9vJFGvJw55nRDL6qC5Q1ZLmBJpMr+-W27,amzbh6U<97Iu>eG8W56i9bib"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="ща мороженку зеленую сделают"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="каму чаво сделают?"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message=":DDD"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="32,31,30,29,28,27,27"
+			y="13,13,12,12,11,11,10"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="без таймера да?"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ога"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="ну один умник же не выставил :Р"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="23,24,25"
+			y="10,10,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="25,26,27"
+			y="10,10,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="17,17,18,18,18,17"
+			y="5,6,6,7,8,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=4
+			x=19
+			y=5
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=6576
+		[/random]
+		[random]
+			value=18868
+		[/random]
+		[random]
+			value=4507
+		[/random]
+		[random]
+			value=23162
+		[/random]
+		[random]
+			value=10183
+		[/random]
+		[random]
+			value=30793
+		[/random]
+		[random]
+			value=28852
+		[/random]
+		[random]
+			value=21700
+		[/random]
+		[random]
+			value=8556
+		[/random]
+		[random]
+			value=5420
+		[/random]
+		[random]
+			value=1076
+		[/random]
+		[random]
+			value=17673
+		[/random]
+		[random]
+			value=17665
+		[/random]
+		[random]
+			value=19080
+			[results]
+				checksum="Rx7<8697Of8F.>i7gv6H,<b+,aJl.Fen6dNfi3KQin>0kg-dT<3p82Nsv<jcngdg604,Uw<<030wsNAwVUQ65xOoGNqBCHLSEeCQkVLh6I8LO9w9bszC3KtUvxmSWEql"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="18,18,18,18,18"
+			y="4,5,6,7,8"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,11"
+			y="9,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[clear_labels]
+			force=no
+			team_name="north"
+		[/clear_labels]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[label]
+			color="255,0,0,0"
+			immutable=no
+			team_name=""
+			text="жууутЬ, убери подальше :)"
+			visible_in_fog=yes
+			visible_in_shroud=no
+			x=14
+			y=17
+		[/label]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,10"
+			y="10,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,11,12"
+			y="10,11,11"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,12,12"
+			y="11,12,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,12,12"
+			y="13,12,11"
+		[/move]
+	[/command]
+
+	[command]
+		async=yes
+		sent=""
+		[rename]
+			name="Опасный поцык"
+			x=14
+			y=17
+		[/rename]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,11"
+			y="8,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,11,12,13,14,15"
+			y="9,9,8,9,8,8"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну же, ночь на дворе, давай :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20,20"
+			y="15,14,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,21,22"
+			y="13,13,12"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,19,19,20"
+			y="20,19,18,17,16,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="27,28,29,30,31,32,33,34"
+			y="16,16,16,15,15,14,15,14"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[label]
+			color="255,0,0,0"
+			immutable=no
+			team_name=""
+			text="мега хитрый маневр"
+			visible_in_fog=yes
+			visible_in_shroud=no
+			x=34
+			y=14
+		[/label]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="26,26,26,27,27"
+			y="19,18,17,17,16"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="21,20"
+			y="14,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,19,18"
+			y="13,14,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=19
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=29877
+		[/random]
+		[random]
+			value=17194
+		[/random]
+		[random]
+			value=15489
+		[/random]
+		[random]
+			value=32536
+		[/random]
+		[random]
+			value=17847
+		[/random]
+		[random]
+			value=6430
+		[/random]
+		[random]
+			value=23662
+		[/random]
+		[random]
+			value=28809
+		[/random]
+		[random]
+			value=14723
+		[/random]
+		[random]
+			value=17829
+		[/random]
+		[random]
+			value=3784
+		[/random]
+		[random]
+			value=9094
+		[/random]
+		[random]
+			value=24211
+		[/random]
+		[random]
+			value=3318
+		[/random]
+		[random]
+			value=19693
+			[results]
+				checksum="gihbYh9N5EwiGoYH4RLkIAqzmG+yBme3lFk.TgCOp,eo,i+rm.Rk94FfszP,dp70G+xJBQyrHFrzNn,DsOABP4cmZr.SMnSRRuIAzXmRMr0Dw6L7vuuLxFKwGOVoBHR>"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="мы с тригером вчера тут по всей карте ходили :) ну тоесть я"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а он че?"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="а он в замке сидел"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="боялся? :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="27,28,29"
+			y="10,10,11"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,12,13"
+			y="11,12,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="27,27,26,25,24,24"
+			y="11,10,9,9,8,7"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="29,29,29,28,28,28,28"
+			y="11,10,9,8,7,6,5"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="18,18,18,18,18"
+			y="8,7,6,5,4"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,18,18"
+			y="5,6,7,7,8"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="13,13,12"
+			y="13,12,11"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,13"
+			y="11,12"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну и что же ща такого НУ ПРЯМ ВАЩЕ произойдет? :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="давно я дуэли не играл, мне каапец"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,19,20"
+			y="20,19,18,17,16"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="27,27,28,29,30"
+			y="16,15,14,14,13"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="30,29,28,27,27,27"
+			y="19,19,18,18,17,16"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="34,33,32,31"
+			y="14,14,14,14"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="22,22"
+			y="12,13"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="10,10"
+			y="19,18"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,10"
+			y="18,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=19
+			y=5
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=29829
+		[/random]
+		[random]
+			value=3729
+		[/random]
+		[random]
+			value=6269
+		[/random]
+		[random]
+			value=1855
+		[/random]
+		[random]
+			value=15750
+		[/random]
+		[random]
+			value=32327
+		[/random]
+		[random]
+			value=12959
+		[/random]
+		[random]
+			value=30065
+		[/random]
+		[random]
+			value=20518
+		[/random]
+		[random]
+			value=8743
+		[/random]
+		[random]
+			value=23535
+		[/random]
+		[random]
+			value=19918
+		[/random]
+		[random]
+			value=12741
+		[/random]
+		[random]
+			value=11109
+			[results]
+				checksum="vzwMqesp>zA8MDAA67t+PqCJd.d>J954W7NjH-if9<+hW86XC9219-1c56YXe6k5fi1g>.hT<lbbk1a96,eghgn,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="17,18,19,20,21"
+			y="9,9,9,9,10"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="ну че вы когда сражацо будете?:D"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="сидим вот в окопах, как видишь :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="я тут подставил драка, посмотрю на реакцию оппонента :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,19,20"
+			y="9,10,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="24,24,23,23"
+			y="7,8,9,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,19,20,21,22,23"
+			y="8,9,9,9,8,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="15,16,17,18"
+			y="8,8,9,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="11,12,13,14,15,16"
+			y="9,8,9,8,8,8"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="28,28"
+			y="5,6"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="28,28"
+			y="6,5"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,21,22"
+			y="16,16,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="31,31"
+			y="14,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="30,31"
+			y="13,14"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="31,30"
+			y="13,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну понеслась, буду проигрывать :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,20,20,21,22"
+			y="5,6,7,7,8,9,9"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="21,22,22,22"
+			y="10,10,11,12"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Skeleton Archer"
+defender_weapon="1"
+seed="2053824460"
+tod="morning"
+turn="8"
+weapon="1"
+[source]
+
+				x=22
+				y=12
+			[/source]
+[destination]
+
+				x=22
+				y=13
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="дааа, самое ТО"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="23,22,22,21,21"
+			y="10,10,11,12,13"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Fighter"
+defender_lvl="1"
+defender_type="Skeleton Archer"
+defender_weapon="0"
+seed="843117848"
+tod="morning"
+turn="8"
+weapon="0"
+[source]
+
+				x=21
+				y=13
+			[/source]
+[destination]
+
+				x=22
+				y=13
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="18,18,19,19,20,20,21"
+			y="9,10,11,12,12,13,14"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Fighter"
+defender_lvl="1"
+defender_type="Skeleton Archer"
+defender_weapon="0"
+seed="496056897"
+tod="morning"
+turn="8"
+weapon="0"
+[source]
+
+				x=21
+				y=14
+			[/source]
+[destination]
+
+				x=22
+				y=13
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="17,17,17,16"
+			y="10,11,12,12"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,16,17,17"
+			y="8,9,10,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,21,22,22,21"
+			y="9,10,10,11,12"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="23,23,23,23"
+			y="9,10,11,12"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=19
+			y=5
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=520
+		[/random]
+		[random]
+			value=21211
+		[/random]
+		[random]
+			value=30641
+		[/random]
+		[random]
+			value=25758
+		[/random]
+		[random]
+			value=21778
+		[/random]
+		[random]
+			value=24449
+		[/random]
+		[random]
+			value=12376
+		[/random]
+		[random]
+			value=28107
+		[/random]
+		[random]
+			value=2535
+		[/random]
+		[random]
+			value=21035
+		[/random]
+		[random]
+			value=11004
+		[/random]
+		[random]
+			value=7588
+		[/random]
+		[random]
+			value=18844
+		[/random]
+		[random]
+			value=31281
+			[results]
+				checksum="vzwMqesp>zA8MDAA67t+PqCJd.d>I554W7NjH-if9<+hY86XC9219-<c56YXe6k5fi1g>.hT<lbbk1a96,eghen,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,18,18,18,18,18,18"
+			y="4,5,6,7,8,9,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="28,28"
+			y="5,6"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="28,28"
+			y="6,7"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[clear_labels]
+			force=no
+			team_name="north"
+		[/clear_labels]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[label]
+			color="255,0,0,0"
+			immutable=no
+			team_name=""
+			text="займи мышкой, я жду гостей :)"
+			visible_in_fog=yes
+			visible_in_shroud=no
+			x=24
+			y=7
+		[/label]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="28,28,28"
+			y="7,6,5"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,16"
+			y="12,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну давай же :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="ггг"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ДАВАААААЙ :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="ку"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ку"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="привет агаин рэном"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ой, спектов сколько"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="прям мега интересная партия"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="интересно, сколько соберет 1/2 финала, финал и матч за 3-е"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну меня в полуфинале не будет, скорее всего"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="сори отходил"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="хотя, кто знает :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton Archer"
+defender_lvl="1"
+defender_type="Drake Fighter"
+defender_weapon="1"
+seed="1057221243"
+tod="morning"
+turn="8"
+weapon="1"
+[source]
+
+				x=22
+				y=13
+			[/source]
+[destination]
+
+				x=21
+				y=13
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="22,21"
+			y="15,15"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dark Adept"
+defender_lvl="1"
+defender_type="Drake Fighter"
+defender_weapon="1"
+seed="1509771630"
+tod="morning"
+turn="8"
+weapon="0"
+[source]
+
+				x=21
+				y=15
+			[/source]
+[destination]
+
+				x=21
+				y=14
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="а рубака проиграл что ли?"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="да"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="игор сильный игрок, да?"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=3
+			x=21
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=8695
+		[/random]
+		[random]
+			value=27956
+		[/random]
+		[random]
+			value=24497
+		[/random]
+		[random]
+			value=16368
+		[/random]
+		[random]
+			value=1125
+		[/random]
+		[random]
+			value=14139
+		[/random]
+		[random]
+			value=12758
+		[/random]
+		[random]
+			value=12215
+		[/random]
+		[random]
+			value=4807
+		[/random]
+		[random]
+			value=28799
+		[/random]
+		[random]
+			value=30084
+		[/random]
+		[random]
+			value=14881
+			[results]
+				checksum="zDC<yABq,Ru3KEDmw<8p+JDkyjBHlU2-lPDsrHmMysOW7mnIO6AAqBDnUL7IMNLX>rFrpQ9vJFGvJw55nRDL6qC5Q1ZLmBJpMr+-W27,amzbh6U<97Iu>eG8W56i9bib"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=4
+			x=19
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=24370
+		[/random]
+		[random]
+			value=10897
+		[/random]
+		[random]
+			value=29969
+		[/random]
+		[random]
+			value=14092
+		[/random]
+		[random]
+			value=10175
+		[/random]
+		[random]
+			value=17507
+		[/random]
+		[random]
+			value=6422
+		[/random]
+		[random]
+			value=21534
+		[/random]
+		[random]
+			value=28730
+		[/random]
+		[random]
+			value=16514
+		[/random]
+		[random]
+			value=26621
+		[/random]
+		[random]
+			value=2907
+			[results]
+				checksum="idd+p6070.Phr-X63<C4fRpoLR+>3i-8hkj-uqQrmlR0m4hp96hViefhFx5n5Dan1jnk1j<rrFbZkU4oravDh8-j7e5ABEspyQ8.RLo6wTVi0xMkmEroITRIRoNu.yxq"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=2
+			x=18
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=2704
+		[/random]
+		[random]
+			value=17171
+		[/random]
+		[random]
+			value=29262
+		[/random]
+		[random]
+			value=26502
+		[/random]
+		[random]
+			value=14839
+		[/random]
+		[random]
+			value=29583
+		[/random]
+		[random]
+			value=14264
+		[/random]
+		[random]
+			value=12861
+		[/random]
+		[random]
+			value=23771
+		[/random]
+		[random]
+			value=15934
+		[/random]
+		[random]
+			value=20706
+		[/random]
+		[random]
+			value=26579
+			[results]
+				checksum="JIGUIHcF>+OdtAPLuJyGwU2SM,mQyGJARIJynvbJIwOEwhc,kciYp1<<42-fp-<e1-e<66<W-2Olo-+c.6<cv4Bksnk9+51,7M9elzj3gOD<j>8cck91b.66fkE3m44<"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=19
+			y=21
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=18828
+		[/random]
+		[random]
+			value=12661
+		[/random]
+		[random]
+			value=27119
+		[/random]
+		[random]
+			value=3309
+		[/random]
+		[random]
+			value=18856
+		[/random]
+		[random]
+			value=29327
+		[/random]
+		[random]
+			value=22995
+		[/random]
+		[random]
+			value=16859
+		[/random]
+		[random]
+			value=24649
+		[/random]
+		[random]
+			value=1708
+		[/random]
+		[random]
+			value=25177
+		[/random]
+		[random]
+			value=12220
+		[/random]
+		[random]
+			value=18159
+		[/random]
+		[random]
+			value=27436
+		[/random]
+		[random]
+			value=25840
+			[results]
+				checksum="26gfexHzgyUy<pIGe8nRqziw2tuw944s0-Q.AFv0<L<gaBHgPgi7H8DBy5cul>p+xJBQyrHFrzNn,DsOABP4cmZr.SMnSRRuIAzXmRMr0Dw6L7vuuLxFKwGOVoBHR>RO"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну вродь"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="ну не слабый :)"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="примерно как я, даже посильней"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="он там эльфами ололо устроил"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="в исаре мне его удалось нагнуть только 1 раз за все время"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="так что, можно сказать, сильный"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="31,30,29,28,27,26"
+			y="14,14,14,13,13,12"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="27,27,27,27,27,27"
+			y="16,15,14,13,12,11"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="18,19,20"
+			y="13,13,12"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="1"
+defender_type="Drake Fighter"
+defender_weapon="0"
+seed="1452812472"
+tod="morning"
+turn="8"
+weapon="0"
+[source]
+
+				x=20
+				y=12
+			[/source]
+[destination]
+
+				x=21
+				y=13
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="30,29,28,27,26,25,24,23"
+			y="13,13,12,12,11,11,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="0"
+attacker_type="Vampire Bat"
+defender_lvl="1"
+defender_type="Saurian Augur"
+defender_weapon="0"
+seed="1865967050"
+tod="morning"
+turn="8"
+weapon="0"
+[source]
+
+				x=23
+				y=11
+			[/source]
+[destination]
+
+				x=23
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,10"
+			y="19,18"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="андрейкко, я думал, ты способен на большее"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,10"
+			y="18,17"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="днем драков атаковать - нехорошая идея"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="10,10,10"
+			y="17,18,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+[command]
+
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="тебе б отступить, хотя б заманить меня в невыгодное положение"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="это самоубийтсов!"
+side="2"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="17,18,19,20,21,22"
+			y="11,10,10,9,10,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Saurian Skirmisher"
+defender_lvl="0"
+defender_type="Vampire Bat"
+defender_weapon="0"
+seed="149143994"
+tod="afternoon"
+turn="9"
+weapon="0"
+[source]
+
+				x=22
+				y=10
+			[/source]
+[destination]
+
+				x=23
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,19,20,20"
+			y="5,6,7,8,8,9"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="22,22"
+			y="12,11"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="21,22"
+			y="13,12"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Fighter"
+defender_lvl="1"
+defender_type="Skeleton Archer"
+defender_weapon="0"
+seed="1921277617"
+tod="afternoon"
+turn="9"
+weapon="0"
+[source]
+
+				x=22
+				y=12
+			[/source]
+[destination]
+
+				x=22
+				y=13
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="эхх, я надеялся на один раз :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="да тыж мозила может и продуешьXD"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="свою атаку:P"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,22,22,23"
+			y="12,11,10,10"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="я слишком нуб что бы мне проиграть "
+side="2"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="22,21"
+			y="11,12"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="1234256453"
+tod="afternoon"
+turn="9"
+weapon="1"
+[source]
+
+				x=21
+				y=12
+			[/source]
+[destination]
+
+				x=20
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="нее, ты гораздо сильней меня"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="удачи х) "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="ты же руса победил!"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="1 раз!!"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="23,22,22"
+			y="10,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Saurian Augur"
+defender_lvl="0"
+defender_type="Vampire Bat"
+defender_weapon="-1"
+seed="350934103"
+tod="afternoon"
+turn="9"
+weapon="1"
+[source]
+
+				x=22
+				y=11
+			[/source]
+[destination]
+
+				x=23
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="или более?"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="13,13,13,14,15,16,17,18,19"
+			y="12,13,14,14,14,13,13,12,12"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Glider"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="705461272"
+tod="afternoon"
+turn="9"
+weapon="1"
+[source]
+
+				x=19
+				y=12
+			[/source]
+[destination]
+
+				x=20
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="мне повезло хД точнее хз ну как то так вышло. Это было очень трудно и очень долго. "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="и я не играл против тупых дрейков =-="
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="я с русом играл 3/3 просрал"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="21,20"
+			y="14,13"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="18,18,18,19,20,21"
+			y="10,11,12,13,13,14"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Drake Warrior"
+defender_lvl="1"
+defender_type="Dark Adept"
+defender_weapon="-1"
+seed="2052232898"
+tod="afternoon"
+turn="9"
+weapon="0"
+[source]
+
+				x=21
+				y=14
+			[/source]
+[destination]
+
+				x=21
+				y=15
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а вот ща лаково было"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="главное,чтоб тот адепт не достал"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="сегодня больше никто не собирался играть?"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="не знаю"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="мы может сыграем хотя тригер не хоче вроде"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="22,22,22,21,20,20,20"
+			y="9,10,11,12,12,13,14"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="2057653740"
+tod="afternoon"
+turn="9"
+weapon="1"
+[source]
+
+				x=20
+				y=14
+			[/source]
+[destination]
+
+				x=20
+				y=15
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,19,18,18,18,19"
+			y="13,14,14,15,16,17"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="круто"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="БЛЯ"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="миссклик"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="я хотел на скела :("
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="чтоб ее, эту мышь проклятую"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="23,22,21,21"
+			y="12,11,12,13"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Saurian Augur"
+defender_lvl="1"
+defender_type="Skeleton Archer"
+defender_weapon="1"
+seed="929436342"
+tod="afternoon"
+turn="9"
+weapon="1"
+[source]
+
+				x=21
+				y=13
+			[/source]
+[destination]
+
+				x=22
+				y=13
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[label]
+			color="255,0,0,0"
+			immutable=no
+			team_name=""
+			text="невинная жертва"
+			visible_in_fog=yes
+			visible_in_shroud=no
+			x=19
+			y=17
+		[/label]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,16,15"
+			y="11,12,13"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="15,15,14"
+			y="13,14,14"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="14,13"
+			y="14,14"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="28,28,28,28,27,26,25,24,23"
+			y="5,6,7,8,9,9,10,10,11"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="27,27,27,26,25"
+			y="11,10,9,8,8"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну мож еще рашнуть получится, а так гг"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="25,24"
+			y="8,7"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[label]
+			color="255,0,0,0"
+			immutable=no
+			team_name=""
+			text="это было мега предсказуемо"
+			visible_in_fog=yes
+			visible_in_shroud=no
+			x=24
+			y=7
+		[/label]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="19,19,19,20,20"
+			y="21,20,19,18,17"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dark Adept"
+defender_lvl="1"
+defender_type="Drake Fighter"
+defender_weapon="1"
+seed="42541912"
+tod="afternoon"
+turn="9"
+weapon="0"
+[source]
+
+				x=20
+				y=17
+			[/source]
+[destination]
+
+				x=19
+				y=17
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="14,15,16,17,18"
+			y="17,18,17,18,17"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dark Adept"
+defender_lvl="1"
+defender_type="Drake Fighter"
+defender_weapon="1"
+seed="1543915184"
+tod="afternoon"
+turn="9"
+weapon="0"
+[source]
+
+				x=18
+				y=17
+			[/source]
+[destination]
+
+				x=19
+				y=17
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="21,20,20,19"
+			y="20,19,18,18"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="1"
+defender_type="Drake Fighter"
+defender_weapon="0"
+seed="1843678247"
+tod="afternoon"
+turn="9"
+weapon="0"
+[source]
+
+				x=19
+				y=18
+			[/source]
+[destination]
+
+				x=19
+				y=17
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="это мегалак :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="как тебе мой лак?"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="он спасает мою невинную жертву"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="19,19,18,17,17,18"
+			y="20,19,18,18,17,16"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton Archer"
+defender_lvl="1"
+defender_type="Drake Fighter"
+defender_weapon="1"
+seed="1481481587"
+tod="afternoon"
+turn="9"
+weapon="1"
+[source]
+
+				x=18
+				y=16
+			[/source]
+[destination]
+
+				x=19
+				y=17
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="меня ж случайно угораздило туда кликнуть :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="26,25"
+			y="12,12"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="10,11"
+			y="19,19"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,12"
+			y="19,18"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,13,14"
+			y="18,18,17"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="1"
+defender_type="Drake Burner"
+defender_weapon="0"
+seed="317046211"
+tod="afternoon"
+turn="9"
+weapon="0"
+[source]
+
+				x=20
+				y=15
+			[/source]
+[destination]
+
+				x=20
+				y=14
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,19,19,19,19,19"
+			y="20,20,19,18,17,16"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=4
+			x=19
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=933
+		[/random]
+		[random]
+			value=29711
+		[/random]
+		[random]
+			value=23391
+		[/random]
+		[random]
+			value=22673
+		[/random]
+		[random]
+			value=26574
+		[/random]
+		[random]
+			value=21817
+		[/random]
+		[random]
+			value=16659
+		[/random]
+		[random]
+			value=17681
+		[/random]
+		[random]
+			value=509
+		[/random]
+		[random]
+			value=11993
+		[/random]
+		[random]
+			value=13601
+		[/random]
+		[random]
+			value=18638
+			[results]
+				checksum="idd+p6070.Phr-X63<C4fRpoLR+>3i-8hkj-uqQrmlR0m4hp96hViefhFx5n5Dan1jnk1j<rrFbZkU4oravDh8-j7e5ABEspyQ8.RLo6wTVi0xMkmEroITRIRoNu.yxq"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="20,21,22,22,23"
+			y="9,9,8,7,7"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="2003825966"
+tod="dusk"
+turn="10"
+weapon="1"
+[source]
+
+				x=23
+				y=7
+			[/source]
+[destination]
+
+				x=24
+				y=7
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="23,24,25,26,26,26,25"
+			y="11,10,10,9,8,7,7"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Glider"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="2010910229"
+tod="dusk"
+turn="10"
+weapon="1"
+[source]
+
+				x=25
+				y=7
+			[/source]
+[destination]
+
+				x=24
+				y=7
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="19,19,19,19,19,20,21,22,23,24"
+			y="12,11,10,9,8,7,7,6,6,6"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Glider"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="688426869"
+tod="dusk"
+turn="10"
+weapon="1"
+[source]
+
+				x=24
+				y=6
+			[/source]
+[destination]
+
+				x=24
+				y=7
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну, понубить хочется :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а два адепта напрягают"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="21,22,23,24,25"
+			y="12,11,11,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Ghoul"
+defender_weapon="-1"
+seed="566315092"
+tod="dusk"
+turn="10"
+weapon="1"
+[source]
+
+				x=25
+				y=11
+			[/source]
+[destination]
+
+				x=25
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20,19,18,18,18,18"
+			y="14,13,13,12,11,10,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="22,22,22,23,23,24,24"
+			y="12,11,10,10,9,8,7"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="13,12,12,12,12,12,11"
+			y="14,13,12,11,10,9,9"
+		[/move]
+	[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="21,21,21,21,21,21"
+			y="14,13,12,11,10,9"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="22,23,24,25,26,26"
+			y="11,11,10,10,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Saurian Augur"
+defender_lvl="1"
+defender_type="Ghoul"
+defender_weapon="-1"
+seed="1241942554"
+tod="dusk"
+turn="10"
+weapon="1"
+[source]
+
+				x=26
+				y=11
+			[/source]
+[destination]
+
+				x=25
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ладно, за один ход по любому не умрет :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,22,22,23,24,25,26"
+			y="13,12,11,11,10,10,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="22,23,24,25,26,27"
+			y="10,10,10,11,10,11"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,19"
+			y="16,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="19,19"
+			y="15,14"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,20,20"
+			y="14,13,12"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,21"
+			y="12,12"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Ghoul"
+defender_lvl="1"
+defender_type="Drake Burner"
+defender_weapon="0"
+seed="726052394"
+tod="dusk"
+turn="10"
+weapon="0"
+[source]
+
+				x=25
+				y=12
+			[/source]
+[destination]
+
+				x=25
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+[speak]
+id="vandal"
+message="hi all, всмысле здорово all :)"
+team_name="observer"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,20,21,22,23,24"
+			y="20,20,20,19,19,18"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="14,13,12"
+			y="17,17,16"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[clear_labels]
+			force=no
+			team_name="north"
+		[/clear_labels]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,11,10,9,8,7"
+			y="16,16,15,15,14,14"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="здоров вандал"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=1
+			x=19
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=10534
+		[/random]
+		[random]
+			value=32312
+		[/random]
+		[random]
+			value=17202
+		[/random]
+		[random]
+			value=4393
+		[/random]
+		[random]
+			value=57
+		[/random]
+		[random]
+			value=14448
+		[/random]
+		[random]
+			value=30009
+		[/random]
+		[random]
+			value=23918
+		[/random]
+		[random]
+			value=7135
+		[/random]
+		[random]
+			value=5063
+		[/random]
+		[random]
+			value=18302
+		[/random]
+		[random]
+			value=8339
+			[results]
+				checksum="ISPEMLYULPIA9SHxtwbDKt8O9+Rt9DGRtCLKAGPtHYCFQyLPC.+h3,e.01<i,i+Jpj9gb+j9nk8j8a.5c6gg8hX,p<7qW9c0a78JM<4btg>>mn67zW-51j8e7kW8bC2i"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="здоров вандал"
+side="1"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="vandal"
+message="hi all"
+team_name="observer"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="а че в наблюдатели онли?"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="здоров"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="о"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="уту надоело смотреть :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ушел"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,19,19,20,20,20"
+			y="18,17,16,15,14,13"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="он неплохо играет, зря на форуме не бывает, мож и в турнире бы хорошо себя показал"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,21,22,23,24,25,25"
+			y="20,20,19,19,18,18,17"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,20,21,22,23,24"
+			y="17,18,19,19,19,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="18,17,16,15,14"
+			y="16,17,17,18,17"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="кио?"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,19,19,20,21"
+			y="17,17,16,15,15"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="кто?*"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="чо кио?"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="всрал я D:"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ут"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="я ж сказал, ут"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="???"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="а понял"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ytrewqlengd, если правильно написал :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="обычно, дрейки слабее андеда, но тут какие то бешеные дрейки :)"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну ониж под моим командованием"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="da on horosh bil"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="под моим командованием любой будет бешенным :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="не я просто нуб хД Ну и дрейки уг D:"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="я знаю"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="здорова"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="дрейками я совсем не умею"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="a kem umeesh? na budushee"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="мне б лоялов/эльфов/гномов"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="а мне бы наркоманов :Р"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="vandal: когда будете играть?"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну андедовв еще ничего"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="lubish v zashite sidet :)))"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="да, есть немного :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="орки - спам хорош, но я ими чет сливаюсь мертвяку жестко"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="u nas deadline 10 augusta vot do teh por i budem skazal lanselote"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="а я люблю орков *_*"
+side="2"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="24,25"
+			y="7,8"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="25,25,24,24,24"
+			y="11,10,9,8,7"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="23,23,23,23,24,25"
+			y="7,8,9,10,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Ghoul"
+defender_weapon="-1"
+seed="1143962719"
+tod="first_watch"
+turn="11"
+weapon="1"
+[source]
+
+				x=25
+				y=11
+			[/source]
+[destination]
+
+				x=25
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="просто может запланировали игру уже"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="nu na subbotu voskresenie kak be, zaplanirovali"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="26,27,27,26,25"
+			y="11,12,13,13,13"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Saurian Augur"
+defender_lvl="1"
+defender_type="Ghoul"
+defender_weapon="-1"
+seed="2136775150"
+tod="first_watch"
+turn="11"
+weapon="1"
+[source]
+
+				x=25
+				y=13
+			[/source]
+[destination]
+
+				x=25
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="a kto on >> Lanselote takoi?"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="ok, спасибо"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="24,24,24,25,25,26,26"
+			y="6,7,8,9,10,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Glider"
+defender_lvl="1"
+defender_type="Ghoul"
+defender_weapon="0"
+seed="1821244204"
+tod="first_watch"
+turn="11"
+weapon="0"
+[source]
+
+				x=26
+				y=11
+			[/source]
+[destination]
+
+				x=25
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="хехех"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="26,27,27,26"
+			y="10,11,12,12"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Saurian Augur"
+defender_lvl="1"
+defender_type="Ghoul"
+defender_weapon="-1"
+seed="1710947548"
+tod="first_watch"
+turn="11"
+weapon="1"
+[source]
+
+				x=26
+				y=12
+			[/source]
+[destination]
+
+				x=25
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[choose]
+			value=1
+		[/choose]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="игрок, вроде не очень опытный"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="кто неопытный?"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="Lancelote"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="аа"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="Lanselote"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="ходи давай х) "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="nu ia tozhe ne zadr"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="да скел твой - жуть, убьет гляди :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="(skromnii)  :)"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="да я прикрою каким нибудь хламом"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="он один всех вынесет, сам не знаю зачем еще кого-то строил."
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="27,27,27,27,27,27"
+			y="11,12,13,14,15,16"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="держите ящерку"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ток не бейте остальных"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="25,26,26,26,26,26,26,26"
+			y="7,7,8,9,10,11,12,13"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну и на вякий пожарный развед, тож не нужен :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а ящерка нужна"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="ты злой =( "
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="25,25,25,25,25"
+			y="8,9,10,11,12"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,22,23,24,25,26,27"
+			y="9,9,10,10,11,10,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="изнасиловал всех моих мертвыйх своим ящером в деревне =-="
+side="2"
+[/speak]
+[/command]
+[command]
+
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="21,22,23,24"
+			y="12,11,11,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Ghoul"
+defender_lvl="1"
+defender_type="Drake Burner"
+defender_weapon="0"
+seed="184293390"
+tod="first_watch"
+turn="11"
+weapon="0"
+[source]
+
+				x=24
+				y=10
+			[/source]
+[destination]
+
+				x=25
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="-_-"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="vandal"
+message="poidu potreneruius, uda4i andrekko, tebe ona nuzhnee :)"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,7,7,7,7,6,6,5"
+			y="14,13,12,11,10,9,8,8"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="да?"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="спасибо хД давай"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а мне, нубу - не нужна?"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="24,25,26,27,28,28"
+			y="19,19,18,18,17,16"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dark Adept"
+defender_lvl="1"
+defender_type="Saurian Skirmisher"
+defender_weapon="1"
+seed="306409369"
+tod="first_watch"
+turn="11"
+weapon="0"
+[source]
+
+				x=28
+				y=16
+			[/source]
+[destination]
+
+				x=27
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="20,20,19,19,19"
+			y="13,12,12,11,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="1"
+defender_type="Drake Burner"
+defender_weapon="0"
+seed="1590321932"
+tod="first_watch"
+turn="11"
+weapon="0"
+[source]
+
+				x=19
+				y=10
+			[/source]
+[destination]
+
+				x=18
+				y=9
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message=":)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,21,21,22"
+			y="15,14,13,12"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,20,20,20,21,22"
+			y="15,14,13,12,12,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="14,14,13,12,12,12"
+			y="17,16,16,15,14,13"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="walking_beard"
+message="У тебя есть ящерка."
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="25,25,24,23,22,21,20"
+			y="17,18,18,19,19,20,20"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=21
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=16114
+		[/random]
+		[random]
+			value=31802
+		[/random]
+		[random]
+			value=1752
+		[/random]
+		[random]
+			value=18727
+		[/random]
+		[random]
+			value=13527
+		[/random]
+		[random]
+			value=24177
+		[/random]
+		[random]
+			value=7263
+		[/random]
+		[random]
+			value=19310
+		[/random]
+		[random]
+			value=4551
+		[/random]
+		[random]
+			value=19539
+		[/random]
+		[random]
+			value=4658
+		[/random]
+		[random]
+			value=17133
+		[/random]
+		[random]
+			value=3892
+		[/random]
+		[random]
+			value=24560
+		[/random]
+		[random]
+			value=24608
+			[results]
+				checksum="26gfexHzgyUy<pIGe8nRrAiw2tuw944s0-Q.yFv0<L<gaBIgPgi7H8DBy5cul>p+xJBQyrHFrzNn,FsOABP4cmZr.SMnSRRuIAzXmRMr0Dw6L7vuuLxFKwGOVoBHR>RO"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="какое то разрозненное наступление :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ты б собраннее был :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="наступал бы оравой а не одиночками"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="24,25,25,25,26"
+			y="18,18,17,16,15"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton Archer"
+defender_lvl="1"
+defender_type="Saurian Skirmisher"
+defender_weapon="1"
+seed="1936898356"
+tod="first_watch"
+turn="11"
+weapon="1"
+[source]
+
+				x=26
+				y=15
+			[/source]
+[destination]
+
+				x=27
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,20,21,22,23,24,24,25"
+			y="20,19,19,18,19,18,17,17"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну хорошо, пока положительная стата, можно кого нибудь потерять и не волноваться :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="да мой 1 вынесет всех 1 ударом хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="я поверю на слово, можешь не проверять :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="25,26,26,25,24"
+			y="11,10,9,9,9"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Ghoul"
+defender_weapon="-1"
+seed="134376159"
+tod="second_watch"
+turn="12"
+weapon="1"
+[source]
+
+				x=24
+				y=9
+			[/source]
+[destination]
+
+				x=24
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="24,24,23,23"
+			y="7,8,9,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Ghoul"
+defender_weapon="-1"
+seed="364567564"
+tod="second_watch"
+turn="12"
+weapon="1"
+[source]
+
+				x=23
+				y=10
+			[/source]
+[destination]
+
+				x=24
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="25,25,25"
+			y="13,12,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Saurian Augur"
+defender_lvl="1"
+defender_type="Ghoul"
+defender_weapon="-1"
+seed="1177561114"
+tod="second_watch"
+turn="12"
+weapon="1"
+[source]
+
+				x=25
+				y=11
+			[/source]
+[destination]
+
+				x=24
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="25,25,24,23,22"
+			y="12,11,10,10,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="26,26,25,24,23,23"
+			y="12,11,11,10,10,9"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="1202927566"
+tod="second_watch"
+turn="12"
+weapon="1"
+[source]
+
+				x=18
+				y=9
+			[/source]
+[destination]
+
+				x=19
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="не убегай =("
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="игорь только что к нам заходил"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="подлый трус хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="22,21,20"
+			y="9,9,9"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Fighter"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="999125722"
+tod="second_watch"
+turn="12"
+weapon="1"
+[source]
+
+				x=20
+				y=9
+			[/source]
+[destination]
+
+				x=19
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="26,25,25,25,24,23,22,21,20"
+			y="13,13,12,11,10,10,9,10,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Glider"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="574797208"
+tod="second_watch"
+turn="12"
+weapon="1"
+[source]
+
+				x=20
+				y=10
+			[/source]
+[destination]
+
+				x=19
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="спрашивал как повтор сохранить, ведь они не до конца играли :)"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="26,26,27,28,28,28,28,28"
+			y="11,10,10,9,8,7,6,5"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="27,27,26,25,24,24"
+			y="11,10,9,9,8,7"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="11,10,10,9,8,8"
+			y="9,8,7,7,6,5"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="будем надеяться, что основная команда выживет :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="пычально в общем, да не я проиграл тут хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ты выиграл, я нуб"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="22,23,23"
+			y="12,12,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dark Adept"
+defender_lvl="1"
+defender_type="Drake Burner"
+defender_weapon="1"
+seed="819388095"
+tod="second_watch"
+turn="12"
+weapon="0"
+[source]
+
+				x=23
+				y=11
+			[/source]
+[destination]
+
+				x=23
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="22,22"
+			y="11,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="1"
+defender_type="Drake Burner"
+defender_weapon="0"
+seed="1277990890"
+tod="second_watch"
+turn="12"
+weapon="0"
+[source]
+
+				x=22
+				y=10
+			[/source]
+[destination]
+
+				x=23
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="28,27"
+			y="16,16"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="26,26,26,26,26"
+			y="15,14,13,12,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton Archer"
+defender_lvl="1"
+defender_type="Saurian Augur"
+defender_weapon="1"
+seed="136731140"
+tod="second_watch"
+turn="12"
+weapon="1"
+[source]
+
+				x=26
+				y=11
+			[/source]
+[destination]
+
+				x=25
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну хоть яшерку :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="поплачтесь еще :P"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[choose]
+			value=1
+		[/choose]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="спс"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="25,25,25,25,25,25"
+			y="17,16,15,14,13,12"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Ghost"
+defender_lvl="2"
+defender_type="Saurian Soothsayer"
+defender_weapon="0"
+seed="531366789"
+tod="second_watch"
+turn="12"
+weapon="0"
+[source]
+
+				x=25
+				y=12
+			[/source]
+[destination]
+
+				x=25
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="12,12,12,11,11,11"
+			y="13,12,11,11,10,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="5,6,7,8,9,10,10,11"
+			y="8,8,9,8,8,7,6,6"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="все, основная комнада выжила"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="пойдем беситься дальше :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="21,21,20,19,19,19,20"
+			y="20,19,18,18,17,16,15"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="кстати реном сколько надо нам сыграть?"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=3
+			x=19
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=10988
+		[/random]
+		[random]
+			value=25526
+		[/random]
+		[random]
+			value=20012
+		[/random]
+		[random]
+			value=6701
+		[/random]
+		[random]
+			value=19135
+		[/random]
+		[random]
+			value=5683
+		[/random]
+		[random]
+			value=21953
+		[/random]
+		[random]
+			value=6667
+		[/random]
+		[random]
+			value=3259
+		[/random]
+		[random]
+			value=17656
+		[/random]
+		[random]
+			value=15565
+		[/random]
+		[random]
+			value=22511
+			[results]
+				checksum="zDC<yABq,Ru3KEDmw<8p+JDkyjBHlU2-lPDsrHmMysOW7mnIO6AAqBDnUL7IMNLX>rFrpQ9vJFGvJw55nRDL6qC5Q1ZLmBJpMr+-W27,amzbh6U<97Iu>eG8W56i9bib"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,20,20,20,20"
+			y="20,19,18,17,16"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="3 же вроде"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="т.е.?"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="до 2 побед"
+side="2"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="24,24,23,23"
+			y="7,8,9,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Drake Warrior"
+defender_lvl="1"
+defender_type="Dark Adept"
+defender_weapon="-1"
+seed="900666372"
+tod="dawn"
+turn="13"
+weapon="0"
+[source]
+
+				x=23
+				y=10
+			[/source]
+[destination]
+
+				x=23
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="партий"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="28,28,28,28,27,26,25,24"
+			y="5,6,7,8,9,9,10,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Glider"
+defender_lvl="1"
+defender_type="Dark Adept"
+defender_weapon="-1"
+seed="577830782"
+tod="dawn"
+turn="13"
+weapon="0"
+[source]
+
+				x=24
+				y=10
+			[/source]
+[destination]
+
+				x=23
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="2 или 3"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[choose]
+			value=0
+		[/choose]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="ок"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну когда 2 - все уже ясно"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="если 1 -1 еще одну"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="я прав?"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="эленсефарский двор ваще долгий =/"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="ReNoM"
+message="да"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ой, эту ненавижу. широкие фронты вообще ненавижу"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="25,25,26,27,27"
+			y="11,10,9,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Saurian Soothsayer"
+defender_lvl="1"
+defender_type="Skeleton Archer"
+defender_weapon="0"
+seed="2120559658"
+tod="dawn"
+turn="13"
+weapon="0"
+[source]
+
+				x=27
+				y=11
+			[/source]
+[destination]
+
+				x=26
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="24,25,25"
+			y="9,10,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Ghost"
+defender_weapon="1"
+seed="1065441466"
+tod="dawn"
+turn="13"
+weapon="1"
+[source]
+
+				x=25
+				y=11
+			[/source]
+[destination]
+
+				x=25
+				y=12
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="20,21,22,23,24,25,26"
+			y="9,9,8,9,9,10,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Fighter"
+defender_lvl="1"
+defender_type="Skeleton Archer"
+defender_weapon="0"
+seed="2135042457"
+tod="dawn"
+turn="13"
+weapon="0"
+[source]
+
+				x=26
+				y=10
+			[/source]
+[destination]
+
+				x=26
+				y=11
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="не хватило :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="чуть чуть не расчитал"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну да пох"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="оо, еще один тролль пришел :) дзирт :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="18,19,20,21"
+			y="9,10,9,10"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="974619785"
+tod="dawn"
+turn="13"
+weapon="1"
+[source]
+
+				x=21
+				y=10
+			[/source]
+[destination]
+
+				x=22
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="23,22"
+			y="9,9"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Saurian Soothsayer"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="0"
+seed="1511707493"
+tod="dawn"
+turn="13"
+weapon="0"
+[source]
+
+				x=22
+				y=9
+			[/source]
+[destination]
+
+				x=22
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="20,20,21,22,23,23"
+			y="10,11,12,12,12,11"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Glider"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="1132088944"
+tod="dawn"
+turn="13"
+weapon="1"
+[source]
+
+				x=23
+				y=11
+			[/source]
+[destination]
+
+				x=22
+				y=10
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="8,9,10,11,12"
+			y="5,6,5,5,5"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Saurian Skirmisher"
+defender_lvl="1"
+defender_type="Ghost"
+defender_weapon="0"
+seed="1664362668"
+tod="dawn"
+turn="13"
+weapon="0"
+[source]
+
+				x=12
+				y=5
+			[/source]
+[destination]
+
+				x=11
+				y=6
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ку дзирт"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="26,26,26,26,26,26"
+			y="11,12,13,14,15,16"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,10,10,9,8,8"
+			y="9,8,7,7,6,5"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,10,10,11,11,12"
+			y="6,5,4,4,3,2"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="стата провальная для тебя 3-11"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="не нубил бы так"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="я нупко :Р "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="левый фланг во внимание не беру"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="DzirtTheFreedom"
+message="Привет"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,20,21,22,23,24"
+			y="20,20,20,19,19,18"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20,20,20,20"
+			y="16,17,18,19,20"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=3
+			x=19
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=27453
+		[/random]
+		[random]
+			value=16838
+		[/random]
+		[random]
+			value=21488
+		[/random]
+		[random]
+			value=10120
+		[/random]
+		[random]
+			value=24646
+		[/random]
+		[random]
+			value=14448
+		[/random]
+		[random]
+			value=31814
+		[/random]
+		[random]
+			value=5559
+		[/random]
+		[random]
+			value=6682
+		[/random]
+		[random]
+			value=7493
+		[/random]
+		[random]
+			value=4960
+		[/random]
+		[random]
+			value=10970
+			[results]
+				checksum="zDC<yABq,Ru3KEDmw<8p+JDkyjBHlU2-lPDsrHmMysOW7mnIO6AAqBDnUL7IMNLX>rFrpQ9vJFGvJw55nRDL6qC5Q1ZLmBJpMr+-W27,amzbh6U<97Iu>eG8W56i9bib"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,20"
+			y="20,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="привки, и пичалька :Р"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ладно, отправляю свою потрепанную команду снова в бой :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="27,27,27,28,28,28"
+			y="11,12,13,13,14,15"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Saurian Soothsayer"
+defender_lvl="1"
+defender_type="Dark Adept"
+defender_weapon="0"
+seed="1167359148"
+tod="morning"
+turn="14"
+weapon="1"
+[source]
+
+				x=28
+				y=15
+			[/source]
+[destination]
+
+				x=27
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="у меня баще была команда :P"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="26,27,27,27,27,27"
+			y="10,11,12,13,14,15"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Fighter"
+defender_lvl="1"
+defender_type="Dark Adept"
+defender_weapon="-1"
+seed="1848035628"
+tod="morning"
+turn="14"
+weapon="0"
+[source]
+
+				x=27
+				y=15
+			[/source]
+[destination]
+
+				x=27
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="23,24,25,26,26,26,26,27,27"
+			y="11,10,11,11,12,13,14,15,16"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Glider"
+defender_lvl="1"
+defender_type="Skeleton Archer"
+defender_weapon="1"
+seed="2031051316"
+tod="morning"
+turn="14"
+weapon="1"
+[source]
+
+				x=27
+				y=16
+			[/source]
+[destination]
+
+				x=26
+				y=16
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[choose]
+			value=0
+		[/choose]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="24,25,25,25,25,25,25,25,26,26,26"
+			y="10,11,12,13,14,15,16,17,17,18,19"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[clear_labels]
+			force=no
+			team_name="north"
+		[/clear_labels]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[clear_labels]
+			force=no
+			team_name="north"
+		[/clear_labels]
+	[/command]
+
+	[command]
+		sent=""
+		undo=no
+		[label]
+			color="255,0,0,0"
+			immutable=no
+			team_name=""
+			text="вот какой я наглый :P"
+			visible_in_fog=yes
+			visible_in_shroud=no
+			x=26
+			y=19
+		[/label]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="ненавижу разведчиков тупыхD:"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="25,25,25,26,27,28"
+			y="11,12,13,13,14,14"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="23,22,21,20,19,18,18"
+			y="10,9,9,8,8,7,6"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="22,21,20,19,18"
+			y="9,9,9,10,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="21,20,19,18,18,18,17"
+			y="10,9,9,8,7,6,6"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="12,12,12,12,11"
+			y="5,6,7,8,9"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="ну что слиться мне? :Р"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="та как хошь"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,20"
+			y="19,20"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="но лучше уж в конце то не опозорься, погибни как герой или выиграй наконец :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="не бойся, я нуб"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message=":)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="вон ты меня как в варбанде уделал, хотя редко играешь вообще :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а здесь я реже чем в варбанде"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="варбанд не веснот :Р"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а в весноте я хуже"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[recruit]
+			value=3
+			x=21
+			y=20
+			[from]
+				x=20
+				y=20
+			[/from]
+		[/recruit]
+		[random]
+			value=23964
+		[/random]
+		[random]
+			value=5700
+		[/random]
+		[random]
+			value=8965
+		[/random]
+		[random]
+			value=1493
+		[/random]
+		[random]
+			value=12900
+		[/random]
+		[random]
+			value=19199
+		[/random]
+		[random]
+			value=20653
+		[/random]
+		[random]
+			value=7141
+		[/random]
+		[random]
+			value=13478
+		[/random]
+		[random]
+			value=18251
+		[/random]
+		[random]
+			value=18617
+		[/random]
+		[random]
+			value=10532
+			[results]
+				checksum="zDC<yABq,Ru3KEDmw<8p+JDkyjBHlU2-lPDsrHmMysOW7mnIO6AAqBDnUL7IMNLX>rFrpQ9vJFGvJw55nRDL6qC5Q1ZLmBJpMr+-W27,amzbh6U<97Iu>eG8W56i9bib"
+			[/results]
+		[/random]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="20,19,18,17,16"
+			y="20,21,21,22,22"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="24,23,22,21,20,20"
+			y="18,19,19,20,20,21"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="мне по нраву одиночка XD"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,19,18,17,16,15,14"
+			y="15,16,16,17,17,18,17"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,19,19,19,19,20"
+			y="20,19,18,17,16,15"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="wieker привед"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="да, привет"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="собрались тут хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message=":P"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="интересно ведь :"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message=":)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="посмотреть на нуба? хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="лагать перестало, видно мой серв опустел :)"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="а про скела и приведоса забыл?"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="18,18,18"
+			y="6,5,4"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=0
+			x=17
+			y=5
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=18726
+		[/random]
+		[random]
+			value=32358
+		[/random]
+		[random]
+			value=10074
+		[/random]
+		[random]
+			value=14503
+		[/random]
+		[random]
+			value=32037
+		[/random]
+		[random]
+			value=27029
+		[/random]
+		[random]
+			value=8584
+		[/random]
+		[random]
+			value=11947
+		[/random]
+		[random]
+			value=22997
+		[/random]
+		[random]
+			value=26396
+		[/random]
+		[random]
+			value=10340
+		[/random]
+		[random]
+			value=27038
+		[/random]
+		[random]
+			value=16895
+		[/random]
+		[random]
+			value=19216
+			[results]
+				checksum="vzwMqesp>zA8MDAA67t+PqCJd.d>I554W7NjH-if9<+hY86XC9219-<c56YXe6k5fi1g>.hT<lbbk1a96,eghen,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=2
+			x=19
+			y=5
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=15721
+		[/random]
+		[random]
+			value=4093
+		[/random]
+		[random]
+			value=10560
+		[/random]
+		[random]
+			value=11494
+		[/random]
+		[random]
+			value=23348
+		[/random]
+		[random]
+			value=14557
+		[/random]
+		[random]
+			value=12365
+		[/random]
+		[random]
+			value=7122
+		[/random]
+		[random]
+			value=18602
+		[/random]
+		[random]
+			value=15783
+		[/random]
+		[random]
+			value=14855
+		[/random]
+		[random]
+			value=15585
+		[/random]
+		[random]
+			value=29417
+		[/random]
+		[random]
+			value=27539
+			[results]
+				checksum="KrUUzuBtqMWiQ3A46r2YkpeuWPdPdnei4h-441+J9,b8f0objW9->0ffi1g>.hT<lbbk1a96,egian,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g23ml4R.ag"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=4
+			x=20
+			y=4
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=17730
+		[/random]
+		[random]
+			value=11989
+		[/random]
+		[random]
+			value=31216
+		[/random]
+		[random]
+			value=20709
+		[/random]
+		[random]
+			value=5973
+		[/random]
+		[random]
+			value=20420
+		[/random]
+		[random]
+			value=23565
+		[/random]
+		[random]
+			value=8682
+		[/random]
+		[random]
+			value=865
+		[/random]
+		[random]
+			value=16495
+		[/random]
+		[random]
+			value=27658
+		[/random]
+		[random]
+			value=29105
+		[/random]
+		[random]
+			value=23138
+		[/random]
+		[random]
+			value=16739
+			[results]
+				checksum="Rx7<8697Of8F.>i7gv6H,<b+,aJl.Fen6dNfi3KPin>0kg-dT<3p82Nsx<jcngdg605,Uw<<030wsNAwVUQ65xOoGNqBCHLSEgCQkVLh6I8LO9w9bszC3KtUvxmSWEql"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=2
+			x=18
+			y=3
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=32278
+		[/random]
+		[random]
+			value=14986
+		[/random]
+		[random]
+			value=20471
+		[/random]
+		[random]
+			value=17874
+		[/random]
+		[random]
+			value=30581
+		[/random]
+		[random]
+			value=29248
+		[/random]
+		[random]
+			value=24561
+		[/random]
+		[random]
+			value=22574
+		[/random]
+		[random]
+			value=11495
+		[/random]
+		[random]
+			value=9750
+		[/random]
+		[random]
+			value=157
+		[/random]
+		[random]
+			value=11403
+		[/random]
+		[random]
+			value=15321
+		[/random]
+		[random]
+			value=23170
+			[results]
+				checksum="KrUUzuBtqMWiQ3A46r2YkpeuWPdPdnei4h-441+J9,b8f0objW9->0ffi1g>.hT<lbbk1a96,egian,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g23ml4R.ag"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=5
+			x=20
+			y=3
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=11730
+		[/random]
+		[random]
+			value=31922
+		[/random]
+		[random]
+			value=19022
+		[/random]
+		[random]
+			value=10923
+		[/random]
+		[random]
+			value=6329
+		[/random]
+		[random]
+			value=2564
+		[/random]
+		[random]
+			value=22924
+		[/random]
+		[random]
+			value=25508
+		[/random]
+		[random]
+			value=2143
+		[/random]
+		[random]
+			value=24853
+		[/random]
+		[random]
+			value=6022
+		[/random]
+		[random]
+			value=5990
+		[/random]
+		[random]
+			value=14076
+		[/random]
+		[random]
+			value=15108
+			[results]
+				checksum="PZl,i,kZKZYExlfiQFI<uz2tEQRQdMHJzKAO0PzBEPIaLpBmGtTRCGuNJuvDrBUUrLeDBKsJKwSJKMQPSFRMvOmjqKTIyw9EM7z<DwKArqIeqp5h2FqKIBAvqwJDxTBq"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=2
+			x=19
+			y=4
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=23309
+		[/random]
+		[random]
+			value=25487
+		[/random]
+		[random]
+			value=14337
+		[/random]
+		[random]
+			value=6300
+		[/random]
+		[random]
+			value=14005
+		[/random]
+		[random]
+			value=26589
+		[/random]
+		[random]
+			value=13027
+		[/random]
+		[random]
+			value=29484
+		[/random]
+		[random]
+			value=20104
+		[/random]
+		[random]
+			value=10345
+		[/random]
+		[random]
+			value=32426
+		[/random]
+		[random]
+			value=7974
+		[/random]
+		[random]
+			value=23661
+		[/random]
+		[random]
+			value=22435
+			[results]
+				checksum="KrUUzuBtqMWiQ3A46r2Y9peuWPdPdnei4h0141+J9,b8f0objW9->0ffi1g>.hT<lbbk1a96,eghfn,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g23ml4R.ag"
+			[/results]
+		[/random]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="нет, пусть умрут там, смертью героев. Им уже некуда бежать хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну ок, как хошь"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="17,16,15,14,14,14,13"
+			y="6,5,5,4,3,2,2"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Ghost"
+defender_weapon="1"
+seed="1644912099"
+tod="afternoon"
+turn="15"
+weapon="1"
+[source]
+
+				x=13
+				y=2
+			[/source]
+[destination]
+
+				x=12
+				y=2
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="да и в любом случае я уже только время тяну"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="сдаешься?"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="ноу, сначала убей :Р "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну ок :("
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="вернее, okay guy"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ай, прикольнусь на последок :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="18,17,16,15,14"
+			y="4,5,4,4,4"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="28,28,28,29,30,30"
+			y="15,16,17,18,18,19"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="27,27,27,27,27,27,27,26"
+			y="16,17,18,19,20,21,22,22"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="27,27,27,27,27,26,26"
+			y="15,16,17,18,19,19,20"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="28,27,27,27,27,27"
+			y="14,15,16,17,18,19"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		[move]
+			x="26,25,24,23,22,22,21,20,19,18,17"
+			y="19,20,20,21,21,22,23,23,23,22,22"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Sky Drake"
+defender_lvl="2"
+defender_type="Deathblade"
+defender_weapon="-1"
+seed="45054464"
+tod="afternoon"
+turn="15"
+weapon="1"
+[source]
+
+				x=17
+				y=22
+			[/source]
+[destination]
+
+				x=16
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="18,18,18,17,16"
+			y="9,10,11,12,12"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="мой лучник твоего главного за 1 ход сольет хД ок-да?"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="14,15,16,17,17,17,17"
+			y="17,18,17,18,19,20,21"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dark Adept"
+defender_lvl="2"
+defender_type="Sky Drake"
+defender_weapon="1"
+seed="37732096"
+tod="afternoon"
+turn="15"
+weapon="0"
+[source]
+
+				x=17
+				y=21
+			[/source]
+[destination]
+
+				x=17
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="эмм"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="ниразу за игру адепт 2 раза не попал, фейл"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="тхехе"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну согласен, мне немного лачит - +15% -6%"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="8,7,6,5,4,4"
+			y="5,6,5,6,6,7"
+		[/move]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="20,19,18"
+			y="21,21,21"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="2"
+defender_type="Sky Drake"
+defender_weapon="0"
+seed="680790707"
+tod="afternoon"
+turn="15"
+weapon="0"
+[source]
+
+				x=18
+				y=21
+			[/source]
+[destination]
+
+				x=17
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="куда спрятался? :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Deathblade"
+defender_lvl="2"
+defender_type="Sky Drake"
+defender_weapon="0"
+seed="973813622"
+tod="afternoon"
+turn="15"
+weapon="0"
+[source]
+
+				x=16
+				y=22
+			[/source]
+[destination]
+
+				x=17
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ой глупо"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="лак овер 9000"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="два разведа достают"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="21,20,20,19,18"
+			y="20,20,21,22,22"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="2"
+defender_type="Sky Drake"
+defender_weapon="0"
+seed="806510307"
+tod="afternoon"
+turn="15"
+weapon="0"
+[source]
+
+				x=18
+				y=22
+			[/source]
+[destination]
+
+				x=17
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,19,19,19,19,19"
+			y="15,16,17,18,19,20"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="он с дальней убьют же"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="уже не достают :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="ну все крут гес"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну и х... с ним"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="4 юните, с адептом и главным не могли разведа снести, пичалька"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="понадеюсь на лак"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Sky Drake"
+defender_lvl="2"
+defender_type="Deathblade"
+defender_weapon="-1"
+seed="799044018"
+tod="dusk"
+turn="16"
+weapon="1"
+[source]
+
+				x=17
+				y=22
+			[/source]
+[destination]
+
+				x=16
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="2 ур"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="облом"
+side="1"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,16,16,15,14,14,14"
+			y="12,13,14,15,15,16,17"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="13,12,11,10"
+			y="2,2,3,3"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="10,10,9,8"
+			y="3,4,5,5"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,19,19,19,19,19,19,19"
+			y="5,6,7,8,9,10,11,12"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="43 хп - фигня, особенно для 4 юнитов, герой тоже вроде не 1 =)"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="17,17,18,18,18,18"
+			y="5,6,6,7,8,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,19,19,19,19,19"
+			y="4,5,6,7,8,9,10,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="20,20,20,20,20,20,20"
+			y="4,5,6,7,8,9,10"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="20,20,20,20,20,20,20"
+			y="3,4,5,6,7,8,9"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,18,18,18,18,18,18,18"
+			y="3,4,5,6,7,8,9,10"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="11,11,11,11,11,11,11"
+			y="9,10,11,12,13,14,15"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="14,15,16,17,18"
+			y="4,5,4,5,4"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[recruit]
+			value=2
+			x=19
+			y=5
+			[from]
+				x=18
+				y=4
+			[/from]
+		[/recruit]
+		[random]
+			value=16031
+		[/random]
+		[random]
+			value=28113
+		[/random]
+		[random]
+			value=1737
+		[/random]
+		[random]
+			value=390
+		[/random]
+		[random]
+			value=18560
+		[/random]
+		[random]
+			value=30461
+		[/random]
+		[random]
+			value=9454
+		[/random]
+		[random]
+			value=16759
+		[/random]
+		[random]
+			value=21289
+		[/random]
+		[random]
+			value=21247
+		[/random]
+		[random]
+			value=1774
+		[/random]
+		[random]
+			value=28004
+		[/random]
+		[random]
+			value=2356
+		[/random]
+		[random]
+			value=26481
+			[results]
+				checksum="KrUUzuBtqMWiQ3A16r2Y9peuWPdPdnei4h0241+J9,b8f1objW9->0ffi1g>.hT<lbbk1a96,eghcn,l.3SI-7d3ncFrX8Z3-m8k0YP16.v+J2c7k9,yY8g23ml4R.ag"
+			[/results]
+		[/random]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,18,18"
+			y="4,5,6"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="30,29,28,27,26,25"
+			y="19,20,19,20,19,20"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="7 наблюдателей =-="
+side="2"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="27,26,25,24"
+			y="19,19,20,20"
+		[/move]
+	[/command]
+[command]
+
+		sent=""
+		undo=""
+		[move]
+			x="26,25,24,23,22,21,20"
+			y="20,20,20,20,20,20,19"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Fighter"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="1319034418"
+tod="dusk"
+turn="16"
+weapon="1"
+[source]
+
+				x=20
+				y=19
+			[/source]
+[destination]
+
+				x=19
+				y=20
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="26,25,24,23,22,21,20"
+			y="22,22,21,21,20,20,20"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Sky Drake"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="423109844"
+tod="dusk"
+turn="16"
+weapon="1"
+[source]
+
+				x=20
+				y=20
+			[/source]
+[destination]
+
+				x=19
+				y=20
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="моего фейла хД "
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="17,18,19"
+			y="21,20,21"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Dark Adept"
+defender_lvl="2"
+defender_type="Sky Drake"
+defender_weapon="1"
+seed="100708485"
+tod="dusk"
+turn="16"
+weapon="0"
+[source]
+
+				x=19
+				y=21
+			[/source]
+[destination]
+
+				x=20
+				y=20
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="2"
+defender_type="Sky Drake"
+defender_weapon="0"
+seed="1188207626"
+tod="dusk"
+turn="16"
+weapon="0"
+[source]
+
+				x=18
+				y=22
+			[/source]
+[destination]
+
+				x=17
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="16,15,14,13"
+			y="22,22,21,21"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="13,14,15,16"
+			y="21,21,22,22"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="18,18,17,16"
+			y="21,20,20,19"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="на смерть хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="19,18,17,16,15"
+			y="20,19,19,18,18"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="2"
+defender_type="Saurian Soothsayer"
+defender_weapon="0"
+seed="1599295738"
+tod="dusk"
+turn="16"
+weapon="0"
+[source]
+
+				x=15
+				y=18
+			[/source]
+[destination]
+
+				x=14
+				y=17
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="16,17"
+			y="19,20"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="4,4,4,5,5,5"
+			y="7,8,9,10,11,12"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="25,24,23,22,21,20"
+			y="20,20,21,21,22,21"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Saurian Soothsayer"
+defender_lvl="1"
+defender_type="Dark Adept"
+defender_weapon="0"
+seed="1969503195"
+tod="first_watch"
+turn="17"
+weapon="1"
+[source]
+
+				x=20
+				y=21
+			[/source]
+[destination]
+
+				x=19
+				y=21
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="24,23,22,21,20,19"
+			y="20,21,21,22,21,22"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Burner"
+defender_lvl="1"
+defender_type="Skeleton"
+defender_weapon="-1"
+seed="14204559"
+tod="first_watch"
+turn="17"
+weapon="1"
+[source]
+
+				x=19
+				y=22
+			[/source]
+[destination]
+
+				x=18
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="я тебя доканаю :P"
+side="1"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="20,19,18,18,17"
+			y="20,21,21,22,23"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Sky Drake"
+defender_lvl="2"
+defender_type="Deathblade"
+defender_weapon="-1"
+seed="1799892036"
+tod="first_watch"
+turn="17"
+weapon="1"
+[source]
+
+				x=17
+				y=23
+			[/source]
+[destination]
+
+				x=16
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="у меня спрятан дракон 100лвл"
+side="2"
+[/speak]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="20,19,19,18,17"
+			y="19,20,21,21,22"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Fighter"
+defender_lvl="2"
+defender_type="Deathblade"
+defender_weapon="-1"
+seed="1105771521"
+tod="first_watch"
+turn="17"
+weapon="1"
+[source]
+
+				x=17
+				y=22
+			[/source]
+[destination]
+
+				x=16
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="11,11,11,10,10,10"
+			y="15,16,17,17,18,19"
+		[/move]
+	[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="14,13,13,13,14,15,15"
+			y="17,18,19,20,20,21,22"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Saurian Soothsayer"
+defender_lvl="2"
+defender_type="Deathblade"
+defender_weapon="-1"
+seed="1100512873"
+tod="first_watch"
+turn="17"
+weapon="1"
+[source]
+
+				x=15
+				y=22
+			[/source]
+[destination]
+
+				x=16
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="эхх ты :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="итс импосибл бат итс тру"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,18,18,18,19,19"
+			y="9,10,11,12,13,14"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="20,21,22,22,22,21"
+			y="9,10,10,11,12,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="20,19,19,20,20,20"
+			y="10,11,12,12,13,14"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="18,18,18,19,19,19,20"
+			y="10,11,12,13,14,15,15"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="19,19,20,20,20,20,20,20"
+			y="11,12,12,13,14,15,16,17"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,19,19,19,19,19"
+			y="12,13,14,15,16,17,18,19"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="18,18,18,18,18,18,18"
+			y="6,7,8,9,10,11,12"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		undo=""
+		[move]
+			x="19,19,19,19,19,19,19"
+			y="5,6,7,8,9,10,11"
+		[/move]
+	[/command]
+	[command]
+		sent=""
+		[move]
+			x="8,8"
+			y="5,6"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="8,8,9,10,11"
+			y="6,7,8,8,9"
+		[/move]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="как мне 61 опыта получить за раз?:DD"
+side="2"
+[/speak]
+[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="не знаю :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Deathblade"
+defender_lvl="2"
+defender_type="Saurian Soothsayer"
+defender_weapon="0"
+seed="2065915104"
+tod="first_watch"
+turn="17"
+weapon="0"
+[source]
+
+				x=16
+				y=22
+			[/source]
+[destination]
+
+				x=15
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="15,16,17,17,17"
+			y="18,18,19,20,21"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="1"
+defender_type="Drake Fighter"
+defender_weapon="0"
+seed="718580646"
+tod="first_watch"
+turn="17"
+weapon="0"
+[source]
+
+				x=17
+				y=21
+			[/source]
+[destination]
+
+				x=17
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+
+		sent=""
+		[move]
+			x="17,18,18"
+			y="20,20,21"
+		[/move]
+	[/command]
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Skeleton"
+defender_lvl="1"
+defender_type="Drake Burner"
+defender_weapon="0"
+seed="2113318100"
+tod="first_watch"
+turn="17"
+weapon="0"
+[source]
+
+				x=18
+				y=21
+			[/source]
+[destination]
+
+				x=19
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="5,6,7"
+			y="12,12,13"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[move]
+			x="7,7,7,8"
+			y="13,14,15,15"
+		[/move]
+	[/command]
+
+	[command]
+		sent=""
+		[end_turn]
+		[/end_turn]
+	[/command]
+
+	[command]
+		sent=""
+		[init_side]
+		[/init_side]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ну, тададада - тададада, торжественый момент :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="иии..."
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="готовы? :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="да убей уже хД"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="даже юнитов не переименовывал"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="ладно, не буду тянуть :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message=":)"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="мне стало понятно что сольюсь на 1 ходу, сливай давай"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="2"
+attacker_type="Sky Drake"
+defender_lvl="2"
+defender_type="Deathblade"
+defender_weapon="-1"
+seed="221306046"
+tod="second_watch"
+turn="18"
+weapon="1"
+[source]
+
+				x=17
+				y=23
+			[/source]
+[destination]
+
+				x=16
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+[command]
+sent=""
+[attack]
+attacker_lvl="1"
+attacker_type="Drake Fighter"
+defender_lvl="2"
+defender_type="Deathblade"
+defender_weapon="-1"
+seed="807535672"
+tod="second_watch"
+turn="18"
+weapon="1"
+[source]
+
+				x=17
+				y=22
+			[/source]
+[destination]
+
+				x=16
+				y=22
+			[/destination]
+[/attack]
+[/command]
+
+	[command]
+		sent=""
+		[choose]
+			value=0
+		[/choose]
+	[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="gs_fx"
+message="дааа :)"
+side="1"
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="server"
+message="gs_fx has left the game."
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="server"
+message="andreykko has been chosen as the new host."
+[/speak]
+[/command]
+
+[command]
+[speak]
+id="server"
+message="andreykko takes control of side 1."
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="Keither56"
+message="ну вот"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="ыыыы, может бы вторую игру"
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="побыстрее. Ненавижу такой расклад. "
+side="2"
+[/speak]
+[/command]
+
+[command]
+sent=""
+undo="no"
+[speak]
+id="andreykko"
+message="и gg для ушедшего :Р"
+side="2"
+[/speak]
+[/command]
+[/replay]
+[replay_start]
+current_tod="0"
+description="The Freelands, also known to the people of the far east as The Land of No Kings, lie in between the Wilderlands and the Kingdom of Carorath, separating a land of absolute law from a land of absolute savagery. The people of the Freelands have been battling would-be conquerors of their land for hundreds of years, repelling great beasts from their western borders, and Carorathian Imperialists from their eastern borders."
+experience_modifier="70"
+id="multiplayer_The_Freelands"
+map_data="border_size=1
+usage=map
+
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm^Xm       , _off^_usr   , Hh          , _off^_usr   , Gg^Fet      , _off^_usr   , Gs^Fp       , _off^_usr   , Mm          , _off^_usr   , Ww          , _off^_usr   , Ww          , _off^_usr   , Gg^Efm      , _off^_usr   , Hh          , _off^_usr   , Mm          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm^Xm       , Mm          , Mm^Xm       , Hh          , Gg^Ve       , Gs^Fp       , Hh          , Gg^Uf       , Gs^Fms      , Hh          , Wwf         , Wwf         , Ww          , Ww          , Ss^Vhs      , Gg          , Gs^Fp       , Gs^Fp       , Mm          , Hh^Uf       , Gg^Efm      , Ss          , Gs^Fp       , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Mm          , Hh          , Mm^Xm       , Mm          , Gg^Efm      , Gg          , Gg          , Gg          , Gg^Efm      , Rr          , Wwf         , Ch          , Wwf         , Ch          , Hh          , Gg          , Gg          , Gg          , Ss          , Gs^Fms      , Hh          , Gg          , Gg^Uf       , Gs^Fms      , Wwf         , Hh          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Gs^Fp       , Hh          , Wwf         , Gs^Fms      , Gs^Fp       , Gg^Uf       , Gg          , Gg          , Gg          , Gg          , Mm          , Rr          , Wwf         , Wwf         , Kh          , 1 Kh        , Ch          , Gg          , Gg          , Gg          , Ss          , Gg          , Gg          , Gg          , Hh          , Gg          , Wwf         , Wwf         , Gg^Fet      , Hh          , Mm          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Gg          , Gg          , Wwf         , Wwf         , Ss^Vhs      , Gg          , Gg          , Gg          , Gg^Vh       , Gs^Fp       , Wwf         , Wwf         , Gg          , Ch          , Rr          , Ch          , Rr          , Gg          , Gs^Fp       , Ss          , Mm          , Ss          , Ss          , Gg          , Ss^Vhs      , Gs^Fp       , Wwf         , Wwf         , Wwf         , Wwf         , Wwf         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Wwf         , Hh          , Gg          , Gg^Efm      , Gg          , Gg          , Gg          , Gg          , Gg          , Wwf         , Gg          , Gs^Fp       , Gg          , Gg          , Rr          , Rr          , Gg          , Ss          , Hh          , Gs^Fp       , Hh^Uf       , Gs^Fp       , Gg          , Wwf         , Wwf         , Gg          , Gg          , Gg^Efm      , Wwf         , Mm^Xm       , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Gs^Fms      , Mm^Xm       , Gs^Fp       , Mm          , Gg          , Wwf         , Wwf         , Wwf         , Wwf         , Gs^Fp       , Mm^Xm       , Mm^Xm       , Mm^Xm       , Hh          , Rr          , Gg          , Gg          , Gg          , Gg^Efm      , Gg^Ve       , Hh          , Gg          , Wwf         , Wwf         , Wwf         , Gg          , Gg          , Hh          , Gs^Fms      , Mm^Xm       , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Mm          , Gg^Uf       , Mm^Xm       , Hh          , Wwf         , Gg          , Gg          , Gg          , Gg          , Mm          , Hh^Uf       , Hh^Uf       , Mm^Xm       , Hh          , Rr          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Wwf         , Wwf         , Gg          , Gg          , Gg          , Gg^Uf       , Mm^Xm       , Mm^Xm       , Mm          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Gs^Fp       , Gg          , Gg^Efm      , Wwf         , Wwf         , Gg^Uf       , Gg^Ve       , Gg          , Gg          , Hh          , Mm^Xm       , Gs^Fp       , Gs^Fp       , Hh^Vhh      , Rr          , Hh          , Hh          , Mm          , Gg^Fet      , Gg          , Gg          , Wwf         , Wwf         , Gg          , Gg          , Gg          , Hh          , Mm          , Mm^Xm       , Mm          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Gs^Fms      , Wwf         , Wwf         , Wwf         , Gg          , Gg          , Gg          , Gg          , Gg          , Gg^Efm      , Gs^Fp       , Mm^Xm       , Mm^Xm       , Hh          , Gg          , Rr          , Rr          , Gs^Fp       , Hh          , Hh          , Wwf         , Wwf         , Wwf         , Chr         , Chr         , Hh          , Gg          , Gg^Efm      , Hh          , Mm^Xm       , Mm^Xm       , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Hh          , Wwf         , Hh^Uf       , Mm          , Gs^Fp       , Gg          , Rr          , Gg          , Gg          , Gs          , Mm^Xm       , Mm^Xm       , Mm          , Gs^Fp       , Gg          , Gg          , Wo          , Wo          , Wwf         , Wwf         , Mm^Xm       , Hh          , Gg          , Chw         , Wwf         , Gg^Fet      , Wwf         , Gg          , Gg          , Gs^Fp       , Gs^Fms      , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Wwf         , Wwf         , Hh          , Rr          , Rr          , Rr          , Gg          , Gg          , Gs^Fp       , Mm^Xm       , Mm^Xm       , Hh          , Gg          , Gg          , Ww          , Gg          , Gg          , Hh          , Rr          , Mm^Xm       , Mm          , Gg          , Rr          , Rr          , Wwf         , Rr          , Wwf         , Wwf         , Gg          , Wwf         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Gg^Fet      , Gg          , Gg          , Wwf         , Wwf         , Wwf         , Wwf         , Rr          , Gg          , Mm          , Mm^Xm       , Rr          , Wwf         , Gg          , Wo          , Ww          , Gg          , Gg          , Mm          , Mm^Xm       , Mm^Xm       , Gs^Fms      , Gg          , Gg          , Rr          , Rr          , Gs^Fms      , Hh          , Hh^Uf       , Wwf         , Hh          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm^Xm       , Gs^Fp       , Hh          , Gg          , Gg          , Gs^Fp       , Chr         , Chw         , Wwf         , Hh          , Wwf         , Wwf         , Hh          , Wo          , Rr          , Gg          , Gg          , Gs^Fp       , Mm^Xm       , Mm^Xm       , Gs^Fp       , Gs          , Gg          , Gg          , Gg          , Gg          , Gg          , Mm          , Wwf         , Wwf         , Gs^Fp       , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm          , Mm^Xm       , Mm          , Gg^Efm      , Gg          , Hh          , Gg          , Chr         , Wwf         , Wwf         , Gg          , Hh          , Mm          , Gg^Fet      , Hh          , Rr          , Hh^Vhh      , Hh          , Gs^Fp       , Mm^Xm       , Hh          , Gg^Efm      , Gg          , Gg          , Gg^Uf       , Gg          , Wwf         , Wwf         , Gg          , Wwf         , Wwf         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm          , Mm^Xm       , Mm^Xm       , Hh          , Gg          , Gg          , Gg          , Wwf         , Wwf         , Gg          , Gg          , Gs^Fp       , Gg          , Hh          , Gg          , Rr          , Hh          , Gs^Fp       , Hh^Uf       , Mm^Xm       , Mm          , Gg          , Gg          , Gg^Ve       , Gg          , Wwf         , Hh          , Gg          , Gg^Uf       , Gg^Fet      , Wwf         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm^Xm       , Mm^Xm       , Hh          , Gg^Uf       , Gg          , Gg          , Wwf         , Wwf         , Gg          , Gg          , Gg^Ve       , Gg          , Gg          , Gg          , Gg          , Rr          , Hh          , Mm^Xm       , Mm^Xm       , Hh^Uf       , Gs^Fp       , Gg          , Wwf         , Gg          , Wwf         , Wwf         , Mm          , Mm^Xm       , Mm^Xm       , Mm          , Wwf         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm^Xm       , Gs^Fms      , Gg^Efm      , Gg          , Gg          , Wwf         , Wwf         , Wwf         , Gs^Fms      , Hh          , Gs^Fp       , Gg^Efm      , Ss          , Gg          , Rr          , Rr          , Gg          , Mm^Xm       , Gs^Fp       , Mm^Xm       , Wwf         , Wwf         , Gg          , Wwf         , Gg          , Gg          , Gg          , Gs^Fp       , Hh          , Gs^Fms      , Wwf         , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Wwf         , Wwf         , Gg          , Wwf         , Wwf         , Ss^Vhs      , Gg          , Ss          , Hh^Uf       , Mm          , Hh          , Gs^Fp       , Gg          , Rr          , Rr          , Rr          , Gg          , Gg          , Gg          , Wwf         , Gg          , Gg^Vh       , Gg          , Gg          , Gg          , Ss^Vhs      , Gg          , Wwf         , Wwf         , Gg          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Hh          , Wwf         , Gs^Fp       , Wwf         , Wwf         , Gs^Fp       , Hh          , Gg          , Gg          , Ss          , Ss          , Ss          , Gg          , Gg          , Ch          , Ch          , Kh          , Ch          , Wwf         , Wwf         , Mm          , Gs^Fms      , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Wwf         , Wwf         , Gg          , Gs^Fp       , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Mm          , Hh          , Wwf         , Gs^Fms      , Gg          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          , Ch          , 2 Kh        , Ch          , Wwf         , Rr          , Rr          , Gg          , Gg          , Gg          , Gg          , Gs^Fp       , Gg^Uf       , Hh          , Gs^Fp       , Wwf         , Hh          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Wwf         , Gs^Fp       , Gg^Uf       , Gg^Efm      , Hh          , Mm          , Ss          , Gs^Fp       , Gg          , Ss^Vhs      , Hh          , Ww          , Wwf         , Wwf         , Wwf         , Hh          , Gg          , Gg^Efm      , Gg          , Gg^Ve       , Gg^Efm      , Mm^Xm       , Mm^Xm       , Mm^Xm       , Mm          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , Ss          , Mm          , Hh          , Gs^Fp       , Hh^Uf       , Gg^Efm      , Gg^Efm      , Ww          , Ww          , Ww          , Wwf         , Mm          , Gs^Fp       , Gs^Fp       , Gg^Uf       , Gs^Fp       , Gg^Fet      , Hh          , Hh          , Mm^Xm       , Mm          , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+_off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   , _off^_usr   
+"
+name="2p — The Freelands"
+next_underlying_unit_id="0"
+objectives="<big>" +
+#textdomain wesnoth
+	_"Victory:" +
+	"</big>
+<span foreground=""#00ff00"">&#8226; " +
+	_"Defeat enemy leader(s)" +
+	"</span>"
+observer="yes"
+random_seed="31677"
+random_start_time="no"
+shuffle_sides="no"
+turns="-1"
+version="1.10.3"
+[event]
+
+	name="prestart"
+	[music]
+		ms_before=12000
+		name="knolls.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="wanderer.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="battle.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="transience.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="revelation.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="loyalists.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_king_is_dead.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="knalgan_theme.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_city_falls.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="nunc_dimittis.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="breaking_the_chains.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="elvish-theme.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="legends_of_the_north.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="traveling_minstrels.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="underground.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="vengeful.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="frantic.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_dangerous_symphony.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="heroes_rite.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="suspense.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="the_deep_path.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="siege_of_laurelmor.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="casualties_of_war.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="silvan_sanctuary.ogg"
+	[/music]
+	[music]
+		append=yes
+		ms_before=12000
+		name="battle-epic.ogg"
+	[/music]
+[/event]
+[music]
+
+	ms_before=12000
+	name="knolls.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="wanderer.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="battle.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="transience.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_king_is_dead.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="knalgan_theme.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_city_falls.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="nunc_dimittis.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="revelation.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="loyalists.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="breaking_the_chains.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="elvish-theme.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="legends_of_the_north.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="traveling_minstrels.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="underground.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="vengeful.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="frantic.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_dangerous_symphony.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="heroes_rite.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="suspense.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="the_deep_path.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="siege_of_laurelmor.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="casualties_of_war.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="silvan_sanctuary.ogg"
+[/music]
+[music]
+
+	append=yes
+	ms_before=12000
+	name="battle-epic.ogg"
+[/music]
+[time]
+
+	green=-20
+	id="dawn"
+	image="misc/schedule-dawn.png"
+#textdomain wesnoth-help
+	name=_"Dawn"
+	red=-20
+	sound="ambient/morning.ogg"
+[/time]
+[time]
+
+	id="morning"
+	image="misc/schedule-morning.png"
+	lawful_bonus=25
+	name=_"Morning"
+[/time]
+[time]
+
+	id="afternoon"
+	image="misc/schedule-afternoon.png"
+	lawful_bonus=25
+	name=_"Afternoon"
+[/time]
+[time]
+
+	blue=-20
+	green=-20
+	id="dusk"
+	image="misc/schedule-dusk.png"
+	name=_"Dusk"
+	sound="ambient/night.ogg"
+[/time]
+[time]
+
+	blue=-10
+	green=-35
+	id="first_watch"
+	image="misc/schedule-firstwatch.png"
+	lawful_bonus=-25
+	name=_"First Watch"
+	red=-45
+[/time]
+[time]
+
+	blue=-10
+	green=-35
+	id="second_watch"
+	image="misc/schedule-secondwatch.png"
+	lawful_bonus=-25
+	name=_"Second Watch"
+	red=-45
+[/time]
+[multiplayer]
+
+	experience_modifier=70
+	hash="BmF9rce1ZS4oQ1KbZw5BJmWmaihjIGbcB>cJyno+b0vCw3FNRzgrMZPZtdQwsh57sdIbQLreo3MmcgdICpoy.wg-aaW-2Yd0VdIIygwY5luCr0ciQPP5YL>3pr>lonI<"
+	mp_countdown=no
+	mp_countdown_action_bonus=13
+	mp_countdown_init_time=270
+	mp_countdown_reservoir_time=330
+	mp_countdown_turn_bonus=60
+	mp_era="era_default"
+	mp_fog=yes
+	mp_scenario="multiplayer_The_Freelands"
+	mp_shroud=no
+	mp_use_map_settings=yes
+	mp_village_gold=2
+	observer=yes
+	savegame=no
+	scenario="wesnothlife: gs_fx vs andreykko"
+	shuffle_sides=no
+[/multiplayer]
+[era]
+
+	id="era_default"
+#textdomain wesnoth-multiplayer
+	name=_"Default"
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Random"
+		image="units/random-dice.png"
+		name=_"Random"
+		random_faction=yes
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Loyalists"
+		image="units/human-loyalists/lieutenant.png"
+		leader="Lieutenant,Swordsman,Pikeman,Javelineer,Shock Trooper,Longbowman,White Mage,Red Mage"
+		name=_"Loyalists"
+		random_leader="Lieutenant,Swordsman,Pikeman,Javelineer,Longbowman,White Mage,Red Mage"
+		recruit="Cavalryman,Horseman,Spearman,Fencer,Heavy Infantryman,Bowman,Mage,Merman Fighter"
+		terrain_liked="Gg,Ww,Wo"
+		type="Lieutenant"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,archer,mixed fighter,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Rebels"
+		image="units/elves-wood/captain.png"
+		leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage,Elder Wose"
+		name=_"Rebels"
+		random_leader="Elvish Captain,Elvish Hero,Elvish Ranger,Elvish Marksman,Elvish Druid,Elvish Sorceress,White Mage,Red Mage"
+		recruit="Elvish Fighter,Elvish Archer,Mage,Elvish Shaman,Elvish Scout,Wose,Merman Hunter"
+		terrain_liked="Ff,Fa,Ss,Ww"
+		type="Elvish Captain"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,archer,mixed fighter,healer,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Northerners"
+		image="units/orcs/warrior.png"
+		leader="Orcish Warrior,Troll,Troll Rocklobber,Orcish Crossbowman,Orcish Slayer"
+		name=_"Northerners"
+		recruit="Orcish Grunt,Troll Whelp,Wolf Rider,Orcish Archer,Orcish Assassin,Naga Fighter,Goblin Spearman"
+		terrain_liked="Hh,Ha,Mm,Ss"
+		type="Orcish Warrior"
+		[ai]
+			recruitment_pattern="fighter,fighter,fighter,mixed fighter,archer,scout"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Undead"
+		image="units/undead-necromancers/dark-sorcerer.png"
+		leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter,Necrophage"
+		name=_"Undead"
+		random_leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter"
+		recruit="Skeleton,Skeleton Archer,Walking Corpse,Ghost,Vampire Bat,Dark Adept,Ghoul"
+		terrain_liked="Ss,Hh,Ha,Ww"
+		type="Dark Sorcerer"
+		[ai]
+			recruitment_pattern="fighter,fighter,archer,fighter,scout,archer"
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Knalgan Alliance"
+		image="units/dwarves/steelclad.png"
+		leader="Dwarvish Steelclad,Dwarvish Thunderguard,Dwarvish Stalwart,Rogue,Trapper"
+		name=_"Knalgan Alliance"
+		recruit="Dwarvish Guardsman,Dwarvish Fighter,Dwarvish Ulfserker,Dwarvish Thunderer,Thief,Poacher,Footpad,Gryphon Rider"
+		terrain_liked="Hh,Ha,Mm"
+		type="Dwarvish Steelclad"
+		[ai]
+			[aspect]
+				id="recruitment_pattern"
+				[facet]
+					value="fighter,fighter,fighter,mixed fighter,archer,scout"
+				[/facet]
+			[/aspect]
+		[/ai]
+	[/multiplayer_side]
+	[multiplayer_side]
+		flag_rgb="magenta"
+		id="Drakes"
+		image="units/drakes/flare.png"
+		leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior,Saurian Oracle,Saurian Soothsayer"
+		name=_"Drakes"
+		random_leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior"
+		recruit="Drake Burner,Drake Clasher,Drake Glider,Drake Fighter,Saurian Skirmisher,Saurian Augur"
+		terrain_liked="Hh,Ha,Ds,Ss"
+		type="Drake Flare"
+	[/multiplayer_side]
+	[event]
+		name="prestart"
+		[store_unit]
+			kill=yes
+			variable="leaders_to_make_quick"
+			[filter]
+				canrecruit=yes
+				[filter_wml]
+					max_moves=4
+				[/filter_wml]
+			[/filter]
+		[/store_unit]
+		[set_variable]
+			name="i"
+			value=0
+		[/set_variable]
+		[while]
+			[variable]
+				less_than="$leaders_to_make_quick.length"
+				name="i"
+			[/variable]
+			[do]
+				[if]
+					[variable]
+						boolean_equals=yes
+						name="leaders_to_make_quick[$i].variables.dont_make_me_quick"
+					[/variable]
+					[then]
+						[unstore_unit]
+							variable="leaders_to_make_quick[$i]"
+						[/unstore_unit]
+					[/then]
+					[else]
+						[set_variables]
+							name="temp"
+							[literal]
+								[trait]
+#textdomain wesnoth-help
+									female_name=_"female^quick"
+									id="quick"
+									male_name=_"quick"
+									[effect]
+										apply_to="movement"
+										increase=1
+									[/effect]
+									[effect]
+										apply_to="hitpoints"
+										increase_total="-5%"
+									[/effect]
+								[/trait]
+							[/literal]
+						[/set_variables]
+						[set_variables]
+							mode="append"
+							name="leaders_to_make_quick[$i].modifications.trait"
+							[insert_tag]
+								name="literal"
+								variable="temp.trait"
+							[/insert_tag]
+						[/set_variables]
+						[clear_variable]
+							name="leaders_to_make_quick[$i].max_moves,leaders_to_make_quick[$i].moves,leaders_to_make_quick[$i].max_hitpoints,leaders_to_make_quick[$i].hitpoints"
+						[/clear_variable]
+						[unstore_unit]
+							variable="leaders_to_make_quick[$i]"
+						[/unstore_unit]
+					[/else]
+				[/if]
+				[set_variable]
+					add=1
+					name="i"
+				[/set_variable]
+			[/do]
+		[/while]
+		[clear_variable]
+			name="i"
+		[/clear_variable]
+		[clear_variable]
+			name="leaders_to_make_quick,temp"
+		[/clear_variable]
+	[/event]
+	[event]
+		name="time over"
+		[lua]
+			code="
+                local _ = wesnoth.textdomain ""wesnoth-multiplayer""
+                local function all_sides()
+                    local function f(s, i)
+                        i = i + 1
+                        local t = wesnoth.get_side(i)
+                        return t and i, t
+                    end
+                    return f, nil, 0
+                end
+
+                local income_factor = 5
+
+                local side_num = -1
+                local total_score = -1
+                local side_comparison = """"
+                for side, team in all_sides() do
+                    repeat -- ugly hack to convert 'break' into 'continue'
+                    if team.__cfg.hidden then
+                        break
+                    end
+                    local income = team.total_income * income_factor
+                    local units = 0
+                    -- Calc the total unit-score here
+                    for i, unit in ipairs( wesnoth.get_units { side = side } ) do
+                        if not unit.__cfg.canrecruit then
+                            wesnoth.fire(""unit_worth"", { id = unit.id })
+                            units = units + wesnoth.get_variable(""unit_worth"")
+                        end
+                    end
+                    -- Up to here
+                    local total = units + team.gold + income
+                    local r, g, b = 255, 255, 255
+                    if     team.__cfg.color == 1 then r, g, b = 255,   0,   0
+                    elseif team.__cfg.color == 2 then r, g, b =   0,   0, 255
+                    elseif team.__cfg.color == 3 then r, g, b =   0, 255,   0
+                    elseif team.__cfg.color == 4 then r, g, b = 155,  48, 255
+                    elseif team.__cfg.color == 5 then r, g, b =   0,   0,   0
+                    elseif team.__cfg.color == 6 then r, g, b = 165,  42,  42
+                    elseif team.__cfg.color == 7 then r, g, b = 255, 165,   0
+                    elseif team.__cfg.color == 8 then r, g, b = 255, 255, 255
+                    elseif team.__cfg.color == 9 then r, g, b =   0, 128, 128 end
+                    side_comparison = side_comparison ..
+                        string.format( tostring( _ ""<span foreground='#%02x%02x%02x'>Side %d</span>:  Income score = %d  Unit score = %d  Gold = %d"") .. ""\n"" .. tostring( _ ""Grand total: <b>%d</b>"") .. ""\n"",
+                            r, g, b, side, income, units, team.gold, total)
+                    if total > total_score then
+                        color = string.format(""#%02x%02x%02x"", r, g, b)
+                        side_num = side
+                        total_score = total
+                    end
+                    until true -- end ugly hack
+                end
+                side_comparison = side_comparison ..
+                    string.format( ""\n"" .. tostring( _ ""<span foreground='%s'>Side %d</span> has the advantage.""), color, side_num)
+                wesnoth.fire(""message"", { message = side_comparison, speaker = ""narrator"", image = ""wesnoth-icon.png""})
+            "
+		[/lua]
+	[/event]
+[/era]
+[side]
+allow_changes="yes"
+canrecruit="yes"
+color="1"
+colour="1"
+controller="human"
+current_player="andreykko"
+faction_name="Drakes"
+flag_rgb="magenta"
+fog="yes"
+gender="male"
+gold="100"
+image="units/drakes/flare.png"
+income="0"
+leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior,Saurian Oracle,Saurian Soothsayer"
+name="gs_fx"
+player_id="gs_fx1"
+random_leader="Drake Flare,Fire Drake,Drake Arbiter,Drake Thrasher,Drake Warrior"
+recruit="Drake Burner,Drake Clasher,Drake Glider,Drake Fighter,Saurian Skirmisher,Saurian Augur"
+save_id="gs_fx1"
+share_maps="no"
+share_view="yes"
+shroud="no"
+side="1"
+team_name="north"
+terrain_liked="Hh,Ha,Ds,Ss"
+type="Drake Warrior"
+user_description="gs_fx"
+user_team_name="wesnoth-multiplayerteamname^North"
+village_gold="2"
+[ai]
+
+		villages_per_scout=8
+	[/ai]
+[/side]
+[side]
+allow_changes="yes"
+canrecruit="yes"
+color="2"
+colour="2"
+controller="human"
+current_player="andreykko"
+faction_name="Undead"
+flag_rgb="magenta"
+fog="yes"
+gender="male"
+gold="100"
+image="units/undead-necromancers/dark-sorcerer.png"
+income="0"
+leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter,Necrophage"
+name="andreykko"
+player_id="andreykko2"
+random_leader="Dark Sorcerer,Revenant,Deathblade,Bone Shooter"
+recruit="Skeleton,Skeleton Archer,Walking Corpse,Ghost,Vampire Bat,Dark Adept,Ghoul"
+save_id="andreykko2"
+share_maps="no"
+share_view="yes"
+shroud="no"
+side="2"
+team_name="south"
+terrain_liked="Ss,Hh,Ha,Ww"
+type="Deathblade"
+user_description="andreykko"
+user_team_name="wesnoth-multiplayerteamname^South"
+village_gold="2"
+[ai]
+recruitment_pattern="fighter,fighter,archer,fighter,scout,archer"
+villages_per_scout="8"
+[/ai]
+[ai]
+
+		villages_per_scout=8
+	[/ai]
+[village]
+
+		x=26
+		y=22
+	[/village]
+[/side]
+[/replay_start]
