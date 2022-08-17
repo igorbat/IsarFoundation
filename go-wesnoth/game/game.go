@@ -193,12 +193,12 @@ func (g *Game) scenarioBlock() string {
 
 func (g *Game) carryoverBlock() string {
 	variables := wml.NewData()
+	for optname, optval := range g.Era.Options {
+		variables.AddAttr(optname, optval)
+	}
 	for _, mod := range g.Mods {
-		if len(mod.Options) > 0 {
-			for optname, optval := range mod.Options {
+		for optname, optval := range mod.Options {
 				variables.AddAttr(optname, optval)
-			}
-			
 		}
 	}
 	if len(g.ExtraVariables) > 0 {
