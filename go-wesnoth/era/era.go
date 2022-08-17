@@ -71,25 +71,23 @@ func ParseWithResources(id, path string, prep wesnoth.Preprocessor, res map[stri
 			factions = append (factions, f)
 		}
 	}
-	if len(res) > 0 {
-		newEraContent := wml.NewDataAttrs(eraContent.Attrs)
-		for _, t := range eraContent.Tags {
-			if t.Name != "load_resource" {
-				newEraContent.Tags = append(newEraContent.Tags, t)
-				continue
-			}
-			id := t.Data.GetAttr("id")
-			r, ok := res[id]
-			if !ok {
-				panic("Can't find required resource "+id)
-			}
-			fmt.Println("Events", len(r.Events))
-			for _, event := range r.Events {
-				newEraContent.Tags = append(newEraContent.Tags, &wml.Tag {Name: "event", Data: event})
-			}
+	newEraContent := wml.NewDataAttrs(eraContent.Attrs)
+	for _, t := range eraContent.Tags {
+		if t.Name != "load_resource" {
+			newEraContent.Tags = append(newEraContent.Tags, t)
+			continue
 		}
-		eraContent = newEraContent
+		id := t.Data.GetAttr("id")
+		r, ok := res[id]
+		if !ok {
+			panic("Can't find required resource "+id)
+		}
+		fmt.Println("Events", len(r.Events))
+		for _, event := range r.Events {
+			newEraContent.Tags = append(newEraContent.Tags, &wml.Tag {Name: "event", Data: event})
+		}
 	}
+	eraContent = newEraContent
 	body := wml.NewDataTags(&wml.Tag{Name: "era", Data: eraContent}).String()
 	events := eraContent.GetTags ("event")
 	options := map[string]string{}
