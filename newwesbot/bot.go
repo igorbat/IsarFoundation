@@ -108,10 +108,10 @@ func (b *Bot) GameListen (s *server.Server, greetMsg, extraMsg, unqualifMsg stri
 					s.InGameMessage (welcomeMes)
 					s.InGameMessage (fmt.Sprintf("Winners: don't forget to report typing '/m %s won %d' in the chat. Beware of timer and have fun!", s.Username, id))
 					s.InGameMessage (extraMsg)//("Our discord: https://discord.gg/AmyzYNXrnc")
-					s.LeaveGame()
 					if b.fixFactions != nil {
 						b.fixFactions (id, factions)
 					}
+					s.LeaveGame()
 					return nil
 				}
 			} else if name != s.Username && !s.Observers.ContainsValue(name) {
